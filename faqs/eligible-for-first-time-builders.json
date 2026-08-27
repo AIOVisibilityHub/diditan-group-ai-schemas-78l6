@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Eligible for first-time builders?",
+  "description": "Yes, with guidance; Diditan educates on process.diditangroup​",
+  "url": "https://diditangroup.com/faq/eligible-for-first-time-builders",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Eligible for first-time builders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with guidance; Diditan educates on process.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

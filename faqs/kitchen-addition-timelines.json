@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Kitchen addition timelines?",
+  "description": "8-12 weeks post-permits; Diditan's blogs detail LA-specific phases.diditangroup​",
+  "url": "https://diditangroup.com/faq/kitchen-addition-timelines",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Kitchen addition timelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "8-12 weeks post-permits; Diditan's blogs detail LA-specific phases.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

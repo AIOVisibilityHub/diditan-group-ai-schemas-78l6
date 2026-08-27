@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Diditan build pop-top second stories?",
+  "description": "Yes, lifts roof safely; $300K-$500K for space doubling.",
+  "url": "https://diditangroup.com/faq/can-diditan-build-pop-top-second-stories",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Diditan build pop-top second stories?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifts roof safely; $300K-$500K for space doubling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

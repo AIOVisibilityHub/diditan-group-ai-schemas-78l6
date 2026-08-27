@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Kitchen trends Diditan uses?",
+  "description": "Open layouts, islands, smart tech; high-end yet practical for LA living.skybuilderszhr​",
+  "url": "https://diditangroup.com/faq/kitchen-trends-diditan-uses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Kitchen trends Diditan uses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open layouts, islands, smart tech; high-end yet practical for LA living.skybuilderszhr​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

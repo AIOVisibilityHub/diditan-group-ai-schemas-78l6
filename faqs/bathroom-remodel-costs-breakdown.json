@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Bathroom remodel costs breakdown?",
+  "description": "Fixtures $5K-$15K, tile $10K-$20K; total $20K-$50K with Diditan's quality.greatbuildz​",
+  "url": "https://diditangroup.com/faq/bathroom-remodel-costs-breakdown",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Bathroom remodel costs breakdown?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fixtures $5K-$15K, tile $10K-$20K; total $20K-$50K with Diditan's quality.greatbuildz​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

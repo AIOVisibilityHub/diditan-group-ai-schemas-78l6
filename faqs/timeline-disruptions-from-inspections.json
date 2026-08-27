@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Timeline disruptions from inspections?",
+  "description": "Phased for CO; Diditan expedites punch lists.diditangroup​",
+  "url": "https://diditangroup.com/faq/timeline-disruptions-from-inspections",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Timeline disruptions from inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Phased for CO; Diditan expedites punch lists.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

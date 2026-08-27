@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why choose Diditan for multi-unit investment?",
+  "description": "Integrated services reduce risks, with proven tenant-friendly results and strong ROI focus.diditangroup+1",
+  "url": "https://diditangroup.com/faq/why-choose-diditan-for-multi-unit-investment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why choose Diditan for multi-unit investment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Integrated services reduce risks, with proven tenant-friendly results and strong ROI focus.diditangroup+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I convert garage to ADU?",
+  "description": "Yes, popular LA option; Diditan's Leo Evans project added appeal/value.diditangroup​",
+  "url": "https://diditangroup.com/faq/can-i-convert-garage-to-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I convert garage to ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, popular LA option; Diditan's Leo Evans project added appeal/value.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

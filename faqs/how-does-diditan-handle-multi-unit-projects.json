@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Diditan handle multi-unit projects?",
+  "description": "They manage full lifecycle: site selection, design, permits, construction, tenant coordination, and financing under one roof for seamless execution.diditangroup",
+  "url": "https://diditangroup.com/faq/how-does-diditan-handle-multi-unit-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Diditan handle multi-unit projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They manage full lifecycle: site selection, design, permits, construction, tenant coordination, and financing under one roof for seamless execution.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Diditan integrate outdoor kitchens in additions?",
+  "description": "Yes, with gas lines/BBQs blending indoor-outdoor LA living; $50K-$100K range.",
+  "url": "https://diditangroup.com/faq/can-diditan-integrate-outdoor-kitchens-in-additions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Diditan integrate outdoor kitchens in additions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with gas lines/BBQs blending indoor-outdoor LA living; $50K-$100K range."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

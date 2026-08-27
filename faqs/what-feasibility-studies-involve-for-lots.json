@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What feasibility studies involve for lots?",
+  "description": "Zoning, soil, utilities check; Diditan confirms build potential pre-purchase.",
+  "url": "https://diditangroup.com/faq/what-feasibility-studies-involve-for-lots",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What feasibility studies involve for lots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zoning, soil, utilities check; Diditan confirms build potential pre-purchase."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

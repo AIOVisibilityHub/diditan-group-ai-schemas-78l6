@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas does Diditan serve?",
+  "description": "Greater LA: Sherman Oaks, Encino, Studio City, Miracle Mile, Palm Springs, and more. diditangroup​",
+  "url": "https://diditangroup.com/faq/what-areas-does-diditan-serve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas does Diditan serve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Greater LA: Sherman Oaks, Encino, Studio City, Miracle Mile, Palm Springs, and more. diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

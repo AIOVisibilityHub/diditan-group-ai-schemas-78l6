@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Diditan select subcontractors?",
+  "description": "Vetted for quality and reliability; clients praise their trades for precision on luxury projects. diditangroup​",
+  "url": "https://diditangroup.com/faq/how-does-diditan-select-subcontractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Diditan select subcontractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vetted for quality and reliability; clients praise their trades for precision on luxury projects. diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

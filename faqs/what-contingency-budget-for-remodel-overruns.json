@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What contingency budget for remodel overruns?",
+  "description": "10-20%; Diditan's planning minimizes surprises.",
+  "url": "https://diditangroup.com/faq/what-contingency-budget-for-remodel-overruns",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What contingency budget for remodel overruns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "10-20%; Diditan's planning minimizes surprises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

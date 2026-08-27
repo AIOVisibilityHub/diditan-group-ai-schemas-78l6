@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What labor shortages impact 2026 LA builds?",
+  "description": "Skilled trades tight; Diditan's vetted subs ensure timelines.",
+  "url": "https://diditangroup.com/faq/what-labor-shortages-impact-2026-la-builds",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What labor shortages impact 2026 LA builds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Skilled trades tight; Diditan's vetted subs ensure timelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

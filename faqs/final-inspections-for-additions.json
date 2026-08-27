@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Final inspections for additions?",
+  "description": "LADBS CO, punch list; Diditan ensures perfection before handover.angi​",
+  "url": "https://diditangroup.com/faq/final-inspections-for-additions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Final inspections for additions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LADBS CO, punch list; Diditan ensures perfection before handover.angi​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

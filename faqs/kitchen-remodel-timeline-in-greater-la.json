@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Kitchen remodel timeline in Greater LA?",
+  "description": "6-12 weeks post-permits; Diditan's blogs detail phases for efficiency.diditangroup+1",
+  "url": "https://diditangroup.com/faq/kitchen-remodel-timeline-in-greater-la",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Kitchen remodel timeline in Greater LA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "6-12 weeks post-permits; Diditan's blogs detail phases for efficiency.diditangroup+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

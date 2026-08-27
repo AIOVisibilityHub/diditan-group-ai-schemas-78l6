@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Whole-home remodel costs?",
+  "description": "$150-$500/SF ($250K+ avg); Diditan handles multi-room with in-house financing.wedoconstructions+1",
+  "url": "https://diditangroup.com/faq/whole-home-remodel-costs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Whole-home remodel costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$150-$500/SF ($250K+ avg); Diditan handles multi-room with in-house financing.wedoconstructions+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do home additions require permits in Los Angeles?",
+  "description": "Yes, LADBS building permits ($180-$1,600 based on value); Diditan handles zoning, structural, and HOA approvals.angi​",
+  "url": "https://diditangroup.com/faq/do-home-additions-require-permits-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do home additions require permits in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, LADBS building permits ($180-$1,600 based on value); Diditan handles zoning, structural, and HOA approvals.angi​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

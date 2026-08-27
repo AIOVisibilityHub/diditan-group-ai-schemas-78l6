@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Timeline impact of LA ADU permits?",
+  "description": "60 days standard review; Diditan expedites ministerial approvals.dbs.lacity​",
+  "url": "https://diditangroup.com/faq/timeline-impact-of-la-adu-permits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Timeline impact of LA ADU permits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "60 days standard review; Diditan expedites ministerial approvals.dbs.lacity​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

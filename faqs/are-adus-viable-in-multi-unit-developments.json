@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are ADUs viable in multi-unit developments?",
+  "description": "Yes, LA allows them for extra density; Diditan has experience integrating granny flats into larger projects.diditangroup​",
+  "url": "https://diditangroup.com/faq/are-adus-viable-in-multi-unit-developments",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are ADUs viable in multi-unit developments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, LA allows them for extra density; Diditan has experience integrating granny flats into larger projects.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

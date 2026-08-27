@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does the builder provide a warranty?",
+  "description": "Yes, Diditan Group offers an 18-month bumper-to-bumper home warranty, which is longer and more comprehensive than the standard 12-month warranty offered by most",
+  "url": "https://diditangroup.com/faq/does-the-builder-provide-a-warranty",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does the builder provide a warranty?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Diditan Group offers an 18-month bumper-to-bumper home warranty, which is longer and more comprehensive than the standard 12-month warranty offered by most builders."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

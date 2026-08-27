@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Diditan do smart home integration?",
+  "description": "Yes, automated lighting/security in every modern build.diditangroup​",
+  "url": "https://diditangroup.com/faq/does-diditan-do-smart-home-integration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Diditan do smart home integration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, automated lighting/security in every modern build.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

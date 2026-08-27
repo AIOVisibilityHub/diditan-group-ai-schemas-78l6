@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Outdoor features in custom constructions?",
+  "description": "Pools, decks; blends indoor-outdoor LA luxury seamlessly.diditangroup​",
+  "url": "https://diditangroup.com/faq/outdoor-features-in-custom-constructions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Outdoor features in custom constructions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pools, decks; blends indoor-outdoor LA luxury seamlessly.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

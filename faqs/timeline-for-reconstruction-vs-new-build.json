@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Timeline for reconstruction vs. new build?",
+  "description": "Similar 10-16 months; reconstruction leverages existing foundation.diditangroup​",
+  "url": "https://diditangroup.com/faq/timeline-for-reconstruction-vs-new-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Timeline for reconstruction vs. new build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Similar 10-16 months; reconstruction leverages existing foundation.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

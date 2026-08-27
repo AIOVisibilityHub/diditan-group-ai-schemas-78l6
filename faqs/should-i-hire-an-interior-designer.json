@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I hire an interior designer?",
+  "description": "Recommended; Diditan collaborates with designers for finishes while focusing on structure. casongrayehomes​",
+  "url": "https://diditangroup.com/faq/should-i-hire-an-interior-designer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I hire an interior designer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recommended; Diditan collaborates with designers for finishes while focusing on structure. casongrayehomes​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

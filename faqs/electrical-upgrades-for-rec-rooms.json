@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Electrical upgrades for rec rooms?",
+  "description": "Dedicated circuits, LED; Diditan integrates smart controls.diditangroup​",
+  "url": "https://diditangroup.com/faq/electrical-upgrades-for-rec-rooms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Electrical upgrades for rec rooms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dedicated circuits, LED; Diditan integrates smart controls.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Diditan build ADUs or granny flats?",
+  "description": "Yes, they've completed garage conversions and ADUs with high craftsmanship for added value. diditangroup​",
+  "url": "https://diditangroup.com/faq/does-diditan-build-adus-or-granny-flats",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Diditan build ADUs or granny flats?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, they've completed garage conversions and ADUs with high craftsmanship for added value. diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

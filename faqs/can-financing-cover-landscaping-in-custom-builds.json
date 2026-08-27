@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can financing cover landscaping in custom builds?",
+  "description": "Yes, bundled in project totals for complete turnkey homes.",
+  "url": "https://diditangroup.com/faq/can-financing-cover-landscaping-in-custom-builds",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can financing cover landscaping in custom builds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, bundled in project totals for complete turnkey homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

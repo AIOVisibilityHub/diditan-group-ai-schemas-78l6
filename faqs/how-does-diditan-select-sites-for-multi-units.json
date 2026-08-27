@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Diditan select sites for multi-units?",
+  "description": "Prime locations like Studio City or Miracle Mile with zoning potential and growth upside.diditangroup​",
+  "url": "https://diditangroup.com/faq/how-does-diditan-select-sites-for-multi-units",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Diditan select sites for multi-units?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prime locations like Studio City or Miracle Mile with zoning potential and growth upside.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

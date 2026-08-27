@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Seismic requirements for ADUs?",
+  "description": "Meet CA building code; Diditan ensures retrofits for safe luxury builds.dbs.lacity​",
+  "url": "https://diditangroup.com/faq/seismic-requirements-for-adus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Seismic requirements for ADUs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Meet CA building code; Diditan ensures retrofits for safe luxury builds.dbs.lacity​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do LA seismic codes affect additions?",
+  "description": "Strict retrofits required; Diditan ensures compliance for safe, value-boosting expansions.angi​",
+  "url": "https://diditangroup.com/faq/how-do-la-seismic-codes-affect-additions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do LA seismic codes affect additions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strict retrofits required; Diditan ensures compliance for safe, value-boosting expansions.angi​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build a luxury home?",
+  "description": "Building a luxury home typically costs between $2 million to $7 million, depending on factors such as location, size, design complexity, materials, and upscale",
+  "url": "https://diditangroup.com/faq/how-much-does-it-cost-to-build-a-luxury-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build a luxury home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a luxury home typically costs between $2 million to $7 million, depending on factors such as location, size, design complexity, materials, and upscale amenities included in the project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Bedroom upgrade ideas from Diditan?",
+  "description": "Built-ins, en-suites, lighting; transforms spaces cost-effectively.diditangroup​",
+  "url": "https://diditangroup.com/faq/bedroom-upgrade-ideas-from-diditan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Bedroom upgrade ideas from Diditan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Built-ins, en-suites, lighting; transforms spaces cost-effectively.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

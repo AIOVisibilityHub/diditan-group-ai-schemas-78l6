@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a home addition cost in Los Angeles?",
+  "description": "$160-$400/SF for ground-level (bump-out) additions; $600-$1,000/SF for second-story; averages $60K-$157K total with Diditan's luxury finishes.angi​",
+  "url": "https://diditangroup.com/faq/how-much-does-a-home-addition-cost-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a home addition cost in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$160-$400/SF for ground-level (bump-out) additions; $600-$1,000/SF for second-story; averages $60K-$157K total with Diditan's luxury finishes.angi​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

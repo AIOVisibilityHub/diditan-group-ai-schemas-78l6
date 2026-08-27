@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does a home addition increase property value?",
+  "description": "Yes, 50-80% ROI typical in Greater LA; Diditan clients see major appeal gains from quality craftsmanship.snowconstructionla​",
+  "url": "https://diditangroup.com/faq/does-a-home-addition-increase-property-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does a home addition increase property value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 50-80% ROI typical in Greater LA; Diditan clients see major appeal gains from quality craftsmanship.snowconstructionla​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

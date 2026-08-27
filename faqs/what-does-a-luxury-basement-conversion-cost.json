@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a luxury basement conversion cost?",
+  "description": "$50-$150/SF ($50K-$150K+ total); project-dependent on size/features like Diditan's quality.greatbuildz​",
+  "url": "https://diditangroup.com/faq/what-does-a-luxury-basement-conversion-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a luxury basement conversion cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$50-$150/SF ($50K-$150K+ total); project-dependent on size/features like Diditan's quality.greatbuildz​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

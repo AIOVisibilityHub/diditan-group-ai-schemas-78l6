@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Garage addition or conversion costs?",
+  "description": "$53K-$61K detached; Diditan excels here, boosting value like Leo Evans project.angi+1",
+  "url": "https://diditangroup.com/faq/garage-addition-or-conversion-costs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Garage addition or conversion costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$53K-$61K detached; Diditan excels here, boosting value like Leo Evans project.angi+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

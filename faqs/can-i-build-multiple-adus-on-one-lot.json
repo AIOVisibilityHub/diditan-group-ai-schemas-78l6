@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I build multiple ADUs on one lot?",
+  "description": "Up to 2 in LA (one attached, one detached); Diditan handles multi-unit compliance.bwslaw​",
+  "url": "https://diditangroup.com/faq/can-i-build-multiple-adus-on-one-lot",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I build multiple ADUs on one lot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Up to 2 in LA (one attached, one detached); Diditan handles multi-unit compliance.bwslaw​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

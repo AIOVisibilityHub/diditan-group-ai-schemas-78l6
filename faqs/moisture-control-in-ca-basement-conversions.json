@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Moisture control in CA basement conversions?",
+  "description": "Vapor barriers, drainage; Diditan prevents issues in humid microclimates.greatbuildz​",
+  "url": "https://diditangroup.com/faq/moisture-control-in-ca-basement-conversions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Moisture control in CA basement conversions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vapor barriers, drainage; Diditan prevents issues in humid microclimates.greatbuildz​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

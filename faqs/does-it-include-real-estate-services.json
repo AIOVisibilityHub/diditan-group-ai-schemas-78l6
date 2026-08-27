@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does it include real estate services?",
+  "description": "Bundled with Diditan's investment advice for property acquisition/build-sell.diditangroup​",
+  "url": "https://diditangroup.com/faq/does-it-include-real-estate-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does it include real estate services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bundled with Diditan's investment advice for property acquisition/build-sell.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

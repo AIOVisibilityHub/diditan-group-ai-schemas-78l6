@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why Diditan for basement conversions?",
+  "description": "Proven on complex remodels; delivers personalized masterpieces.diditangroup+1",
+  "url": "https://diditangroup.com/faq/why-diditan-for-basement-conversions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why Diditan for basement conversions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proven on complex remodels; delivers personalized masterpieces.diditangroup+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

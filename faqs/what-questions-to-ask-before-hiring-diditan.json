@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What questions to ask before hiring Diditan?",
+  "description": "Experience in your style/zone, license verification, past LA projects, and change order policies.",
+  "url": "https://diditangroup.com/faq/what-questions-to-ask-before-hiring-diditan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What questions to ask before hiring Diditan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Experience in your style/zone, license verification, past LA projects, and change order policies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Final steps for ADU occupancy?",
+  "description": "CO inspection, utilities on; Diditan handles walkthrough/punch list.dbs.lacity​",
+  "url": "https://diditangroup.com/faq/final-steps-for-adu-occupancy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Final steps for ADU occupancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CO inspection, utilities on; Diditan handles walkthrough/punch list.dbs.lacity​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

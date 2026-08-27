@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why choose Diditan for additions?",
+  "description": "Proven on complex remodels/additions with communication, savings, and \"dream home\" results.diditangroup+1",
+  "url": "https://diditangroup.com/faq/why-choose-diditan-for-additions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why choose Diditan for additions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proven on complex remodels/additions with communication, savings, and \"dream home\" results.diditangroup+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does it boost home value in LA?",
+  "description": "50-70% ROI; Diditan's craftsmanship adds appeal like other remodels.wedoconstructions​",
+  "url": "https://diditangroup.com/faq/does-it-boost-home-value-in-la",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does it boost home value in LA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "50-70% ROI; Diditan's craftsmanship adds appeal like other remodels.wedoconstructions​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

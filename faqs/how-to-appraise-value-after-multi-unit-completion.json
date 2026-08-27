@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to appraise value after multi-unit completion?",
+  "description": "Independent MAI; Diditan's quality supports premium valuations.",
+  "url": "https://diditangroup.com/faq/how-to-appraise-value-after-multi-unit-completion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to appraise value after multi-unit completion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Independent MAI; Diditan's quality supports premium valuations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

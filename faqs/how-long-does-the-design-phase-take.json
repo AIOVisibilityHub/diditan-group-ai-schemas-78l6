@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the design phase take?",
+  "description": "The design phase typically takes around 3 to 6 months, varying by how customized the client wants the home to be and the extent of architectural input required.",
+  "url": "https://diditangroup.com/faq/how-long-does-the-design-phase-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the design phase take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The design phase typically takes around 3 to 6 months, varying by how customized the client wants the home to be and the extent of architectural input required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

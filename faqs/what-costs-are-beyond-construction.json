@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What costs are beyond construction?",
+  "description": "Permits, utilities, landscaping; Diditan quotes include these for transparency. sheffieldhomes​",
+  "url": "https://diditangroup.com/faq/what-costs-are-beyond-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What costs are beyond construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permits, utilities, landscaping; Diditan quotes include these for transparency. sheffieldhomes​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

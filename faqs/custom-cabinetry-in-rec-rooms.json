@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Custom cabinetry in rec rooms?",
+  "description": "Built-ins for storage/media; Diditan's detail-oriented approach.houzz​",
+  "url": "https://diditangroup.com/faq/custom-cabinetry-in-rec-rooms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Custom cabinetry in rec rooms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Built-ins for storage/media; Diditan's detail-oriented approach.houzz​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

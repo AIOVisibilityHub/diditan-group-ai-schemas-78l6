@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Egress window requirements?",
+  "description": "One per bedroom/sleeping area; Diditan installs code-compliant for safety.wedoconstructions​",
+  "url": "https://diditangroup.com/faq/egress-window-requirements",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Egress window requirements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One per bedroom/sleeping area; Diditan installs code-compliant for safety.wedoconstructions​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

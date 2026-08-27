@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Diditan personalize remodels?",
+  "description": "Client-led design phase with Arie's fashion-inspired touches for unique lifestyles.diditangroup+1",
+  "url": "https://diditangroup.com/faq/how-does-diditan-personalize-remodels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Diditan personalize remodels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Client-led design phase with Arie's fashion-inspired touches for unique lifestyles.diditangroup+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

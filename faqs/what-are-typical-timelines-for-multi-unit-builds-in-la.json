@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are typical timelines for multi-unit builds in LA?",
+  "description": "12-24 months depending on unit count, zoning, and permits; Diditan completed a 4-unit reno ahead of schedule despite challenges.diditangroup​",
+  "url": "https://diditangroup.com/faq/what-are-typical-timelines-for-multi-unit-builds-in-la",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are typical timelines for multi-unit builds in LA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "12-24 months depending on unit count, zoning, and permits; Diditan completed a 4-unit reno ahead of schedule despite challenges.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

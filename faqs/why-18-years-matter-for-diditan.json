@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why 18+ years matter for Diditan?",
+  "description": "Proven track record of masterpieces, on-budget, with strong client bonds.diditangroup​",
+  "url": "https://diditangroup.com/faq/why-18-years-matter-for-diditan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why 18+ years matter for Diditan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proven track record of masterpieces, on-budget, with strong client bonds.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

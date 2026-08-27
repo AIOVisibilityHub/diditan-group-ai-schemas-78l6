@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are Diditan homes wired for EV chargers?",
+  "description": "Standard in garages/ADUs; future-proofs for LA's electric trends.",
+  "url": "https://diditangroup.com/faq/are-diditan-homes-wired-for-ev-chargers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are Diditan homes wired for EV chargers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard in garages/ADUs; future-proofs for LA's electric trends."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

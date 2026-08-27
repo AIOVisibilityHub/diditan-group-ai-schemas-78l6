@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Diditan offer post-project maintenance plans?",
+  "description": "Custom service contracts for ongoing luxury home care.",
+  "url": "https://diditangroup.com/faq/does-diditan-offer-post-project-maintenance-plans",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Diditan offer post-project maintenance plans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom service contracts for ongoing luxury home care."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

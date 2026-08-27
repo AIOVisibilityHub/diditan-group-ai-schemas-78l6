@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What size homes does Diditan build?",
+  "description": "2,000-8,000+ SF; scalable for families or estates in Greater LA.houzz​",
+  "url": "https://diditangroup.com/faq/what-size-homes-does-diditan-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What size homes does Diditan build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2,000-8,000+ SF; scalable for families or estates in Greater LA.houzz​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I rent out a granny flat short-term?",
+  "description": "Yes, unless RSO applies (pre-1978 homes); new ADUs often exempt—Diditan advises compliance.housing.lacity​",
+  "url": "https://diditangroup.com/faq/can-i-rent-out-a-granny-flat-short-term",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I rent out a granny flat short-term?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, unless RSO applies (pre-1978 homes); new ADUs often exempt—Diditan advises compliance.housing.lacity​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to maximize addition ROI?",
+  "description": "Focus on bedrooms/baths; Diditan's bespoke designs yield strong returns in prime LA areas.snowconstructionla​",
+  "url": "https://diditangroup.com/faq/how-to-maximize-addition-roi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to maximize addition ROI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Focus on bedrooms/baths; Diditan's bespoke designs yield strong returns in prime LA areas.snowconstructionla​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Post-remodel punch list process?",
+  "description": "Final walkthrough, fixes; Diditan ensures perfection per reviews.diditangroup​",
+  "url": "https://diditangroup.com/faq/post-remodel-punch-list-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Post-remodel punch list process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Final walkthrough, fixes; Diditan ensures perfection per reviews.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

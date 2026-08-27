@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is value engineering?",
+  "description": "Optimizing design for cost savings without quality loss, like efficient layouts Diditan uses. casongrayehomes​",
+  "url": "https://diditangroup.com/faq/what-is-value-engineering",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is value engineering?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Optimizing design for cost savings without quality loss, like efficient layouts Diditan uses. casongrayehomes​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

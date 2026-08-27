@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are basements viable for wine cellars?",
+  "description": "Climate-controlled; Diditan crafts humidity-perfect storage.",
+  "url": "https://diditangroup.com/faq/are-basements-viable-for-wine-cellars",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are basements viable for wine cellars?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Climate-controlled; Diditan crafts humidity-perfect storage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

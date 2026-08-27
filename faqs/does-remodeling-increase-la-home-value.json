@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does remodeling increase LA home value?",
+  "description": "60-80% ROI on kitchens/baths; Diditan clients report major appeal boosts.wedoconstructions​",
+  "url": "https://diditangroup.com/faq/does-remodeling-increase-la-home-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does remodeling increase LA home value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "60-80% ROI on kitchens/baths; Diditan clients report major appeal boosts.wedoconstructions​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

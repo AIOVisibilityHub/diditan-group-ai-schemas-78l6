@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is custom building worth it vs. buying?",
+  "description": "Yes for personalization, quality, and value in LA's market, per client outcomes. sheffieldhomes​",
+  "url": "https://diditangroup.com/faq/is-custom-building-worth-it-vs-buying",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is custom building worth it vs. buying?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for personalization, quality, and value in LA's market, per client outcomes. sheffieldhomes​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

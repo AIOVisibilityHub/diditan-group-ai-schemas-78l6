@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Diditan offer financing for multi-unit projects?",
+  "description": "Yes, in-house financing secures competitive rates, streamlining funding for developers and investors in Greater LA.diditangroup​",
+  "url": "https://diditangroup.com/faq/does-diditan-offer-financing-for-multi-unit-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Diditan offer financing for multi-unit projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in-house financing secures competitive rates, streamlining funding for developers and investors in Greater LA.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

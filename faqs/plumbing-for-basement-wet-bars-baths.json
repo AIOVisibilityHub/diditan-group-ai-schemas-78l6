@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Plumbing for basement wet bars/baths?",
+  "description": "$10K-$25K reroute; Diditan adds seamlessly to layouts.greatbuildz​",
+  "url": "https://diditangroup.com/faq/plumbing-for-basement-wet-bars-baths",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Plumbing for basement wet bars/baths?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$10K-$25K reroute; Diditan adds seamlessly to layouts.greatbuildz​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What resale impact of luxury kitchen remodels?",
+  "description": "70%+ ROI; Diditan's pro-grade appliances shine.",
+  "url": "https://diditangroup.com/faq/what-resale-impact-of-luxury-kitchen-remodels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What resale impact of luxury kitchen remodels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "70%+ ROI; Diditan's pro-grade appliances shine."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

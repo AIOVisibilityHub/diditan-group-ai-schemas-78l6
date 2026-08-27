@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Diditan add a second story to my home?",
+  "description": "Yes, with structural engineering for seismic safety; costs $350K+ but doubles space in Sherman Oaks-style neighborhoods.angi​",
+  "url": "https://diditangroup.com/faq/can-diditan-add-a-second-story-to-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Diditan add a second story to my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with structural engineering for seismic safety; costs $350K+ but doubles space in Sherman Oaks-style neighborhoods.angi​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

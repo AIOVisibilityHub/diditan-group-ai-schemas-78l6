@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are rates competitive with banks?",
+  "description": "Yes, Diditan offers market-beating rates via established partnerships since 2007.yelp+1",
+  "url": "https://diditangroup.com/faq/are-rates-competitive-with-banks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are rates competitive with banks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Diditan offers market-beating rates via established partnerships since 2007.yelp+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

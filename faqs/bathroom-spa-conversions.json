@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Bathroom spa conversions?",
+  "description": "$30K-$70K for rain showers, heated floors; Diditan's craftsmanship shines.greatbuildz​",
+  "url": "https://diditangroup.com/faq/bathroom-spa-conversions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Bathroom spa conversions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$30K-$70K for rain showers, heated floors; Diditan's craftsmanship shines.greatbuildz​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

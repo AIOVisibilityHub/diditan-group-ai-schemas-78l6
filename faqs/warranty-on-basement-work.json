@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Warranty on basement work?",
+  "description": "1-10 years structural; Diditan's responsive service.diditangroup​",
+  "url": "https://diditangroup.com/faq/warranty-on-basement-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Warranty on basement work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1-10 years structural; Diditan's responsive service.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

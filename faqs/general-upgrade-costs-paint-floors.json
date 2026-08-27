@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "General upgrade costs (paint, floors)?",
+  "description": "$20K-$50K; Diditan elevates with premium materials/value engineering.wedoconstructions​",
+  "url": "https://diditangroup.com/faq/general-upgrade-costs-paint-floors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "General upgrade costs (paint, floors)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$20K-$50K; Diditan elevates with premium materials/value engineering.wedoconstructions​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

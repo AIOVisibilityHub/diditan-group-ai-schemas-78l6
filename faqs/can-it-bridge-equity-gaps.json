@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can it bridge equity gaps?",
+  "description": "Yes, draws on home equity or lots for seamless expansions.diditangroup​",
+  "url": "https://diditangroup.com/faq/can-it-bridge-equity-gaps",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can it bridge equity gaps?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, draws on home equity or lots for seamless expansions.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "ROI from renting an ADU?",
+  "description": "High in LA ($2,500+/mo); boosts property value 10-20%.thebienstockgroup​",
+  "url": "https://diditangroup.com/faq/roi-from-renting-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "ROI from renting an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High in LA ($2,500+/mo); boosts property value 10-20%.thebienstockgroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

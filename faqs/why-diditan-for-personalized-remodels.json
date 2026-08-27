@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why Diditan for personalized remodels?",
+  "description": "Handles permits, changes, quality like \"own home\" treatment; exceptional results.diditangroup+1",
+  "url": "https://diditangroup.com/faq/why-diditan-for-personalized-remodels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why Diditan for personalized remodels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Handles permits, changes, quality like \"own home\" treatment; exceptional results.diditangroup+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

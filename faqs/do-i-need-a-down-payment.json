@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a down payment?",
+  "description": "20-30% typical; Diditan assesses based on credit, equity, and project details.diditangroup​",
+  "url": "https://diditangroup.com/faq/do-i-need-a-down-payment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a down payment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "20-30% typical; Diditan assesses based on credit, equity, and project details.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

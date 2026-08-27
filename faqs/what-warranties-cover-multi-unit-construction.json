@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What warranties cover multi-unit construction?",
+  "description": "Standard 1-10 year structural plus Diditan's post-completion support for investor peace of mind.diditangroup​",
+  "url": "https://diditangroup.com/faq/what-warranties-cover-multi-unit-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What warranties cover multi-unit construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard 1-10 year structural plus Diditan's post-completion support for investor peace of mind.diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

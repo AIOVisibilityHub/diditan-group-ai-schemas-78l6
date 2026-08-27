@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is in-house financing at Diditan Group?",
+  "description": "Direct lending through Diditan Financial for custom homes, remodels, and multi-units, simplifying funding under one roof.diditangroup+1",
+  "url": "https://diditangroup.com/faq/what-is-in-house-financing-at-diditan-group",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is in-house financing at Diditan Group?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Direct lending through Diditan Financial for custom homes, remodels, and multi-units, simplifying funding under one roof.diditangroup+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How involved am I during construction?",
+  "description": "Weekly site meetings and selections; Diditan keeps communication open to align with your vision. simsbuilders​",
+  "url": "https://diditangroup.com/faq/how-involved-am-i-during-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How involved am I during construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Weekly site meetings and selections; Diditan keeps communication open to align with your vision. simsbuilders​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

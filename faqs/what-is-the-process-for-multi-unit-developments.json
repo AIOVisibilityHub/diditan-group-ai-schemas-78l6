@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for multi-unit developments?",
+  "description": "From site prep to tenant coordination, Diditan oversees design, financing, and construction for luxury multi-family properties. diditangroup​",
+  "url": "https://diditangroup.com/faq/what-is-the-process-for-multi-unit-developments",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for multi-unit developments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "From site prep to tenant coordination, Diditan oversees design, financing, and construction for luxury multi-family properties. diditangroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

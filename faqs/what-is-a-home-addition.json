@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a home addition?",
+  "description": "Expanding your existing home with new rooms, floors, or wings to increase living space, functionality, and resale value without relocating.angi​",
+  "url": "https://diditangroup.com/faq/what-is-a-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expanding your existing home with new rooms, floors, or wings to increase living space, functionality, and resale value without relocating.angi​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
