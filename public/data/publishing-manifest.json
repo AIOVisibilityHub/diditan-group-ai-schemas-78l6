@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T20:53:59.909Z",
+  "generatedAt": "2026-08-27T20:54:08.911Z",
   "client": {
     "name": "Diditan Group",
     "canonicalUrl": "https://diditangroup.aiovisibility.net",
@@ -102,7 +102,7 @@
   },
   "package": {
     "totalFiles": 513,
-    "totalBytes": 1188825,
+    "totalBytes": 1142692,
     "stats": {
       "faqs": 255,
       "helpArticles": 209,
@@ -2605,47 +2605,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 27890,
+        "bytes": 22453,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 45921,
+        "bytes": 40604,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 35890,
+        "bytes": 30474,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 22791,
+        "bytes": 17672,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 19820,
+        "bytes": 14626,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 138552,
+        "bytes": 133337,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 122443,
+        "bytes": 117297,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 27406,
+        "bytes": 22101,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 25175,
+        "bytes": 19993,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -2657,7 +2657,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 2280,
+        "bytes": 2409,
         "purpose": "LLM hint"
       },
       {
@@ -2677,32 +2677,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1360,
+        "bytes": 1637,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 190014,
+        "bytes": 190290,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 52413,
+        "bytes": 52542,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 52413,
+        "bytes": 52542,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 2342,
+        "bytes": 2471,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 58322,
+        "bytes": 58451,
         "purpose": "Repository README"
       },
       {
@@ -2720,7 +2720,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/diditan-group-ai-schemas-78l6",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/diditan-group-ai-schemas-78l6/",
       "repo": "AIOVisibilityHub/diditan-group-ai-schemas-78l6"
     }
   }
