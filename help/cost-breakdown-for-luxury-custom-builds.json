@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Cost Breakdown for Luxury Custom Builds",
+  "author": {
+    "@type": "Organization",
+    "name": "Diditan Group"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Diditan Group",
+    "url": "https://diditangroup.com"
+  },
+  "articleBody": "Breakdown of $225-$600/SF costs: foundation ($50K+), framing, finishes; Diditan's transparent bids include in-house financing options. houzz​",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

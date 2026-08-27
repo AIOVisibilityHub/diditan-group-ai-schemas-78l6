@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Miracle Mile High-Rise Condo Conversion",
+  "author": {
+    "@type": "Organization",
+    "name": "Diditan Group"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Diditan Group",
+    "url": "https://diditangroup.com"
+  },
+  "articleBody": "12-unit 1970s → luxury rentals; Diditan delivered 18% cap rate post-renovation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

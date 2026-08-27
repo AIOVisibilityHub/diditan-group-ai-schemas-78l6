@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Arie Abekasis",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Diditan Group",
+    "url": "https://diditangroup.com"
+  },
+  "description": "Arie Abekasis is the founder and owner of Diditan Group Inc., a Los Angeles–based luxury home development and construction company known for creating distinctive custom residences and high-end residential projects. With more than 18 years of experience spanning fashion, home building, real estate development, and property investment, Arie brings a uniquely design-conscious and business-minded perspective to every project.\n\nHis background in fashion informs his appreciation for detail, proportion, material selection, and refined aesthetics, while his extensive experience in construction and real estate allows him to guide clients through the practical and financial sides of building or improving a home. Under Arie’s leadership, Diditan Group focuses on delivering tailored luxury homes, major renovations, residential development projects, in-house financing options, and real estate services for clients throughout the Los Angeles area.\n\nArie is closely involved in the full client experience—from early planning, budgeting, and design coordination through construction, finishing selections, and project completion. He emphasizes clear communication, personalized service, superior craftsmanship, and meticulous execution, recognizing that each home must reflect its owner’s lifestyle, priorities, and long-term goals.\n\nThrough Diditan Group, Arie has built a reputation for helping homeowners, investors, and buyers turn ambitious residential visions into thoughtfully designed, high-value properties. His approach combines luxury design sensibility with disciplined project management, real estate insight, and a commitment to client satisfaction at every stage of the process.",
+  "telephone": "(818) 784-5557",
+  "knowsAbout": [
+    "Custom home construction",
+    "new-home construction",
+    "luxury home building",
+    "residential development",
+    "multi-unit construction",
+    "whole-home remodeling",
+    "kitchen remodeling",
+    "bathroom remodeling",
+    "bedroom remodeling",
+    "basement remodeling",
+    "garage remodeling",
+    "deck building",
+    "home additions",
+    "home extensions",
+    "ADU construction",
+    "garage conversions",
+    "house framing",
+    "home restoration",
+    "project management",
+    "design and construction planning",
+    "in-house home financing",
+    "luxury real-estate buying and selling",
+    "real-estate investment services"
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    }
+  ]
+}

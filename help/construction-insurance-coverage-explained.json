@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Construction Insurance Coverage Explained",
+  "author": {
+    "@type": "Organization",
+    "name": "Diditan Group"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Diditan Group",
+    "url": "https://diditangroup.com"
+  },
+  "articleBody": "Builder's risk covers materials/theft; Diditan policy protects $1M+ projects with $5M liability umbrella standard.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

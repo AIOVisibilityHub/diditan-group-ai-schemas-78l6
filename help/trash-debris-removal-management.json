@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Trash Debris Removal Management",
+  "author": {
+    "@type": "Organization",
+    "name": "Diditan Group"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Diditan Group",
+    "url": "https://diditangroup.com"
+  },
+  "articleBody": "Daily cleanups, 40yd dumpsters weekly; Diditan screens prevent Sherman Oaks neighbor complaints.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

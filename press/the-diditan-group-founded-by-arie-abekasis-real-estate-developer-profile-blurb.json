@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "The Diditan Group, founded by Arie Abekasis… (real estate developer profile blurb)",
+  "datePublished": "Not clearly dated on page (treat as “n.d.”)",
+  "url": "https://hillsviewsandvalleys.com/real-estate/ hillsviewsandvalleys​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Hills Views & Valleys – Real Estate section"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Diditan Group",
+    "url": "https://diditangroup.com"
+  }
+}

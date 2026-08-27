@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What water conservation in remodels?",
+  "description": "Low-flow fixtures, greywater; meets LA sustainability mandates.",
+  "url": "https://diditangroup.com/faq/what-water-conservation-in-remodels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What water conservation in remodels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Low-flow fixtures, greywater; meets LA sustainability mandates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

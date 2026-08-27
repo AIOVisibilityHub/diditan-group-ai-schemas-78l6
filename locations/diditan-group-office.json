@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Diditan Group - Diditan Group Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5632 Van Nuys Blvd Suite 305",
+    "addressLocality": "Sherman Oaks",
+    "addressRegion": "CA",
+    "postalCode": "91401"
+  },
+  "telephone": "(818) 784-5557",
+  "url": "https://diditangroup.com"
+}

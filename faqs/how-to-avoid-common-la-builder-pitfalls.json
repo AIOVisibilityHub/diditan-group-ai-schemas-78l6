@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to avoid common LA builder pitfalls?",
+  "description": "Choose licensed locals like Diditan with 18+ years vs. out-of-towners.",
+  "url": "https://diditangroup.com/faq/how-to-avoid-common-la-builder-pitfalls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to avoid common LA builder pitfalls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose licensed locals like Diditan with 18+ years vs. out-of-towners."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

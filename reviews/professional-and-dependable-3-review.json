@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Professional and Dependable"
+  },
+  "reviewBody": "Diditan was one of the most professional builders we've worked with. They were diligent about meeting target dates and budgets while transforming our house beautifully. We are very grateful and highly recommend them.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "43403",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Diditan Group",
+    "url": "https://diditangroup.com"
+  }
+}

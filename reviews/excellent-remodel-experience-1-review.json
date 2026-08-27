@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Excellent Remodel Experience"
+  },
+  "reviewBody": "I hired Diditan Group for a comprehensive home remodel. Arie Abekasis and his team handled everything with supreme professionalism, knowledge, and integrity. They came up with creative design ideas that made our house more beautiful and functional. Highly recommended!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "43403",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Diditan Group",
+    "url": "https://diditangroup.com"
+  }
+}

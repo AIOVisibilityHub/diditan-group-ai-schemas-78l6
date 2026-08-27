@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do rising material costs affect 2026 bids?",
+  "description": "Locked early; Diditan hedges for stable luxury pricing.",
+  "url": "https://diditangroup.com/faq/how-do-rising-material-costs-affect-2026-bids",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do rising material costs affect 2026 bids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Locked early; Diditan hedges for stable luxury pricing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Diditan Group - Santa Monica Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "327 Euclid Street",
+    "addressLocality": "Santa Monica",
+    "addressRegion": "CA",
+    "postalCode": "90402"
+  },
+  "telephone": "(310) 878-1166",
+  "url": "https://diditangroup.com"
+}
