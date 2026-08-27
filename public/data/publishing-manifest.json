@@ -1,0 +1,2727 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T20:53:59.909Z",
+  "client": {
+    "name": "Diditan Group",
+    "canonicalUrl": "https://diditangroup.aiovisibility.net",
+    "primaryWebsiteUrl": "https://diditangroup.com",
+    "pagesUrl": "https://diditangroup.aiovisibility.net",
+    "phone": "(818) 784-5557",
+    "email": "info@diditangroup.com",
+    "locations": [
+      {
+        "name": "Diditan Group Office",
+        "address": "5632 Van Nuys Blvd Suite 305",
+        "city": "Sherman Oaks",
+        "state": "CA",
+        "zip": "91401",
+        "phone": "(818) 784-5557",
+        "email": "info@diditangroup.com"
+      },
+      {
+        "name": "Santa Monica Office",
+        "address": "327 Euclid Street",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zip": "90402",
+        "phone": "(310) 878-1166",
+        "email": "info@diditangroup.com"
+      }
+    ],
+    "services": [
+      "Custom home construction",
+      "New-home construction",
+      "Luxury home building",
+      "Residential development",
+      "Multi-unit construction",
+      "Whole-home remodeling",
+      "Kitchen remodeling",
+      "Bathroom remodeling",
+      "Bedroom remodeling",
+      "Basement remodeling",
+      "Garage remodeling",
+      "Deck building",
+      "Home additions",
+      "Home extensions",
+      "ADU construction",
+      "Garage conversions",
+      "House framing",
+      "Home restoration",
+      "Project management",
+      "Design and construction planning",
+      "In-house home financing",
+      "Luxury real-estate buying and selling",
+      "Real-estate investment services"
+    ],
+    "cities": [
+      "Los Angeles ",
+      "Century City",
+      "Sherman Oaks",
+      "Beverly Hills",
+      "Encino",
+      "Studio City",
+      "Van Nuys",
+      "Valley Glen",
+      "Valley Village",
+      "North Hollywood",
+      "Toluca Lake",
+      "Tarzana",
+      "Lake Balboa",
+      "Reseda",
+      "Panorama City",
+      "Sherman Village",
+      "Beverly Crest",
+      "Bel Air",
+      "Beverly Hills",
+      "West Hollywood",
+      "Burbank",
+      "Glendale",
+      "Santa Monica",
+      "Culver City",
+      "Calabasas",
+      "Hidden Hills",
+      "San Fernando",
+      "Thousand Oaks",
+      "Agoura Hills",
+      "Los Angeles",
+      "Woodland Hills",
+      "Warner Center",
+      "West Hills",
+      "Chatsworth",
+      "Porter Ranch",
+      "Northridge",
+      "Brentwood",
+      "Pacific Palisades",
+      "Westwood",
+      "Century City",
+      "Cheviot Hills",
+      "Mar Vista",
+      "Playa Vista",
+      "Marina del Rey"
+    ]
+  },
+  "package": {
+    "totalFiles": 513,
+    "totalBytes": 1188825,
+    "stats": {
+      "faqs": 255,
+      "helpArticles": 209,
+      "services": 1,
+      "webpages": 0,
+      "personnel": 2,
+      "products": 0,
+      "locations": 2,
+      "awards": 3,
+      "caseStudies": 7,
+      "organization": 1,
+      "press": 4,
+      "reviews": 5,
+      "qna": 0,
+      "research": 0,
+      "total": 490
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/how-much-does-it-cost-to-build-a-luxury-home.json",
+        "bytes": 825,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-a-custom-home.json",
+        "bytes": 824,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-the-builder-provide-a-warranty.json",
+        "bytes": 775,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-the-design-phase-take.json",
+        "bytes": 765,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-diditan-group-help-clients-stay-on-budget.json",
+        "bytes": 848,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-first-step-in-building-a-custom-home-with-diditan-group.json",
+        "bytes": 865,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-a-custom-luxury-home-in-los-angeles.json",
+        "bytes": 865,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-determine-the-cost-of-a-custom-home.json",
+        "bytes": 808,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-diditan-group-offer-in-house-financing.json",
+        "bytes": 753,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-make-changes-during-construction.json",
+        "bytes": 724,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-own-a-lot-before-contacting-diditan.json",
+        "bytes": 726,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-styles-does-diditan-specialize-in.json",
+        "bytes": 668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-diditan-handle-permits-in-los-angeles.json",
+        "bytes": 716,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-warranties-does-diditan-provide.json",
+        "bytes": 682,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-custom-homes-more-energy-efficient.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-multi-unit-developments.json",
+        "bytes": 767,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-involved-am-i-during-construction.json",
+        "bytes": 675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-diditan-build-adus-or-granny-flats.json",
+        "bytes": 671,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-about-kitchen-or-deck-remodel-timelines.json",
+        "bytes": 704,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-la-building-codes-affect-my-project.json",
+        "bytes": 694,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-hire-an-interior-designer.json",
+        "bytes": 660,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-value-engineering.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-diditan-select-subcontractors.json",
+        "bytes": 680,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-diditan-handle-whole-home-remodels.json",
+        "bytes": 652,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-areas-does-diditan-serve.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-evaluate-diditan-s-past-work.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-costs-are-beyond-construction.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-custom-building-worth-it-vs-buying.json",
+        "bytes": 649,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-weather-impact-la-builds.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-final-steps-before-move-in.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-multi-unit-residential-development.json",
+        "bytes": 804,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-diditan-handle-multi-unit-projects.json",
+        "bytes": 792,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-typical-timelines-for-multi-unit-builds-in-la.json",
+        "bytes": 788,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-costs-factor-into-multi-unit-development.json",
+        "bytes": 755,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-diditan-offer-financing-for-multi-unit-projects.json",
+        "bytes": 756,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-la-zoning-affect-multi-unit-builds.json",
+        "bytes": 721,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-multi-unit-projects-include-luxury-finishes.json",
+        "bytes": 709,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-are-needed-for-multi-unit-in-la.json",
+        "bytes": 716,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-coordinate-tenants-during-renovations.json",
+        "bytes": 722,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-adus-viable-in-multi-unit-developments.json",
+        "bytes": 712,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-roi-can-investors-expect-from-la-multi-units.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-involved-is-the-owner-in-multi-unit-construction.json",
+        "bytes": 728,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-diditan-build-for-sale-or-rental-multi-units.json",
+        "bytes": 715,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-challenges-arise-in-multi-unit-seismic-retrofits.json",
+        "bytes": 711,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-units-does-diditan-typically-develop.json",
+        "bytes": 685,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-multi-unit-projects-qualify-for-tax-incentives.json",
+        "bytes": 708,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-warranties-cover-multi-unit-construction.json",
+        "bytes": 697,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-diditan-select-sites-for-multi-units.json",
+        "bytes": 683,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-parking-and-amenities-required-for-multi-units.json",
+        "bytes": 688,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-value-engineering-in-multi-unit-dev.json",
+        "bytes": 695,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-finance-multi-unit-ground-up-builds.json",
+        "bytes": 668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-weather-delay-multi-unit-exteriors-in-la.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-diditan-renovate-existing-multi-units.json",
+        "bytes": 661,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-final-inspections-for-multi-unit-co.json",
+        "bytes": 660,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-choose-diditan-for-multi-unit-investment.json",
+        "bytes": 682,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-an-adu-granny-flat-or-guest-unit.json",
+        "bytes": 774,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-diditan-group-build-adus-in-los-angeles.json",
+        "bytes": 713,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-la-size-limits-for-detached-adus.json",
+        "bytes": 707,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-to-build-an-adu-or-granny-flat.json",
+        "bytes": 701,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-costs-for-an-adu-in-greater-la.json",
+        "bytes": 661,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-adus-need-separate-utilities.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-parking-spots-required-for-guest-units.json",
+        "bytes": 680,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-rent-out-a-granny-flat-short-term.json",
+        "bytes": 677,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-for-adu-in-los-angeles.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/height-limits-for-detached-adus.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-adus-be-attached-or-detached.json",
+        "bytes": 622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-hoas-restrict-granny-flats.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-financing-available-for-adus.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-setbacks-for-backyard-guest-units.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-jadus-different-from-full-adus.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-an-adu-increase-property-taxes.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-multiple-adus-on-one-lot.json",
+        "bytes": 630,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/rso-jco-rules-for-new-granny-flats.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/timeline-impact-of-la-adu-permits.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-guest-units-have-2-stories.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/seismic-requirements-for-adus.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/energy-efficiency-mandates.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-convert-garage-to-adu.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/roi-from-renting-an-adu.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/final-steps-for-adu-occupancy.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-home-addition.json",
+        "bytes": 701,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-home-addition-cost-in-los-angeles.json",
+        "bytes": 785,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-home-additions-does-diditan-build.json",
+        "bytes": 749,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-do-home-additions-take-in-la.json",
+        "bytes": 699,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-home-additions-require-permits-in-los-angeles.json",
+        "bytes": 722,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-diditan-add-a-second-story-to-my-home.json",
+        "bytes": 717,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-bump-out-addition.json",
+        "bytes": 677,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-la-seismic-codes-affect-additions.json",
+        "bytes": 654,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-a-home-addition-increase-property-value.json",
+        "bytes": 724,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-site-prep-costs-for-additions.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-diditan-finance-home-additions.json",
+        "bytes": 654,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-involved-am-i-in-the-addition-process.json",
+        "bytes": 703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-warranties-on-diditan-additions.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/bedroom-addition-costs-in-la.json",
+        "bytes": 618,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/kitchen-addition-timelines.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-hoas-approve-home-additions.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/second-story-addition-challenges.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-materials-for-la-home-additions.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/garage-addition-or-conversion-costs.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-maximize-addition-roi.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/utility-extensions-for-additions.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/sunroom-or-family-room-addition.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/impact-of-la-weather-on-additions.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/final-inspections-for-additions.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-choose-diditan-for-additions.json",
+        "bytes": 650,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-home-remodeling-with-diditan-group.json",
+        "bytes": 774,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-kitchen-remodel-cost-in-la.json",
+        "bytes": 702,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-a-full-bathroom-renovation-involve.json",
+        "bytes": 698,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-for-a-bedroom-remodel.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-diditan-remodel-basements-in-la.json",
+        "bytes": 669,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-for-la-home-remodels.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-diditan-personalize-remodels.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/kitchen-remodel-timeline-in-greater-la.json",
+        "bytes": 622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/bathroom-remodel-costs-breakdown.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-remodeling-increase-la-home-value.json",
+        "bytes": 640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-warranties-on-diditan-remodels.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/bedroom-upgrade-ideas-from-diditan.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/basement-remodel-challenges-in-la.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/whole-home-remodel-costs.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-involved-in-diditan-remodel-process.json",
+        "bytes": 637,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/la-seismic-upgrades-in-remodels.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/kitchen-trends-diditan-uses.json",
+        "bytes": 599,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/bathroom-spa-conversions.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/general-upgrade-costs-paint-floors.json",
+        "bytes": 626,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/hoa-rules-for-remodels.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/energy-efficient-remodel-options.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/timeline-disruptions-from-la-weather.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/financing-remodels-with-diditan.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/post-remodel-punch-list-process.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-diditan-for-personalized-remodels.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-in-house-financing-at-diditan-group.json",
+        "bytes": 739,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-in-house-financing-streamline-projects.json",
+        "bytes": 713,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-projects-qualify-for-diditan-financing.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-rates-competitive-with-banks.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-typical-loan-terms.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-down-payment.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-fast-is-loan-approval.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-it-cover-permits-and-materials.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-credit-score-is-required.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-financing-available-for-remodels-only.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-it-work-for-multi-unit-investments.json",
+        "bytes": 653,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-prepayment-penalties.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-documents-for-application.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-investors-use-it-for-flips.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-it-include-real-estate-services.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/price-range-for-kitchen-remodel-financing.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-about-adu-granny-flat-loans.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-apply-for-diditan-financing.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-closing-costs-lower.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-it-bridge-equity-gaps.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/fixed-or-variable-rates.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/impact-on-construction-timeline.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/eligible-for-first-time-builders.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-project-costs-overrun.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-choose-diditan-s-in-house-over-banks.json",
+        "bytes": 642,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-custom-home-construction-with-diditan.json",
+        "bytes": 745,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-reconstruction-differ-from-new-construction.json",
+        "bytes": 756,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-styles-can-diditan-customize.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-starting-price-for-custom-homes.json",
+        "bytes": 693,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-to-build-a-custom-luxury-home-in-la.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-the-design-phase-involve.json",
+        "bytes": 676,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-diditan-handle-lot-selection.json",
+        "bytes": 649,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-for-custom-reconstruction-in-la.json",
+        "bytes": 640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-personalize-every-finish.json",
+        "bytes": 658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-warranties-on-new-custom-homes.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-involved-am-i-in-construction.json",
+        "bytes": 637,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/la-seismic-requirements-for-custom-builds.json",
+        "bytes": 637,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/energy-efficiency-in-diditan-customs.json",
+        "bytes": 628,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/financing-for-350k-custom-projects.json",
+        "bytes": 622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-size-homes-does-diditan-build.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/timeline-for-reconstruction-vs-new-build.json",
+        "bytes": 626,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-view-diditan-s-past-customs.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/cost-per-square-foot-for-luxury-customs.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-diditan-do-smart-home-integration.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/hoa-approvals-for-custom-homes.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/outdoor-features-in-custom-constructions.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/changes-during-custom-construction.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-18-years-matter-for-diditan.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/final-walkthrough-for-custom-homes.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-choose-diditan-for-la-customs.json",
+        "bytes": 603,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-basement-conversion.json",
+        "bytes": 681,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-diditan-convert-basements-in-la-homes.json",
+        "bytes": 691,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-a-luxury-basement-conversion-cost.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-for-a-basement-remodel.json",
+        "bytes": 623,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-for-la-basement-conversions.json",
+        "bytes": 634,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/ideal-layouts-for-home-theater-basements.json",
+        "bytes": 658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/moisture-control-in-ca-basement-conversions.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/egress-window-requirements.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/electrical-upgrades-for-rec-rooms.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/plumbing-for-basement-wet-bars-baths.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/hvac-extensions-needed.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-it-boost-home-value-in-la.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/insulation-for-sound-temperature.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/flooring-options-for-basements.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/lighting-design-for-ambiance.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/hoa-rules-for-basement-work.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/financing-basement-conversions.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/timeline-disruptions-from-inspections.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/custom-cabinetry-in-rec-rooms.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/seismic-retrofits-during-conversion.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/multi-use-basement-ideas.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/warranty-on-basement-work.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/energy-efficiency-features.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/final-steps-before-use.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-diditan-for-basement-conversions.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-diditan-ensure-sustainability-in-custom-homes.json",
+        "bytes": 748,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-client-selection-process-for-diditan-projects.json",
+        "bytes": 729,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-diditan-integrate-outdoor-kitchens-in-additions.json",
+        "bytes": 647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-prepare-my-lot-for-multi-unit-development.json",
+        "bytes": 622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-diditan-homes-wired-for-ev-chargers.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-insurance-covers-during-diditan-construction.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-diditan-handle-la-hillside-ordinances.json",
+        "bytes": 628,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-financing-cover-landscaping-in-custom-builds.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-maintenance-after-remodel-completion.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-diditan-use-3d-modeling-for-designs.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-stage-diditan-built-homes-for-sale.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-smart-locks-security-standard-in-remodels.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-hoa-denies-my-adu-plans.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-noise-ordinance-affect-la-remodels.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-basement-conversions-include-saunas.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-tax-deductions-for-home-office-additions.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-diditan-offer-post-project-maintenance-plans.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-appraise-value-after-multi-unit-completion.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-custom-homes-prepped-for-aging-in-place.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-contingency-budget-for-remodel-overruns.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-financing-roll-into-mortgage-payoff.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-diditan-source-rare-materials.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-pet-friendly-features-in-adus-standard.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-fire-safety-upgrades-in-hillside-additions.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-diditan-collaborate-with-architects.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-finance-phased-multi-unit-work.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-basements-viable-for-wine-cellars.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-resale-impact-of-luxury-kitchen-remodels.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-diditan-build-pop-top-second-stories.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-dispute-contractor-change-orders.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-are-la-permitting-timelines-for-custom-homes.json",
+        "bytes": 677,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-questions-to-ask-before-hiring-diditan.json",
+        "bytes": 663,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-vet-a-luxury-builder-s-reliability.json",
+        "bytes": 655,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-la-hillside-building-restrictions.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-diditan-offer-express-permits-for-adus.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-feasibility-studies-involve-for-lots.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-entitlements-differ-from-permits.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-solar-panels-mandatory-in-new-la-customs.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-ev-ready-features-in-diditan-garages.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-diditan-manage-community-outreach.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-labor-shortages-impact-2026-la-builds.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-smart-home-systems-future-proofed.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-budget-for-la-site-prep-costs.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-role-do-project-managers-play.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-diditan-handle-historic-overlays.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-water-conservation-in-remodels.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-rising-material-costs-affect-2026-bids.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-drone-surveys-used-for-lots.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-after-sales-support-from-diditan.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-avoid-common-la-builder-pitfalls.json",
+        "bytes": 597,
+        "purpose": "schema"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/construction-service.json",
+        "bytes": 6096,
+        "purpose": "schema"
+      }
+    ],
+    "team": [
+      {
+        "path": "team/arie-abekasis-profile.json",
+        "bytes": 2546,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/arie-abekasis-los-angeles.json",
+        "bytes": 2544,
+        "purpose": "schema"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/diditan-group-builds-luxurious-custom-tuscan-homes-in-ca.json",
+        "bytes": 637,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/luxury-custom-home-construction.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-largest-luxury-home-in-los-angeles-meets-the-top-5-in-the-world.json",
+        "bytes": 641,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/latest-blog-articles-diditan-group.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/guide-to-custom-home-design-process.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-breakdown-for-luxury-custom-builds.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/top-5-styles-diditan-builds-in-la.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/from-lot-to-keys-diditan-timeline.json",
+        "bytes": 603,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/in-house-financing-for-custom-projects.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/la-seismic-standards-for-new-homes.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-your-custom-lot-with-diditan.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/smart-home-integration-basics.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/portfolio-diditan-s-la-masterpieces.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permits-and-entitlements-explained.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sustainable-features-in-diditan-homes.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/warranty-coverage-for-new-builds.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/change-orders-what-to-expect.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/collaborating-with-architects.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hillside-custom-home-challenges.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/material-sourcing-for-luxury-finishes.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/project-management-at-diditan.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ev-and-solar-trends-for-2026.json",
+        "bytes": 529,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/client-testimonials-spotlight.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/budgeting-contingencies-explained.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/indoor-outdoor-flow-designs.json",
+        "bytes": 529,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/final-walkthrough-checklist.json",
+        "bytes": 537,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-boutique-builders-like-diditan.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/aging-in-place-custom-features.json",
+        "bytes": 522,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/diditan-vs-spec-home-builders.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multi-unit-development-process-overview.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-factors-for-la-multi-unit-projects.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/la-zoning-for-multi-unit-residential.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/timelines-for-multi-unit-construction.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/financing-multi-unit-investments.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tenant-coordination-during-renovations.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-trends-for-luxury-multi-units.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/parking-requirements-for-la-multi-units.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/entitlements-for-small-apartment-buildings.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/roi-projections-for-la-multi-unit-dev.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/site-selection-for-multi-unit-projects.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/phased-construction-for-apartments.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/managing-multi-unit-project-teams.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tax-incentives-for-multi-unit-dev.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sustainability-in-apartment-complexes.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/change-orders-in-multi-unit-projects.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/final-inspections-for-multi-unit-co.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-choose-diditan-for-multi-units.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/portfolio-diditan-multi-unit-success.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/budgeting-for-multi-unit-contingencies.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/la-noise-ordinances-for-construction.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/warranty-coverage-for-apartments.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/material-selection-for-rental-units.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-construction-property-management.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multi-unit-vs-single-family-development.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-design-process-with-diditan.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-guide-for-la-adu-construction.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/la-adu-zoning-and-size-rules.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-build-timelines-explained.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/financing-options-for-adus.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/detached-vs-attached-adu-designs.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ladbs-adu-permit-fast-track.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hoa-rules-and-adu-approvals.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-and-bath-layouts-for-adus.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/parking-waivers-for-adu-projects.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/utility-connections-for-guest-units.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/boosting-property-value-with-adus.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multigenerational-adu-living.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-egress-and-safety-features.json",
+        "bytes": 524,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/jadu-vs-full-adu-comparison.json",
+        "bytes": 529,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sustainable-adu-features.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/garage-conversion-to-adu-guide.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-rental-rules-and-rso.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/two-adu-limit-on-single-lots.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-warranty-and-maintenance.json",
+        "bytes": 527,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/financing-adu-property-taxes.json",
+        "bytes": 515,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/backyard-setbacks-for-adus.json",
+        "bytes": 516,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/smart-features-for-rental-adus.json",
+        "bytes": 527,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-case-studies-diditan-projects.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-diditan-for-professional-adus.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-renovation-process-guide.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-transformation-costs.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bedroom-suite-upgrade-ideas.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/basement-finishing-complete-guide.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/whole-home-renovation-planning.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/la-remodel-permit-requirements.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/personalized-design-consultation.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-layout-trends-2026.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/spa-bathroom-design-features.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bedroom-built-in-solutions.json",
+        "bytes": 527,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/basement-waterproofing-essentials.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/remodel-financing-options.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/material-selection-for-remodels.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/phased-renovation-benefits.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hoa-remodel-approval-process.json",
+        "bytes": 525,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-appliance-upgrade-guide.json",
+        "bytes": 525,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/smart-home-remodel-integration.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/remodel-roi-by-room-type.json",
+        "bytes": 521,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/seismic-retrofit-during-remodels.json",
+        "bytes": 529,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-cabinetry-design-process.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tile-selection-for-wet-areas.json",
+        "bytes": 527,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/remodel-dust-and-disruption-control.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/warranty-coverage-for-remodels.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/before-and-after-remodel-gallery.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-choose-diditan-for-renovations.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/in-house-financing-overview.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-diditan-financing-works.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rates-and-terms-for-home-projects.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/financing-kitchen-and-bath-remodels.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-home-construction-loans.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-and-granny-flat-financing.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multi-unit-development-funding.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/qualification-requirements-explained.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/draw-schedule-and-disbursements.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/comparing-diditan-vs-bank-loans.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pre-approval-for-renovation-projects.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/closing-costs-and-fees-breakdown.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/interest-only-construction-phase.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/refinancing-into-permanent-mortgage.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/financing-for-first-time-builders.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/overrun-protection-and-contingencies.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/documents-needed-for-application.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/prepayment-flexibility-explained.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/joint-ventures-and-investor-loans.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bridge-loans-for-quick-projects.json",
+        "bytes": 529,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tax-deductible-interest-benefits.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/financing-during-high-interest-rates.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/loan-servicing-and-payments.json",
+        "bytes": 514,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/case-studies-financed-projects.json",
+        "bytes": 524,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-diditan-in-house-beats-competitors.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-home-build-complete-guide.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rebuild-vs-new-construction-comparison.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/personalizing-your-luxury-floor-plan.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/la-custom-home-cost-per-square-foot.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/18-year-diditan-build-timeline.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/architectural-styles-diditan-masters.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/foundation-and-site-prep-essentials.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/interior-finishes-selection-process.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hillside-custom-home-engineering.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/smart-home-systems-integration.json",
+        "bytes": 529,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-pool-and-outdoor-living.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ladbs-custom-home-permitting.json",
+        "bytes": 522,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/value-engineering-for-budget-control.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/collaborating-with-your-architect.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-home-warranty-details.json",
+        "bytes": 523,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/change-order-management-best-practices.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/solar-and-ev-ready-custom-homes.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/project-management-excellence.json",
+        "bytes": 527,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/portfolio-of-la-custom-masterpieces.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/final-walkthrough-and-punch-list.json",
+        "bytes": 525,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/aging-in-place-custom-design.json",
+        "bytes": 524,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multigenerational-custom-layouts.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-home-vs-spec-home-decision.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/material-sourcing-for-masterpieces.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-diditan-s-18-years-matter.json",
+        "bytes": 525,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/client-testimonials-custom-builds.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/budget-contingencies-for-customs.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/indoor-outdoor-custom-integration.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/historic-home-rebuild-strategies.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/diditan-custom-vs-production-builders.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/diditan-subcontractor-vetting-process.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-construction-defect-resolution.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/coastal-zone-custom-home-requirements.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-2026-material-lead-times.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/construction-insurance-coverage-explained.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/managing-design-changes-mid-project.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/la-utility-hookups-timeline.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-landscape-budgeting-guide.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/luxury-av-and-wine-cellar-integration.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/visiting-diditan-active-job-sites.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/night-weekend-construction-rules.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/trash-debris-removal-management.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/temporary-power-during-construction.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/final-cleaning-before-walkthrough.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/neighbor-protection-during-demo.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/la-hillside-grading-permits.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-millwork-lead-times.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/construction-camera-monitoring.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/soil-testing-and-foundation-design.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rain-delay-construction-planning.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-door-hardware-selection.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/elevator-installation-in-customs.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/security-system-pre-wiring.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-staircase-design-process.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/whole-house-audio-installation.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/beverly-hills-custom-home-guide.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bel-air-spec-home-vs-custom-analysis.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hollywood-hills-slope-analysis-tool.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/brentwood-modern-farmhouse-designs.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/malibu-coastal-commission-checklist.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sherman-oaks-teardown-feasibility.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/encino-tuscan-villa-restoration.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/studio-city-speculative-development-math.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/miracle-mile-high-rise-condo-conversion.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/palm-springs-modern-desert-compound.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-architectural-vs-production-designer.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/private-elevator-installation-guide.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/crestron-home-automation-blueprint.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/savant-vs-control4-showdown.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sub-zero-wolf-showcase-kitchens.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/thermador-freedom-collection-install.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/la-cornue-range-hood-masterclass.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/waterworks-bath-showroom-guide.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ann-sacks-tile-portfolio.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rh-interiors-custom-upholstery.json",
+        "bytes": 537,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cryptocurrency-construction-payments.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/1031-exchange-custom-home-strategy.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-segregation-depreciation-schedule.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/private-road-access-agreements.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/geotechnical-slope-stability-report.json",
+        "bytes": 553,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/diditan-group-office.json",
+        "bytes": 323,
+        "purpose": "schema"
+      },
+      {
+        "path": "locations/santa-monica-office.json",
+        "bytes": 311,
+        "purpose": "schema"
+      }
+    ],
+    "awards": [
+      {
+        "path": "awards/readers-choice-award-best-local-production-homebuilder.json",
+        "bytes": 447,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/featured-among-the-13-best-custom-home-builders-in-west-hollywood-california.json",
+        "bytes": 431,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/listed-among-california-home-builders-49-reputable-companies-to-consider.json",
+        "bytes": 426,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/diditan-group-builds-luxurious-custom-tuscan-homes-in-ca.json",
+        "bytes": 514,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/the-largest-luxury-home-in-los-angeles-meets-the-top-5-in-the-world.json",
+        "bytes": 522,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/comprehensive-home-remodel-with-permits-architectural-challenges.json",
+        "bytes": 703,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/full-4-unit-apartment-building-renovation.json",
+        "bytes": 687,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/ground-up-custom-home-construction.json",
+        "bytes": 671,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/garage-conversion-granny-flats-addition.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/whole-home-transformation-drab-to-fab.json",
+        "bytes": 583,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/diditan-group-organization.json",
+        "bytes": 6078,
+        "purpose": "schema"
+      }
+    ],
+    "press": [
+      {
+        "path": "press/the-diditan-group-founded-by-arie-abekasis-real-estate-developer-profile-blurb.json",
+        "bytes": 478,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/property-developments-los-angeles-new-homes-buildings-2026-section-mentioning-di.json",
+        "bytes": 476,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/diditan-luxury-home-builders-sherman-oaks-perfect-five-star-review-by-yaron-e.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/diditan-luxury-home-builders-sherman-oaks-5-star-review-by-client-video-testimon.json",
+        "bytes": 419,
+        "purpose": "schema"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews/excellent-remodel-experience-1-review.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/exceeded-my-expectations-2-review.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/professional-and-dependable-3-review.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/perfect-custom-home-4-review.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/built-our-dream-home-5-review.json",
+        "bytes": 506,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/aggregate-rating.json",
+        "bytes": 205,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 27890,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 45921,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 35890,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "reviews.html",
+        "bytes": 22791,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 19820,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 138552,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles.html",
+        "bytes": 122443,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 27406,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 25175,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 317,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 2280,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 352,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 193,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1360,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 190014,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 52413,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 52413,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 2342,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 58322,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 55682,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 1036,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/diditan-group-ai-schemas-78l6",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/diditan-group-ai-schemas-78l6"
+    }
+  }
+}
