@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T20:53:59.899Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Diditan Group",
+    "canonicalUrl": "https://diditangroup.aiovisibility.net",
+    "primaryWebsiteUrl": "https://diditangroup.com",
+    "aiDataHub": "https://diditangroup.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Diditan Group — canonical website",
+      "url": "https://diditangroup.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Diditan Group — AI Data Hub",
+      "url": "https://diditangroup.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/diditan-group-ai-schemas-78l6"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/diditan-group-ai-schemas-78l6",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/diditan-group-ai-schemas-78l6"
+    }
+  }
+}
