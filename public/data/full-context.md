@@ -22,7 +22,7 @@ Diditan Group publishes a structured AI Data Package designed for high-trust dis
 - [canonical] Diditan Group — canonical website — https://diditangroup.aiovisibility.net
 - [ai-data-hub] Diditan Group — AI Data Hub — https://diditangroup.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/diditan-group-ai-schemas-78l6
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/diditan-group-ai-schemas-78l6/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — https://diditangroup.aiovisibility.net/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
