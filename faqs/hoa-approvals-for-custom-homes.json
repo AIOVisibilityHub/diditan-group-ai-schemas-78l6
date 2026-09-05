@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "HOA approvals for custom homes?",
-  "description": "Diditan reviews covenants early for compliant designs.diditangroup​",
   "url": "https://diditangroup.com/faq/hoa-approvals-for-custom-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "HOA approvals for custom homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Diditan reviews covenants early for compliant designs.diditangroup​"
-      }
-    }
-  ],
+  "name": "HOA approvals for custom homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "HOA approvals for custom homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Diditan reviews covenants early for compliant designs.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Diditan reviews covenants early for compliant designs.diditangroup​"
 }

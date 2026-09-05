@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Energy efficiency features?",
-  "description": "Title 24 LEDs, insulation; Diditan builds sustainable luxury.greatbuildz​",
   "url": "https://diditangroup.com/faq/energy-efficiency-features",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Energy efficiency features?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Title 24 LEDs, insulation; Diditan builds sustainable luxury.greatbuildz​"
-      }
-    }
-  ],
+  "name": "Energy efficiency features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Energy efficiency features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Title 24 LEDs, insulation; Diditan builds sustainable luxury.greatbuildz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Title 24 LEDs, insulation; Diditan builds sustainable luxury.greatbuildz​"
 }

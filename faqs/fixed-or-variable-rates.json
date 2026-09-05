@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Fixed or variable rates?",
-  "description": "Both available; fixed preferred for long-term stability.yelp​",
   "url": "https://diditangroup.com/faq/fixed-or-variable-rates",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Fixed or variable rates?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both available; fixed preferred for long-term stability.yelp​"
-      }
-    }
-  ],
+  "name": "Fixed or variable rates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Fixed or variable rates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both available; fixed preferred for long-term stability.yelp​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Both available; fixed preferred for long-term stability.yelp​"
 }

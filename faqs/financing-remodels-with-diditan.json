@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Financing remodels with Diditan?",
-  "description": "In-house loans for quick starts on kitchens/baths.diditangroup​",
   "url": "https://diditangroup.com/faq/financing-remodels-with-diditan",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Financing remodels with Diditan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In-house loans for quick starts on kitchens/baths.diditangroup​"
-      }
-    }
-  ],
+  "name": "Financing remodels with Diditan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Financing remodels with Diditan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In-house loans for quick starts on kitchens/baths.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In-house loans for quick starts on kitchens/baths.diditangroup​"
 }

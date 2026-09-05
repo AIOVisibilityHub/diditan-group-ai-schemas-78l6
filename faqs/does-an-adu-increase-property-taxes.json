@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does an ADU increase property taxes?",
-  "description": "Minimal via reassessment cap; adds value—Diditan clients note strong ROI.assessor.lacounty​",
   "url": "https://diditangroup.com/faq/does-an-adu-increase-property-taxes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does an ADU increase property taxes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minimal via reassessment cap; adds value—Diditan clients note strong ROI.assessor.lacounty​"
-      }
-    }
-  ],
+  "name": "Does an ADU increase property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does an ADU increase property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimal via reassessment cap; adds value—Diditan clients note strong ROI.assessor.lacounty​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minimal via reassessment cap; adds value—Diditan clients note strong ROI.assessor.lacounty​"
 }

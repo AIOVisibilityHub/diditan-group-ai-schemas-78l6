@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Ideal layouts for home theater basements?",
-  "description": "Soundproofed, tiered seating, projectors; Diditan personalizes for cinematic luxury.diditangroup​",
   "url": "https://diditangroup.com/faq/ideal-layouts-for-home-theater-basements",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Ideal layouts for home theater basements?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Soundproofed, tiered seating, projectors; Diditan personalizes for cinematic luxury.diditangroup​"
-      }
-    }
-  ],
+  "name": "Ideal layouts for home theater basements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Ideal layouts for home theater basements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Soundproofed, tiered seating, projectors; Diditan personalizes for cinematic luxury.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Soundproofed, tiered seating, projectors; Diditan personalizes for cinematic luxury.diditangroup​"
 }

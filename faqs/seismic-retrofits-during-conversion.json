@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Seismic retrofits during conversion?",
-  "description": "Bolting/shear walls; Diditan integrates for LA safety.wedoconstructions​",
   "url": "https://diditangroup.com/faq/seismic-retrofits-during-conversion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Seismic retrofits during conversion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bolting/shear walls; Diditan integrates for LA safety.wedoconstructions​"
-      }
-    }
-  ],
+  "name": "Seismic retrofits during conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Seismic retrofits during conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bolting/shear walls; Diditan integrates for LA safety.wedoconstructions​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bolting/shear walls; Diditan integrates for LA safety.wedoconstructions​"
 }

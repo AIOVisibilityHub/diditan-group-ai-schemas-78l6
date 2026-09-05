@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are JADUs different from full ADUs?",
-  "description": "JADUs max 500 sq ft inside primary home; Diditan focuses on full granny flats.housing.lacity​",
   "url": "https://diditangroup.com/faq/are-jadus-different-from-full-adus",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are JADUs different from full ADUs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "JADUs max 500 sq ft inside primary home; Diditan focuses on full granny flats.housing.lacity​"
-      }
-    }
-  ],
+  "name": "Are JADUs different from full ADUs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are JADUs different from full ADUs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "JADUs max 500 sq ft inside primary home; Diditan focuses on full granny flats.housing.lacity​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "JADUs max 500 sq ft inside primary home; Diditan focuses on full granny flats.housing.lacity​"
 }

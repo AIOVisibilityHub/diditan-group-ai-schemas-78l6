@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Diditan Group build ADUs in Los Angeles?",
-  "description": "Yes, they've completed garage conversions and granny flats with luxury craftsmanship for added home appeal.diditangroup​",
   "url": "https://diditangroup.com/faq/can-diditan-group-build-adus-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Diditan Group build ADUs in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, they've completed garage conversions and granny flats with luxury craftsmanship for added home appeal.diditangroup​"
-      }
-    }
-  ],
+  "name": "Can Diditan Group build ADUs in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Diditan Group build ADUs in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, they've completed garage conversions and granny flats with luxury craftsmanship for added home appeal.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, they've completed garage conversions and granny flats with luxury craftsmanship for added home appeal.diditangroup​"
 }

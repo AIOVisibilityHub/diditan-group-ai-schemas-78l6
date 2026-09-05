@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What final inspections for multi-unit CO?",
-  "description": "City, fire, and habitability; Diditan ensures punch-list completion before occupancy.diditangroup​",
   "url": "https://diditangroup.com/faq/what-final-inspections-for-multi-unit-co",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What final inspections for multi-unit CO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "City, fire, and habitability; Diditan ensures punch-list completion before occupancy.diditangroup​"
-      }
-    }
-  ],
+  "name": "What final inspections for multi-unit CO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What final inspections for multi-unit CO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City, fire, and habitability; Diditan ensures punch-list completion before occupancy.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "City, fire, and habitability; Diditan ensures punch-list completion before occupancy.diditangroup​"
 }

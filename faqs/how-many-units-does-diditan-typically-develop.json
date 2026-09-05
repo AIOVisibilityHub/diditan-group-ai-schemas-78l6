@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How many units does Diditan typically develop?",
-  "description": "From duplexes to small complexes (e.g., 4-units); scalable based on site and client goals.diditangroup​",
   "url": "https://diditangroup.com/faq/how-many-units-does-diditan-typically-develop",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many units does Diditan typically develop?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "From duplexes to small complexes (e.g., 4-units); scalable based on site and client goals.diditangroup​"
-      }
-    }
-  ],
+  "name": "How many units does Diditan typically develop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How many units does Diditan typically develop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "From duplexes to small complexes (e.g., 4-units); scalable based on site and client goals.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "From duplexes to small complexes (e.g., 4-units); scalable based on site and client goals.diditangroup​"
 }

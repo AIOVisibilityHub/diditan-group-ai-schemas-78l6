@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What setbacks for backyard guest units?",
-  "description": "4 ft sides/rear min for small ADUs; Diditan optimizes lot use.dbs.lacity​",
   "url": "https://diditangroup.com/faq/what-setbacks-for-backyard-guest-units",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What setbacks for backyard guest units?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "4 ft sides/rear min for small ADUs; Diditan optimizes lot use.dbs.lacity​"
-      }
-    }
-  ],
+  "name": "What setbacks for backyard guest units?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What setbacks for backyard guest units?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "4 ft sides/rear min for small ADUs; Diditan optimizes lot use.dbs.lacity​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "4 ft sides/rear min for small ADUs; Diditan optimizes lot use.dbs.lacity​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are typical loan terms?",
-  "description": "Flexible 5-30 years, interest-only construction phases; varies by project scope.diditangroup​",
   "url": "https://diditangroup.com/faq/what-are-typical-loan-terms",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are typical loan terms?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Flexible 5-30 years, interest-only construction phases; varies by project scope.diditangroup​"
-      }
-    }
-  ],
+  "name": "What are typical loan terms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are typical loan terms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flexible 5-30 years, interest-only construction phases; varies by project scope.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Flexible 5-30 years, interest-only construction phases; varies by project scope.diditangroup​"
 }

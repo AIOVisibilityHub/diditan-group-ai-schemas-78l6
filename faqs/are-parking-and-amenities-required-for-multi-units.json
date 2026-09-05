@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are parking and amenities required for multi-units?",
-  "description": "LA mandates them; Diditan designs integrated garages and luxury features like pools.diditangroup​",
   "url": "https://diditangroup.com/faq/are-parking-and-amenities-required-for-multi-units",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are parking and amenities required for multi-units?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "LA mandates them; Diditan designs integrated garages and luxury features like pools.diditangroup​"
-      }
-    }
-  ],
+  "name": "Are parking and amenities required for multi-units?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are parking and amenities required for multi-units?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LA mandates them; Diditan designs integrated garages and luxury features like pools.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "LA mandates them; Diditan designs integrated garages and luxury features like pools.diditangroup​"
 }

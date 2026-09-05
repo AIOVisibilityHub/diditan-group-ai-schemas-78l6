@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Diditan handle permits in Los Angeles?",
-  "description": "They manage complex LA zoning, HOA approvals, and city permits to minimize delays on custom projects. sheffieldhomes​",
   "url": "https://diditangroup.com/faq/how-does-diditan-handle-permits-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Diditan handle permits in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "They manage complex LA zoning, HOA approvals, and city permits to minimize delays on custom projects. sheffieldhomes​"
-      }
-    }
-  ],
+  "name": "How does Diditan handle permits in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Diditan handle permits in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "They manage complex LA zoning, HOA approvals, and city permits to minimize delays on custom projects. sheffieldhomes​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "They manage complex LA zoning, HOA approvals, and city permits to minimize delays on custom projects. sheffieldhomes​"
 }

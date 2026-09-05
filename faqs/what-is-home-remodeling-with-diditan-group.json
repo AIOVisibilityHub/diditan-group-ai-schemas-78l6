@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is home remodeling with Diditan Group?",
-  "description": "Personalized upgrades to kitchens, baths, bedrooms, basements, and whole homes, enhancing function, style, and value through custom design.diditangroup​",
   "url": "https://diditangroup.com/faq/what-is-home-remodeling-with-diditan-group",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is home remodeling with Diditan Group?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Personalized upgrades to kitchens, baths, bedrooms, basements, and whole homes, enhancing function, style, and value through custom design.diditangroup​"
-      }
-    }
-  ],
+  "name": "What is home remodeling with Diditan Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is home remodeling with Diditan Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Personalized upgrades to kitchens, baths, bedrooms, basements, and whole homes, enhancing function, style, and value through custom design.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Personalized upgrades to kitchens, baths, bedrooms, basements, and whole homes, enhancing function, style, and value through custom design.diditangroup​"
 }

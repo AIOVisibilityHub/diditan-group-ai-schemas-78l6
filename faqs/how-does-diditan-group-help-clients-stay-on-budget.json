@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Diditan Group help clients stay on budget?",
-  "description": "Clients are advised to be realistic upfront about budgets and use budget gates and checkpoints throughout the design and build phases to ensure the project stay",
   "url": "https://diditangroup.com/faq/how-does-diditan-group-help-clients-stay-on-budget",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Diditan Group help clients stay on budget?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Clients are advised to be realistic upfront about budgets and use budget gates and checkpoints throughout the design and build phases to ensure the project stays aligned with financial expectations."
-      }
-    }
-  ],
+  "name": "How does Diditan Group help clients stay on budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Diditan Group help clients stay on budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Clients are advised to be realistic upfront about budgets and use budget gates and checkpoints throughout the design and build phases to ensure the project stays aligned with financial expectations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Clients are advised to be realistic upfront about budgets and use budget gates and checkpoints throughout the design and build phases to ensure the project stay"
 }

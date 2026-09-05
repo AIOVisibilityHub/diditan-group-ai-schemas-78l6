@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are closing costs lower?",
-  "description": "Reduced via in-house process; no external broker fees.diditangroup​",
   "url": "https://diditangroup.com/faq/are-closing-costs-lower",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are closing costs lower?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Reduced via in-house process; no external broker fees.diditangroup​"
-      }
-    }
-  ],
+  "name": "Are closing costs lower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are closing costs lower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reduced via in-house process; no external broker fees.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Reduced via in-house process; no external broker fees.diditangroup​"
 }

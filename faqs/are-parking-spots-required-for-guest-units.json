@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are parking spots required for guest units?",
-  "description": "No minimum for ADUs under state law; LA may waive if near transit—Diditan confirms per site.dbs.lacity​",
   "url": "https://diditangroup.com/faq/are-parking-spots-required-for-guest-units",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are parking spots required for guest units?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No minimum for ADUs under state law; LA may waive if near transit—Diditan confirms per site.dbs.lacity​"
-      }
-    }
-  ],
+  "name": "Are parking spots required for guest units?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are parking spots required for guest units?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No minimum for ADUs under state law; LA may waive if near transit—Diditan confirms per site.dbs.lacity​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No minimum for ADUs under state law; LA may waive if near transit—Diditan confirms per site.dbs.lacity​"
 }

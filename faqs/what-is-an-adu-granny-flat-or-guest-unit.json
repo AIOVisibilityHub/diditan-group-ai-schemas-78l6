@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is an ADU, granny flat, or guest unit?",
-  "description": "A secondary dwelling on the same lot as your primary home, with full kitchen, bath, and living space for family, guests, or rental income.housing.lacity​",
   "url": "https://diditangroup.com/faq/what-is-an-adu-granny-flat-or-guest-unit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is an ADU, granny flat, or guest unit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A secondary dwelling on the same lot as your primary home, with full kitchen, bath, and living space for family, guests, or rental income.housing.lacity​"
-      }
-    }
-  ],
+  "name": "What is an ADU, granny flat, or guest unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU, granny flat, or guest unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A secondary dwelling on the same lot as your primary home, with full kitchen, bath, and living space for family, guests, or rental income.housing.lacity​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A secondary dwelling on the same lot as your primary home, with full kitchen, bath, and living space for family, guests, or rental income.housing.lacity​"
 }

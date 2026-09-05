@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if HOA denies my ADU plans?",
-  "description": "Diditan redesigns to comply or appeals under state preemption laws.",
   "url": "https://diditangroup.com/faq/what-if-hoa-denies-my-adu-plans",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if HOA denies my ADU plans?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Diditan redesigns to comply or appeals under state preemption laws."
-      }
-    }
-  ],
+  "name": "What if HOA denies my ADU plans?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if HOA denies my ADU plans?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Diditan redesigns to comply or appeals under state preemption laws.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Diditan redesigns to comply or appeals under state preemption laws."
 }

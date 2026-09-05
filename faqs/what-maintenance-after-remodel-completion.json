@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance after remodel completion?",
-  "description": "Low with premium materials; Diditan offers 1-year check-ins.",
   "url": "https://diditangroup.com/faq/what-maintenance-after-remodel-completion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance after remodel completion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Low with premium materials; Diditan offers 1-year check-ins."
-      }
-    }
-  ],
+  "name": "What maintenance after remodel completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance after remodel completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low with premium materials; Diditan offers 1-year check-ins.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Low with premium materials; Diditan offers 1-year check-ins."
 }

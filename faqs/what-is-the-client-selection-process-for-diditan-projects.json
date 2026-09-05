@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the client selection process for Diditan projects?",
-  "description": "Initial consult filters for aligned vision/budget; prioritizes serious LA clients for personalized attention.",
   "url": "https://diditangroup.com/faq/what-is-the-client-selection-process-for-diditan-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the client selection process for Diditan projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Initial consult filters for aligned vision/budget; prioritizes serious LA clients for personalized attention."
-      }
-    }
-  ],
+  "name": "What is the client selection process for Diditan projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the client selection process for Diditan projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Initial consult filters for aligned vision/budget; prioritizes serious LA clients for personalized attention.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Initial consult filters for aligned vision/budget; prioritizes serious LA clients for personalized attention."
 }

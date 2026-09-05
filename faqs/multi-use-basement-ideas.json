@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Multi-use basement ideas?",
-  "description": "Gym/theater combos; Diditan layouts flex for families.diditangroup​",
   "url": "https://diditangroup.com/faq/multi-use-basement-ideas",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Multi-use basement ideas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gym/theater combos; Diditan layouts flex for families.diditangroup​"
-      }
-    }
-  ],
+  "name": "Multi-use basement ideas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Multi-use basement ideas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gym/theater combos; Diditan layouts flex for families.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Gym/theater combos; Diditan layouts flex for families.diditangroup​"
 }

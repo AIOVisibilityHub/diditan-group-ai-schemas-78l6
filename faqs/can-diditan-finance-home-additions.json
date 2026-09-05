@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Diditan finance home additions?",
-  "description": "Yes, in-house options streamline funding for expansions like master suites or family rooms.diditangroup​",
   "url": "https://diditangroup.com/faq/can-diditan-finance-home-additions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Diditan finance home additions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, in-house options streamline funding for expansions like master suites or family rooms.diditangroup​"
-      }
-    }
-  ],
+  "name": "Can Diditan finance home additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Diditan finance home additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in-house options streamline funding for expansions like master suites or family rooms.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, in-house options streamline funding for expansions like master suites or family rooms.diditangroup​"
 }

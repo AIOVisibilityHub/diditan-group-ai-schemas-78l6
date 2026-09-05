@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is custom home construction with Diditan?",
-  "description": "Fully personalized new builds or reconstructions, from ground-up to Tuscan/modern designs tailored to your LA lifestyle.diditangroup​",
   "url": "https://diditangroup.com/faq/what-is-custom-home-construction-with-diditan",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is custom home construction with Diditan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fully personalized new builds or reconstructions, from ground-up to Tuscan/modern designs tailored to your LA lifestyle.diditangroup​"
-      }
-    }
-  ],
+  "name": "What is custom home construction with Diditan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom home construction with Diditan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fully personalized new builds or reconstructions, from ground-up to Tuscan/modern designs tailored to your LA lifestyle.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Fully personalized new builds or reconstructions, from ground-up to Tuscan/modern designs tailored to your LA lifestyle.diditangroup​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Impact on construction timeline?",
-  "description": "Accelerates starts; funds release match milestones.diditangroup​",
   "url": "https://diditangroup.com/faq/impact-on-construction-timeline",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Impact on construction timeline?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Accelerates starts; funds release match milestones.diditangroup​"
-      }
-    }
-  ],
+  "name": "Impact on construction timeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Impact on construction timeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accelerates starts; funds release match milestones.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Accelerates starts; funds release match milestones.diditangroup​"
 }

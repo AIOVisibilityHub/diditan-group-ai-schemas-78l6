@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What site prep costs for additions?",
-  "description": "$3K-$10K for grading/demo; Diditan quotes transparently including foundations/utilities.angi​",
   "url": "https://diditangroup.com/faq/what-site-prep-costs-for-additions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What site prep costs for additions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$3K-$10K for grading/demo; Diditan quotes transparently including foundations/utilities.angi​"
-      }
-    }
-  ],
+  "name": "What site prep costs for additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What site prep costs for additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$3K-$10K for grading/demo; Diditan quotes transparently including foundations/utilities.angi​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$3K-$10K for grading/demo; Diditan quotes transparently including foundations/utilities.angi​"
 }

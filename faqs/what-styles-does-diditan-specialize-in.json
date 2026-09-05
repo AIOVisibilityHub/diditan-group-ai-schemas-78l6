@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What styles does Diditan specialize in?",
-  "description": "Tuscan, Modern, Mediterranean, Contemporary, and bespoke luxury designs tailored to LA lifestyles. houzz​",
   "url": "https://diditangroup.com/faq/what-styles-does-diditan-specialize-in",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What styles does Diditan specialize in?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tuscan, Modern, Mediterranean, Contemporary, and bespoke luxury designs tailored to LA lifestyles. houzz​"
-      }
-    }
-  ],
+  "name": "What styles does Diditan specialize in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What styles does Diditan specialize in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tuscan, Modern, Mediterranean, Contemporary, and bespoke luxury designs tailored to LA lifestyles. houzz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Tuscan, Modern, Mediterranean, Contemporary, and bespoke luxury designs tailored to LA lifestyles. houzz​"
 }

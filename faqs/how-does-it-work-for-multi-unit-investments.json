@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does it work for multi-unit investments?",
-  "description": "Funds development with rental income projections; supports ROI-focused flips.diditangroup​",
   "url": "https://diditangroup.com/faq/how-does-it-work-for-multi-unit-investments",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does it work for multi-unit investments?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Funds development with rental income projections; supports ROI-focused flips.diditangroup​"
-      }
-    }
-  ],
+  "name": "How does it work for multi-unit investments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does it work for multi-unit investments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Funds development with rental income projections; supports ROI-focused flips.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Funds development with rental income projections; supports ROI-focused flips.diditangroup​"
 }

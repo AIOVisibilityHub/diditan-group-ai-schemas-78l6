@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Timeline disruptions from LA weather?",
-  "description": "Minimal; Diditan prioritizes interiors during rains.wedoconstructions​",
   "url": "https://diditangroup.com/faq/timeline-disruptions-from-la-weather",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Timeline disruptions from LA weather?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minimal; Diditan prioritizes interiors during rains.wedoconstructions​"
-      }
-    }
-  ],
+  "name": "Timeline disruptions from LA weather?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Timeline disruptions from LA weather?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimal; Diditan prioritizes interiors during rains.wedoconstructions​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minimal; Diditan prioritizes interiors during rains.wedoconstructions​"
 }

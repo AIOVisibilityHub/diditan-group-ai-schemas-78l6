@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can investors use it for flips?",
-  "description": "Yes, short-term construction loans convertible to permanent financing.diditangroup​",
   "url": "https://diditangroup.com/faq/can-investors-use-it-for-flips",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can investors use it for flips?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, short-term construction loans convertible to permanent financing.diditangroup​"
-      }
-    }
-  ],
+  "name": "Can investors use it for flips?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can investors use it for flips?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, short-term construction loans convertible to permanent financing.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, short-term construction loans convertible to permanent financing.diditangroup​"
 }

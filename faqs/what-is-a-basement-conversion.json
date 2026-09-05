@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a basement conversion?",
-  "description": "Turning raw basement into finished living space with floors, walls, lighting, and custom layouts for luxury use.diditangroup​",
   "url": "https://diditangroup.com/faq/what-is-a-basement-conversion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a basement conversion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Turning raw basement into finished living space with floors, walls, lighting, and custom layouts for luxury use.diditangroup​"
-      }
-    }
-  ],
+  "name": "What is a basement conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a basement conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Turning raw basement into finished living space with floors, walls, lighting, and custom layouts for luxury use.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Turning raw basement into finished living space with floors, walls, lighting, and custom layouts for luxury use.diditangroup​"
 }

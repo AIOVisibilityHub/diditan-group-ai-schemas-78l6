@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do entitlements differ from permits?",
-  "description": "Entitlements secure variances/zoning changes first; Diditan gets legal green lights.",
   "url": "https://diditangroup.com/faq/how-do-entitlements-differ-from-permits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do entitlements differ from permits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Entitlements secure variances/zoning changes first; Diditan gets legal green lights."
-      }
-    }
-  ],
+  "name": "How do entitlements differ from permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do entitlements differ from permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Entitlements secure variances/zoning changes first; Diditan gets legal green lights.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Entitlements secure variances/zoning changes first; Diditan gets legal green lights."
 }

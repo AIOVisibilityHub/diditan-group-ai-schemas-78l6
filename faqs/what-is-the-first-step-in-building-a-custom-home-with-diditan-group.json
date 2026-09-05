@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the first step in building a custom home with Diditan Group?",
-  "description": "Start with a consultation to discuss your vision, budget, lot, and timeline; Diditan handles design, permits, and integrated financing from there. diditangroup​",
   "url": "https://diditangroup.com/faq/what-is-the-first-step-in-building-a-custom-home-with-diditan-group",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the first step in building a custom home with Diditan Group?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start with a consultation to discuss your vision, budget, lot, and timeline; Diditan handles design, permits, and integrated financing from there. diditangroup​"
-      }
-    }
-  ],
+  "name": "What is the first step in building a custom home with Diditan Group?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the first step in building a custom home with Diditan Group?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with a consultation to discuss your vision, budget, lot, and timeline; Diditan handles design, permits, and integrated financing from there. diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Start with a consultation to discuss your vision, budget, lot, and timeline; Diditan handles design, permits, and integrated financing from there. diditangroup​"
 }

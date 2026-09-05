@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Energy-efficient remodel options?",
-  "description": "LED, insulation, solar; Diditan meets Title 24 for LA compliance.greatbuildz​",
   "url": "https://diditangroup.com/faq/energy-efficient-remodel-options",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Energy-efficient remodel options?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "LED, insulation, solar; Diditan meets Title 24 for LA compliance.greatbuildz​"
-      }
-    }
-  ],
+  "name": "Energy-efficient remodel options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Energy-efficient remodel options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LED, insulation, solar; Diditan meets Title 24 for LA compliance.greatbuildz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "LED, insulation, solar; Diditan meets Title 24 for LA compliance.greatbuildz​"
 }

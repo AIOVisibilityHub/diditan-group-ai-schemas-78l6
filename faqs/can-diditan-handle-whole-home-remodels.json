@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Diditan handle whole-home remodels?",
-  "description": "Yes, from drab-to-fab transformations with permits, staying on budget and timeline. diditangroup​",
   "url": "https://diditangroup.com/faq/can-diditan-handle-whole-home-remodels",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Diditan handle whole-home remodels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, from drab-to-fab transformations with permits, staying on budget and timeline. diditangroup​"
-      }
-    }
-  ],
+  "name": "Can Diditan handle whole-home remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Diditan handle whole-home remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, from drab-to-fab transformations with permits, staying on budget and timeline. diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, from drab-to-fab transformations with permits, staying on budget and timeline. diditangroup​"
 }

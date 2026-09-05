@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What EV-ready features in Diditan garages?",
-  "description": "240V pre-wiring, panels; standard for 2026 LA luxury builds.",
   "url": "https://diditangroup.com/faq/what-ev-ready-features-in-diditan-garages",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What EV-ready features in Diditan garages?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "240V pre-wiring, panels; standard for 2026 LA luxury builds."
-      }
-    }
-  ],
+  "name": "What EV-ready features in Diditan garages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What EV-ready features in Diditan garages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "240V pre-wiring, panels; standard for 2026 LA luxury builds.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "240V pre-wiring, panels; standard for 2026 LA luxury builds."
 }

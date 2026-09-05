@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a kitchen remodel cost in LA?",
-  "description": "$30K-$100K+ ($150-$700/SF); Diditan delivers mid-to-luxury with quartz counters and pro appliances.wedoconstructions+1",
   "url": "https://diditangroup.com/faq/how-much-does-a-kitchen-remodel-cost-in-la",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a kitchen remodel cost in LA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$30K-$100K+ ($150-$700/SF); Diditan delivers mid-to-luxury with quartz counters and pro appliances.wedoconstructions+1"
-      }
-    }
-  ],
+  "name": "How much does a kitchen remodel cost in LA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a kitchen remodel cost in LA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$30K-$100K+ ($150-$700/SF); Diditan delivers mid-to-luxury with quartz counters and pro appliances.wedoconstructions+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$30K-$100K+ ($150-$700/SF); Diditan delivers mid-to-luxury with quartz counters and pro appliances.wedoconstructions+1"
 }

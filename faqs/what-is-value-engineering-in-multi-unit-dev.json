@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is value engineering in multi-unit dev?",
-  "description": "Cost optimization without cutting quality, e.g., efficient layouts Diditan uses for profitability.diditangroup​",
   "url": "https://diditangroup.com/faq/what-is-value-engineering-in-multi-unit-dev",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is value engineering in multi-unit dev?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost optimization without cutting quality, e.g., efficient layouts Diditan uses for profitability.diditangroup​"
-      }
-    }
-  ],
+  "name": "What is value engineering in multi-unit dev?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is value engineering in multi-unit dev?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost optimization without cutting quality, e.g., efficient layouts Diditan uses for profitability.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Cost optimization without cutting quality, e.g., efficient layouts Diditan uses for profitability.diditangroup​"
 }

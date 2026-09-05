@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does noise ordinance affect LA remodels?",
-  "description": "Night/weekend limits; Diditan schedules tenant-friendly phases.",
   "url": "https://diditangroup.com/faq/how-does-noise-ordinance-affect-la-remodels",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does noise ordinance affect LA remodels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Night/weekend limits; Diditan schedules tenant-friendly phases."
-      }
-    }
-  ],
+  "name": "How does noise ordinance affect LA remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does noise ordinance affect LA remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Night/weekend limits; Diditan schedules tenant-friendly phases.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Night/weekend limits; Diditan schedules tenant-friendly phases."
 }

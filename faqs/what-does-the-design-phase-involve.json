@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does the design phase involve?",
-  "description": "Client consultations, architect collaboration, 3D renders; full personalization before groundbreaking.diditangroup​",
   "url": "https://diditangroup.com/faq/what-does-the-design-phase-involve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does the design phase involve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Client consultations, architect collaboration, 3D renders; full personalization before groundbreaking.diditangroup​"
-      }
-    }
-  ],
+  "name": "What does the design phase involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does the design phase involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Client consultations, architect collaboration, 3D renders; full personalization before groundbreaking.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Client consultations, architect collaboration, 3D renders; full personalization before groundbreaking.diditangroup​"
 }

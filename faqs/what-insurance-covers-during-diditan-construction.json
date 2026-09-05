@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What insurance covers during Diditan construction?",
-  "description": "Builder's risk policy protects materials/site; client options advised.",
   "url": "https://diditangroup.com/faq/what-insurance-covers-during-diditan-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What insurance covers during Diditan construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Builder's risk policy protects materials/site; client options advised."
-      }
-    }
-  ],
+  "name": "What insurance covers during Diditan construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What insurance covers during Diditan construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Builder's risk policy protects materials/site; client options advised.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Builder's risk policy protects materials/site; client options advised."
 }

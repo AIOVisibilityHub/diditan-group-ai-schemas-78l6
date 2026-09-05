@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What fire safety upgrades in hillside additions?",
-  "description": "Sprinklers, clearances; Diditan meets strict LA codes.",
   "url": "https://diditangroup.com/faq/what-fire-safety-upgrades-in-hillside-additions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What fire safety upgrades in hillside additions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sprinklers, clearances; Diditan meets strict LA codes."
-      }
-    }
-  ],
+  "name": "What fire safety upgrades in hillside additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What fire safety upgrades in hillside additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sprinklers, clearances; Diditan meets strict LA codes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Sprinklers, clearances; Diditan meets strict LA codes."
 }

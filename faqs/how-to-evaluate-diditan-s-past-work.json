@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to evaluate Diditan's past work?",
-  "description": "Review portfolio, Houzz photos, and testimonials for craftsmanship proof. houzz​",
   "url": "https://diditangroup.com/faq/how-to-evaluate-diditan-s-past-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to evaluate Diditan's past work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Review portfolio, Houzz photos, and testimonials for craftsmanship proof. houzz​"
-      }
-    }
-  ],
+  "name": "How to evaluate Diditan's past work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to evaluate Diditan's past work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Review portfolio, Houzz photos, and testimonials for craftsmanship proof. houzz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Review portfolio, Houzz photos, and testimonials for craftsmanship proof. houzz​"
 }

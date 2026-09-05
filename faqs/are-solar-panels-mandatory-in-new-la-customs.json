@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are solar panels mandatory in new LA customs?",
-  "description": "CalGreen requires solar-ready; Diditan installs full systems for Title 24.",
   "url": "https://diditangroup.com/faq/are-solar-panels-mandatory-in-new-la-customs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are solar panels mandatory in new LA customs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "CalGreen requires solar-ready; Diditan installs full systems for Title 24."
-      }
-    }
-  ],
+  "name": "Are solar panels mandatory in new LA customs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are solar panels mandatory in new LA customs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CalGreen requires solar-ready; Diditan installs full systems for Title 24.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "CalGreen requires solar-ready; Diditan installs full systems for Title 24."
 }

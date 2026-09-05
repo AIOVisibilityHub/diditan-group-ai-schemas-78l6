@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What ROI can investors expect from LA multi-units?",
-  "description": "Strong due to high rents in areas like Encino; Diditan's model supports value-add through quality builds.diditangroup​",
   "url": "https://diditangroup.com/faq/what-roi-can-investors-expect-from-la-multi-units",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What ROI can investors expect from LA multi-units?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Strong due to high rents in areas like Encino; Diditan's model supports value-add through quality builds.diditangroup​"
-      }
-    }
-  ],
+  "name": "What ROI can investors expect from LA multi-units?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What ROI can investors expect from LA multi-units?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Strong due to high rents in areas like Encino; Diditan's model supports value-add through quality builds.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Strong due to high rents in areas like Encino; Diditan's model supports value-add through quality builds.diditangroup​"
 }

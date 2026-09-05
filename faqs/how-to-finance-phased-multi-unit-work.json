@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to finance phased multi-unit work?",
-  "description": "Draw schedule matches progress; flexible disbursements.",
   "url": "https://diditangroup.com/faq/how-to-finance-phased-multi-unit-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to finance phased multi-unit work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Draw schedule matches progress; flexible disbursements."
-      }
-    }
-  ],
+  "name": "How to finance phased multi-unit work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to finance phased multi-unit work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Draw schedule matches progress; flexible disbursements.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Draw schedule matches progress; flexible disbursements."
 }

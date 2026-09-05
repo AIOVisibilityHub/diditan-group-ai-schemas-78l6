@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits for LA basement conversions?",
-  "description": "LADBS egress/structural review; Diditan handles seismic compliance.wedoconstructions​",
   "url": "https://diditangroup.com/faq/what-permits-for-la-basement-conversions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits for LA basement conversions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "LADBS egress/structural review; Diditan handles seismic compliance.wedoconstructions​"
-      }
-    }
-  ],
+  "name": "What permits for LA basement conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits for LA basement conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LADBS egress/structural review; Diditan handles seismic compliance.wedoconstructions​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "LADBS egress/structural review; Diditan handles seismic compliance.wedoconstructions​"
 }

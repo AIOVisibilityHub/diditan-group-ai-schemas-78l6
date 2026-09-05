@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does reconstruction differ from new construction?",
-  "description": "Reconstruction demos/rebuilds existing structures; Diditan specializes in both for seamless luxury transformations.diditangroup​",
   "url": "https://diditangroup.com/faq/how-does-reconstruction-differ-from-new-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does reconstruction differ from new construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Reconstruction demos/rebuilds existing structures; Diditan specializes in both for seamless luxury transformations.diditangroup​"
-      }
-    }
-  ],
+  "name": "How does reconstruction differ from new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does reconstruction differ from new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reconstruction demos/rebuilds existing structures; Diditan specializes in both for seamless luxury transformations.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Reconstruction demos/rebuilds existing structures; Diditan specializes in both for seamless luxury transformations.diditangroup​"
 }

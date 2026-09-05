@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What credit score is required?",
-  "description": "680+ preferred; Diditan reviews holistically for builders/investors.diditangroup​",
   "url": "https://diditangroup.com/faq/what-credit-score-is-required",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What credit score is required?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "680+ preferred; Diditan reviews holistically for builders/investors.diditangroup​"
-      }
-    }
-  ],
+  "name": "What credit score is required?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What credit score is required?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "680+ preferred; Diditan reviews holistically for builders/investors.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "680+ preferred; Diditan reviews holistically for builders/investors.diditangroup​"
 }

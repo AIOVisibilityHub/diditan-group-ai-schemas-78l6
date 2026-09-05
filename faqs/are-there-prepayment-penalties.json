@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there prepayment penalties?",
-  "description": "Minimal/none; Diditan prioritizes client flexibility post-construction.yelp​",
   "url": "https://diditangroup.com/faq/are-there-prepayment-penalties",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there prepayment penalties?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minimal/none; Diditan prioritizes client flexibility post-construction.yelp​"
-      }
-    }
-  ],
+  "name": "Are there prepayment penalties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there prepayment penalties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimal/none; Diditan prioritizes client flexibility post-construction.yelp​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minimal/none; Diditan prioritizes client flexibility post-construction.yelp​"
 }

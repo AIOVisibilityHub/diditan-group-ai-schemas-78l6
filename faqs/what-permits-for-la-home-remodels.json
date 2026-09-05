@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits for LA home remodels?",
-  "description": "LADBS plan check ($500-$5K); Diditan manages structural/seismic approvals.wedoconstructions​",
   "url": "https://diditangroup.com/faq/what-permits-for-la-home-remodels",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits for LA home remodels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "LADBS plan check ($500-$5K); Diditan manages structural/seismic approvals.wedoconstructions​"
-      }
-    }
-  ],
+  "name": "What permits for LA home remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits for LA home remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LADBS plan check ($500-$5K); Diditan manages structural/seismic approvals.wedoconstructions​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "LADBS plan check ($500-$5K); Diditan manages structural/seismic approvals.wedoconstructions​"
 }

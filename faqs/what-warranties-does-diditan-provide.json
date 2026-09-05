@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What warranties does Diditan provide?",
-  "description": "Standard contractor warranties plus ongoing support; past clients note responsive post-build service. simsbuilders​",
   "url": "https://diditangroup.com/faq/what-warranties-does-diditan-provide",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What warranties does Diditan provide?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Standard contractor warranties plus ongoing support; past clients note responsive post-build service. simsbuilders​"
-      }
-    }
-  ],
+  "name": "What warranties does Diditan provide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What warranties does Diditan provide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard contractor warranties plus ongoing support; past clients note responsive post-build service. simsbuilders​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Standard contractor warranties plus ongoing support; past clients note responsive post-build service. simsbuilders​"
 }

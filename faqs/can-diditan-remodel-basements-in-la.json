@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Diditan remodel basements in LA?",
-  "description": "Yes, though rare due to climate; converts to media rooms/gyms with $50K-$150K for luxury finishes.greatbuildz​",
   "url": "https://diditangroup.com/faq/can-diditan-remodel-basements-in-la",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Diditan remodel basements in LA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, though rare due to climate; converts to media rooms/gyms with $50K-$150K for luxury finishes.greatbuildz​"
-      }
-    }
-  ],
+  "name": "Can Diditan remodel basements in LA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Diditan remodel basements in LA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, though rare due to climate; converts to media rooms/gyms with $50K-$150K for luxury finishes.greatbuildz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, though rare due to climate; converts to media rooms/gyms with $50K-$150K for luxury finishes.greatbuildz​"
 }

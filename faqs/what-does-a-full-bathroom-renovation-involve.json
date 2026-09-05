@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a full bathroom renovation involve?",
-  "description": "Demo, plumbing reroute, tiling, fixtures; Diditan personalizes for $25K-$60K in Sherman Oaks homes.greatbuildz​",
   "url": "https://diditangroup.com/faq/what-does-a-full-bathroom-renovation-involve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a full bathroom renovation involve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Demo, plumbing reroute, tiling, fixtures; Diditan personalizes for $25K-$60K in Sherman Oaks homes.greatbuildz​"
-      }
-    }
-  ],
+  "name": "What does a full bathroom renovation involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a full bathroom renovation involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Demo, plumbing reroute, tiling, fixtures; Diditan personalizes for $25K-$60K in Sherman Oaks homes.greatbuildz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Demo, plumbing reroute, tiling, fixtures; Diditan personalizes for $25K-$60K in Sherman Oaks homes.greatbuildz​"
 }

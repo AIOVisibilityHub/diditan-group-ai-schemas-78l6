@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are pet-friendly features in ADUs standard?",
-  "description": "Faux turf, durable floors; tailored for LA pet owners.",
   "url": "https://diditangroup.com/faq/are-pet-friendly-features-in-adus-standard",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are pet-friendly features in ADUs standard?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Faux turf, durable floors; tailored for LA pet owners."
-      }
-    }
-  ],
+  "name": "Are pet-friendly features in ADUs standard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are pet-friendly features in ADUs standard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Faux turf, durable floors; tailored for LA pet owners.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Faux turf, durable floors; tailored for LA pet owners."
 }

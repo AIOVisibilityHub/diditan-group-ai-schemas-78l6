@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What about kitchen or deck remodel timelines?",
-  "description": "Kitchens take 4-8 weeks; decks 2-6 weeks, per their blogs, factoring LA permits and custom finishes. diditangroup​",
   "url": "https://diditangroup.com/faq/what-about-kitchen-or-deck-remodel-timelines",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What about kitchen or deck remodel timelines?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Kitchens take 4-8 weeks; decks 2-6 weeks, per their blogs, factoring LA permits and custom finishes. diditangroup​"
-      }
-    }
-  ],
+  "name": "What about kitchen or deck remodel timelines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What about kitchen or deck remodel timelines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchens take 4-8 weeks; decks 2-6 weeks, per their blogs, factoring LA permits and custom finishes. diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kitchens take 4-8 weeks; decks 2-6 weeks, per their blogs, factoring LA permits and custom finishes. diditangroup​"
 }

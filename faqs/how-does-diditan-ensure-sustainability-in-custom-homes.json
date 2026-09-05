@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Diditan ensure sustainability in custom homes?",
-  "description": "Incorporates solar panels, low-flow fixtures, and recycled materials meeting CA Title 24 standards for green luxury builds.",
   "url": "https://diditangroup.com/faq/how-does-diditan-ensure-sustainability-in-custom-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Diditan ensure sustainability in custom homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Incorporates solar panels, low-flow fixtures, and recycled materials meeting CA Title 24 standards for green luxury builds."
-      }
-    }
-  ],
+  "name": "How does Diditan ensure sustainability in custom homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Diditan ensure sustainability in custom homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Incorporates solar panels, low-flow fixtures, and recycled materials meeting CA Title 24 standards for green luxury builds.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Incorporates solar panels, low-flow fixtures, and recycled materials meeting CA Title 24 standards for green luxury builds."
 }

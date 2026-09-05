@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the starting price for custom homes?",
-  "description": "$350,000+ scaling to millions based on size (2,000-10,000 SF), finishes, and lot in Sherman Oaks/Encino.houzz​",
   "url": "https://diditangroup.com/faq/what-is-the-starting-price-for-custom-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the starting price for custom homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$350,000+ scaling to millions based on size (2,000-10,000 SF), finishes, and lot in Sherman Oaks/Encino.houzz​"
-      }
-    }
-  ],
+  "name": "What is the starting price for custom homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the starting price for custom homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$350,000+ scaling to millions based on size (2,000-10,000 SF), finishes, and lot in Sherman Oaks/Encino.houzz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$350,000+ scaling to millions based on size (2,000-10,000 SF), finishes, and lot in Sherman Oaks/Encino.houzz​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Diditan handle LA hillside ordinances?",
-  "description": "Geotech reports, retaining walls; compliant for Encino/Miracle Mile slopes.",
   "url": "https://diditangroup.com/faq/how-does-diditan-handle-la-hillside-ordinances",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Diditan handle LA hillside ordinances?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Geotech reports, retaining walls; compliant for Encino/Miracle Mile slopes."
-      }
-    }
-  ],
+  "name": "How does Diditan handle LA hillside ordinances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Diditan handle LA hillside ordinances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Geotech reports, retaining walls; compliant for Encino/Miracle Mile slopes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Geotech reports, retaining walls; compliant for Encino/Miracle Mile slopes."
 }

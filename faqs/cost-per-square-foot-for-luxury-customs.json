@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Cost per square foot for luxury customs?",
-  "description": "$225-$600+; premium materials justify long-term value.houzz​",
   "url": "https://diditangroup.com/faq/cost-per-square-foot-for-luxury-customs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Cost per square foot for luxury customs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$225-$600+; premium materials justify long-term value.houzz​"
-      }
-    }
-  ],
+  "name": "Cost per square foot for luxury customs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Cost per square foot for luxury customs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$225-$600+; premium materials justify long-term value.houzz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$225-$600+; premium materials justify long-term value.houzz​"
 }

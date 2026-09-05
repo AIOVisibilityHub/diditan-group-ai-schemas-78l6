@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can multi-unit projects include luxury finishes?",
-  "description": "Absolutely; Diditan delivers high-end materials and designs, treating each unit like a custom home.diditangroup​",
   "url": "https://diditangroup.com/faq/can-multi-unit-projects-include-luxury-finishes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can multi-unit projects include luxury finishes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely; Diditan delivers high-end materials and designs, treating each unit like a custom home.diditangroup​"
-      }
-    }
-  ],
+  "name": "Can multi-unit projects include luxury finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can multi-unit projects include luxury finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely; Diditan delivers high-end materials and designs, treating each unit like a custom home.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Absolutely; Diditan delivers high-end materials and designs, treating each unit like a custom home.diditangroup​"
 }

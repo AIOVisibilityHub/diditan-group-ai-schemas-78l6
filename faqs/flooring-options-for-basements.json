@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Flooring options for basements?",
-  "description": "Waterproof LVP, carpet tiles; Diditan selects durable luxury.diditangroup​",
   "url": "https://diditangroup.com/faq/flooring-options-for-basements",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Flooring options for basements?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Waterproof LVP, carpet tiles; Diditan selects durable luxury.diditangroup​"
-      }
-    }
-  ],
+  "name": "Flooring options for basements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Flooring options for basements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproof LVP, carpet tiles; Diditan selects durable luxury.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Waterproof LVP, carpet tiles; Diditan selects durable luxury.diditangroup​"
 }

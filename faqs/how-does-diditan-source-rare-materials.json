@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Diditan source rare materials?",
-  "description": "Global networks for stone/tiles; fashion-inspired imports.",
   "url": "https://diditangroup.com/faq/how-does-diditan-source-rare-materials",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Diditan source rare materials?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Global networks for stone/tiles; fashion-inspired imports."
-      }
-    }
-  ],
+  "name": "How does Diditan source rare materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Diditan source rare materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Global networks for stone/tiles; fashion-inspired imports.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Global networks for stone/tiles; fashion-inspired imports."
 }

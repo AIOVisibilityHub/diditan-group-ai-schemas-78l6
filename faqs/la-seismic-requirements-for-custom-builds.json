@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "LA seismic requirements for custom builds?",
-  "description": "Full engineering/bolting; Diditan complies for safe luxury in earthquake zones.houzz​",
   "url": "https://diditangroup.com/faq/la-seismic-requirements-for-custom-builds",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "LA seismic requirements for custom builds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Full engineering/bolting; Diditan complies for safe luxury in earthquake zones.houzz​"
-      }
-    }
-  ],
+  "name": "LA seismic requirements for custom builds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "LA seismic requirements for custom builds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full engineering/bolting; Diditan complies for safe luxury in earthquake zones.houzz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Full engineering/bolting; Diditan complies for safe luxury in earthquake zones.houzz​"
 }

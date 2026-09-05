@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Sunroom or family room addition?",
-  "description": "$60K-$108K; Diditan creates seamless luxury spaces enhancing daily living.angi​",
   "url": "https://diditangroup.com/faq/sunroom-or-family-room-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Sunroom or family room addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$60K-$108K; Diditan creates seamless luxury spaces enhancing daily living.angi​"
-      }
-    }
-  ],
+  "name": "Sunroom or family room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Sunroom or family room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$60K-$108K; Diditan creates seamless luxury spaces enhancing daily living.angi​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$60K-$108K; Diditan creates seamless luxury spaces enhancing daily living.angi​"
 }

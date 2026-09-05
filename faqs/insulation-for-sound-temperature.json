@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Insulation for sound/temperature?",
-  "description": "Spray foam, acoustic panels; Diditan crafts quiet, efficient spaces.greatbuildz​",
   "url": "https://diditangroup.com/faq/insulation-for-sound-temperature",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Insulation for sound/temperature?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Spray foam, acoustic panels; Diditan crafts quiet, efficient spaces.greatbuildz​"
-      }
-    }
-  ],
+  "name": "Insulation for sound/temperature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Insulation for sound/temperature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spray foam, acoustic panels; Diditan crafts quiet, efficient spaces.greatbuildz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Spray foam, acoustic panels; Diditan crafts quiet, efficient spaces.greatbuildz​"
 }

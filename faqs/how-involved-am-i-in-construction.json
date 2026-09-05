@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How involved am I in construction?",
-  "description": "Milestone meetings, selections; Diditan communicates like \"your own home\" project.diditangroup​",
   "url": "https://diditangroup.com/faq/how-involved-am-i-in-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How involved am I in construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Milestone meetings, selections; Diditan communicates like \"your own home\" project.diditangroup​"
-      }
-    }
-  ],
+  "name": "How involved am I in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How involved am I in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Milestone meetings, selections; Diditan communicates like \"your own home\" project.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Milestone meetings, selections; Diditan communicates like \"your own home\" project.diditangroup​"
 }

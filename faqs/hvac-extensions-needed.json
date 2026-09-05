@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "HVAC extensions needed?",
-  "description": "Yes, ductwork $5K-$15K; Diditan ensures even luxury comfort.wedoconstructions​",
   "url": "https://diditangroup.com/faq/hvac-extensions-needed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "HVAC extensions needed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, ductwork $5K-$15K; Diditan ensures even luxury comfort.wedoconstructions​"
-      }
-    }
-  ],
+  "name": "HVAC extensions needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "HVAC extensions needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, ductwork $5K-$15K; Diditan ensures even luxury comfort.wedoconstructions​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, ductwork $5K-$15K; Diditan ensures even luxury comfort.wedoconstructions​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to coordinate tenants during renovations?",
-  "description": "Diditan minimizes disruptions with phased work and communication, as praised in 4-unit apartment testimonials.diditangroup​",
   "url": "https://diditangroup.com/faq/how-to-coordinate-tenants-during-renovations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to coordinate tenants during renovations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Diditan minimizes disruptions with phased work and communication, as praised in 4-unit apartment testimonials.diditangroup​"
-      }
-    }
-  ],
+  "name": "How to coordinate tenants during renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to coordinate tenants during renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Diditan minimizes disruptions with phased work and communication, as praised in 4-unit apartment testimonials.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Diditan minimizes disruptions with phased work and communication, as praised in 4-unit apartment testimonials.diditangroup​"
 }

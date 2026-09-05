@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does LA zoning affect multi-unit builds?",
-  "description": "Strict rules on density, setbacks, and parking apply; Diditan navigates HOAs and city approvals for compliance.diditangroup​",
   "url": "https://diditangroup.com/faq/how-does-la-zoning-affect-multi-unit-builds",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does LA zoning affect multi-unit builds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Strict rules on density, setbacks, and parking apply; Diditan navigates HOAs and city approvals for compliance.diditangroup​"
-      }
-    }
-  ],
+  "name": "How does LA zoning affect multi-unit builds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does LA zoning affect multi-unit builds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Strict rules on density, setbacks, and parking apply; Diditan navigates HOAs and city approvals for compliance.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Strict rules on density, setbacks, and parking apply; Diditan navigates HOAs and city approvals for compliance.diditangroup​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Financing basement conversions?",
-  "description": "Diditan in-house covers project-dependent costs efficiently.diditangroup​",
   "url": "https://diditangroup.com/faq/financing-basement-conversions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Financing basement conversions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Diditan in-house covers project-dependent costs efficiently.diditangroup​"
-      }
-    }
-  ],
+  "name": "Financing basement conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Financing basement conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Diditan in-house covers project-dependent costs efficiently.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Diditan in-house covers project-dependent costs efficiently.diditangroup​"
 }

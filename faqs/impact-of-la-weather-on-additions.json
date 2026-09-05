@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Impact of LA weather on additions?",
-  "description": "Rain delays exteriors; Diditan sequences indoor work first for momentum.angi​",
   "url": "https://diditangroup.com/faq/impact-of-la-weather-on-additions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Impact of LA weather on additions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rain delays exteriors; Diditan sequences indoor work first for momentum.angi​"
-      }
-    }
-  ],
+  "name": "Impact of LA weather on additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Impact of LA weather on additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rain delays exteriors; Diditan sequences indoor work first for momentum.angi​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Rain delays exteriors; Diditan sequences indoor work first for momentum.angi​"
 }

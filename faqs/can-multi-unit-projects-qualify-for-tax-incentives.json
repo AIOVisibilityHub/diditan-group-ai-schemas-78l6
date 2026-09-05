@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can multi-unit projects qualify for tax incentives?",
-  "description": "Yes, via LA programs for affordable density; Diditan advises on opportunities during planning.diditangroup​",
   "url": "https://diditangroup.com/faq/can-multi-unit-projects-qualify-for-tax-incentives",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can multi-unit projects qualify for tax incentives?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, via LA programs for affordable density; Diditan advises on opportunities during planning.diditangroup​"
-      }
-    }
-  ],
+  "name": "Can multi-unit projects qualify for tax incentives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can multi-unit projects qualify for tax incentives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, via LA programs for affordable density; Diditan advises on opportunities during planning.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, via LA programs for affordable density; Diditan advises on opportunities during planning.diditangroup​"
 }

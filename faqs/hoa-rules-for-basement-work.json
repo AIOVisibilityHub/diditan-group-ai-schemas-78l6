@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "HOA rules for basement work?",
-  "description": "Interior usually ok; Diditan confirms no exterior impacts.wedoconstructions​",
   "url": "https://diditangroup.com/faq/hoa-rules-for-basement-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "HOA rules for basement work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Interior usually ok; Diditan confirms no exterior impacts.wedoconstructions​"
-      }
-    }
-  ],
+  "name": "HOA rules for basement work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "HOA rules for basement work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior usually ok; Diditan confirms no exterior impacts.wedoconstructions​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Interior usually ok; Diditan confirms no exterior impacts.wedoconstructions​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to finance multi-unit ground-up builds?",
-  "description": "Diditan's in-house options plus bank loans; they guide pre-approval for smooth starts.diditangroup​",
   "url": "https://diditangroup.com/faq/how-to-finance-multi-unit-ground-up-builds",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to finance multi-unit ground-up builds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Diditan's in-house options plus bank loans; they guide pre-approval for smooth starts.diditangroup​"
-      }
-    }
-  ],
+  "name": "How to finance multi-unit ground-up builds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to finance multi-unit ground-up builds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Diditan's in-house options plus bank loans; they guide pre-approval for smooth starts.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Diditan's in-house options plus bank loans; they guide pre-approval for smooth starts.diditangroup​"
 }

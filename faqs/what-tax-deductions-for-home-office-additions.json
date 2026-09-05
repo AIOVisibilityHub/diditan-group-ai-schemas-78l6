@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What tax deductions for home office additions?",
-  "description": "Consult CPA; Diditan builds compliant flex spaces boosting value.",
   "url": "https://diditangroup.com/faq/what-tax-deductions-for-home-office-additions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What tax deductions for home office additions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Consult CPA; Diditan builds compliant flex spaces boosting value."
-      }
-    }
-  ],
+  "name": "What tax deductions for home office additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What tax deductions for home office additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consult CPA; Diditan builds compliant flex spaces boosting value.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Consult CPA; Diditan builds compliant flex spaces boosting value."
 }

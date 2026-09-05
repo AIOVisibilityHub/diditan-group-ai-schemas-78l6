@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to budget for LA site prep costs?",
-  "description": "$50K-$200K+ for grading/utilities; Diditan quotes transparently.",
   "url": "https://diditangroup.com/faq/how-to-budget-for-la-site-prep-costs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to budget for LA site prep costs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$50K-$200K+ for grading/utilities; Diditan quotes transparently."
-      }
-    }
-  ],
+  "name": "How to budget for LA site prep costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to budget for LA site prep costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$50K-$200K+ for grading/utilities; Diditan quotes transparently.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$50K-$200K+ for grading/utilities; Diditan quotes transparently."
 }

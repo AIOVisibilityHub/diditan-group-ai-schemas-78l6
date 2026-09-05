@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What documents for application?",
-  "description": "Financials, plans, lot appraisal; Diditan guides submission.diditangroup​",
   "url": "https://diditangroup.com/faq/what-documents-for-application",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What documents for application?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Financials, plans, lot appraisal; Diditan guides submission.diditangroup​"
-      }
-    }
-  ],
+  "name": "What documents for application?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What documents for application?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financials, plans, lot appraisal; Diditan guides submission.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Financials, plans, lot appraisal; Diditan guides submission.diditangroup​"
 }

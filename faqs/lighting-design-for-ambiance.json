@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Lighting design for ambiance?",
-  "description": "Recessed, cove, dimmers; Diditan creates theater-like effects.diditangroup​",
   "url": "https://diditangroup.com/faq/lighting-design-for-ambiance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Lighting design for ambiance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Recessed, cove, dimmers; Diditan creates theater-like effects.diditangroup​"
-      }
-    }
-  ],
+  "name": "Lighting design for ambiance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Lighting design for ambiance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recessed, cove, dimmers; Diditan creates theater-like effects.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Recessed, cove, dimmers; Diditan creates theater-like effects.diditangroup​"
 }

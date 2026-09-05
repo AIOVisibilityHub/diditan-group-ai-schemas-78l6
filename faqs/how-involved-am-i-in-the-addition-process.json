@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How involved am I in the addition process?",
-  "description": "Design consultations, selections, and walkthroughs; Diditan provides weekly updates like in testimonials.diditangroup​",
   "url": "https://diditangroup.com/faq/how-involved-am-i-in-the-addition-process",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How involved am I in the addition process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Design consultations, selections, and walkthroughs; Diditan provides weekly updates like in testimonials.diditangroup​"
-      }
-    }
-  ],
+  "name": "How involved am I in the addition process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How involved am I in the addition process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Design consultations, selections, and walkthroughs; Diditan provides weekly updates like in testimonials.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Design consultations, selections, and walkthroughs; Diditan provides weekly updates like in testimonials.diditangroup​"
 }

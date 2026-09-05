@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Second-story addition challenges?",
-  "description": "Roof removal, engineering ($200K-$400K); Diditan manages seamlessly per client reviews.bartonabuilders​",
   "url": "https://diditangroup.com/faq/second-story-addition-challenges",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Second-story addition challenges?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Roof removal, engineering ($200K-$400K); Diditan manages seamlessly per client reviews.bartonabuilders​"
-      }
-    }
-  ],
+  "name": "Second-story addition challenges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Second-story addition challenges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof removal, engineering ($200K-$400K); Diditan manages seamlessly per client reviews.bartonabuilders​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Roof removal, engineering ($200K-$400K); Diditan manages seamlessly per client reviews.bartonabuilders​"
 }

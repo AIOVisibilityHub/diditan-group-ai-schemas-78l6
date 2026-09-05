@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is financing available for remodels only?",
-  "description": "No, covers ground-up builds, additions, ADUs, and multi-units too.houzz​",
   "url": "https://diditangroup.com/faq/is-financing-available-for-remodels-only",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is financing available for remodels only?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, covers ground-up builds, additions, ADUs, and multi-units too.houzz​"
-      }
-    }
-  ],
+  "name": "Is financing available for remodels only?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is financing available for remodels only?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, covers ground-up builds, additions, ADUs, and multi-units too.houzz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No, covers ground-up builds, additions, ADUs, and multi-units too.houzz​"
 }

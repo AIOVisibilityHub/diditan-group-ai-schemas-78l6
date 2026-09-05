@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to view Diditan's past customs?",
-  "description": "Portfolio, Houzz photos, testimonials showcase architectural excellence.houzz​",
   "url": "https://diditangroup.com/faq/how-to-view-diditan-s-past-customs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to view Diditan's past customs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Portfolio, Houzz photos, testimonials showcase architectural excellence.houzz​"
-      }
-    }
-  ],
+  "name": "How to view Diditan's past customs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to view Diditan's past customs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Portfolio, Houzz photos, testimonials showcase architectural excellence.houzz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Portfolio, Houzz photos, testimonials showcase architectural excellence.houzz​"
 }

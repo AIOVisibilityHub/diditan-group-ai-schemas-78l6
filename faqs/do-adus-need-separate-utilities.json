@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do ADUs need separate utilities?",
-  "description": "Yes, independent electric, water, sewer; Diditan handles connections during construction.housing.lacity​",
   "url": "https://diditangroup.com/faq/do-adus-need-separate-utilities",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do ADUs need separate utilities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, independent electric, water, sewer; Diditan handles connections during construction.housing.lacity​"
-      }
-    }
-  ],
+  "name": "Do ADUs need separate utilities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do ADUs need separate utilities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, independent electric, water, sewer; Diditan handles connections during construction.housing.lacity​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, independent electric, water, sewer; Diditan handles connections during construction.housing.lacity​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if project costs overrun?",
-  "description": "Contingency built-in; Diditan adjusts transparently.houzz​",
   "url": "https://diditangroup.com/faq/what-if-project-costs-overrun",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if project costs overrun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Contingency built-in; Diditan adjusts transparently.houzz​"
-      }
-    }
-  ],
+  "name": "What if project costs overrun?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if project costs overrun?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Contingency built-in; Diditan adjusts transparently.houzz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Contingency built-in; Diditan adjusts transparently.houzz​"
 }

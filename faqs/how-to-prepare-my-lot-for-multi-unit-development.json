@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to prepare my lot for multi-unit development?",
-  "description": "Soil tests, surveys; Diditan coordinates utilities/grading pre-build.",
   "url": "https://diditangroup.com/faq/how-to-prepare-my-lot-for-multi-unit-development",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to prepare my lot for multi-unit development?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Soil tests, surveys; Diditan coordinates utilities/grading pre-build."
-      }
-    }
-  ],
+  "name": "How to prepare my lot for multi-unit development?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to prepare my lot for multi-unit development?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Soil tests, surveys; Diditan coordinates utilities/grading pre-build.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Soil tests, surveys; Diditan coordinates utilities/grading pre-build."
 }

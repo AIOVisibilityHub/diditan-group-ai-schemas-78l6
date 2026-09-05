@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to stage Diditan-built homes for sale?",
-  "description": "Partners with realtors; highlights luxury features post-move-in.",
   "url": "https://diditangroup.com/faq/how-to-stage-diditan-built-homes-for-sale",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to stage Diditan-built homes for sale?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Partners with realtors; highlights luxury features post-move-in."
-      }
-    }
-  ],
+  "name": "How to stage Diditan-built homes for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to stage Diditan-built homes for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Partners with realtors; highlights luxury features post-move-in.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Partners with realtors; highlights luxury features post-move-in."
 }

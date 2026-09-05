@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does Diditan use 3D modeling for designs?",
-  "description": "Yes, virtual walkthroughs confirm layouts before construction starts.",
   "url": "https://diditangroup.com/faq/does-diditan-use-3d-modeling-for-designs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does Diditan use 3D modeling for designs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, virtual walkthroughs confirm layouts before construction starts."
-      }
-    }
-  ],
+  "name": "Does Diditan use 3D modeling for designs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does Diditan use 3D modeling for designs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, virtual walkthroughs confirm layouts before construction starts.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, virtual walkthroughs confirm layouts before construction starts."
 }

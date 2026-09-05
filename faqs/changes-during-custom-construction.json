@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Changes during custom construction?",
-  "description": "Minor ok; major in design phase to protect timeline/budget.diditangroup​",
   "url": "https://diditangroup.com/faq/changes-during-custom-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Changes during custom construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minor ok; major in design phase to protect timeline/budget.diditangroup​"
-      }
-    }
-  ],
+  "name": "Changes during custom construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Changes during custom construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor ok; major in design phase to protect timeline/budget.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minor ok; major in design phase to protect timeline/budget.diditangroup​"
 }

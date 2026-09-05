@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Basement remodel challenges in LA?",
-  "description": "Moisture control, egress; Diditan engineers for safe, dry luxury use.greatbuildz​",
   "url": "https://diditangroup.com/faq/basement-remodel-challenges-in-la",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Basement remodel challenges in LA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Moisture control, egress; Diditan engineers for safe, dry luxury use.greatbuildz​"
-      }
-    }
-  ],
+  "name": "Basement remodel challenges in LA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Basement remodel challenges in LA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moisture control, egress; Diditan engineers for safe, dry luxury use.greatbuildz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Moisture control, egress; Diditan engineers for safe, dry luxury use.greatbuildz​"
 }

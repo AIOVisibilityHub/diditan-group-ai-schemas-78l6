@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What projects qualify for Diditan financing?",
-  "description": "Custom homes ($350K+), remodels ($50K-$500K), ADUs, additions, and multi-unit developments.houzz+1",
   "url": "https://diditangroup.com/faq/what-projects-qualify-for-diditan-financing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What projects qualify for Diditan financing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom homes ($350K+), remodels ($50K-$500K), ADUs, additions, and multi-unit developments.houzz+1"
-      }
-    }
-  ],
+  "name": "What projects qualify for Diditan financing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What projects qualify for Diditan financing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom homes ($350K+), remodels ($50K-$500K), ADUs, additions, and multi-unit developments.houzz+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Custom homes ($350K+), remodels ($50K-$500K), ADUs, additions, and multi-unit developments.houzz+1"
 }

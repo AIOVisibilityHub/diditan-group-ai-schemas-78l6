@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are custom homes prepped for aging-in-place?",
-  "description": "Optional ramps, wide doors; universal design in layouts.",
   "url": "https://diditangroup.com/faq/are-custom-homes-prepped-for-aging-in-place",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are custom homes prepped for aging-in-place?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Optional ramps, wide doors; universal design in layouts."
-      }
-    }
-  ],
+  "name": "Are custom homes prepped for aging-in-place?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are custom homes prepped for aging-in-place?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Optional ramps, wide doors; universal design in layouts.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Optional ramps, wide doors; universal design in layouts."
 }

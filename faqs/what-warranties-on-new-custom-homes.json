@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What warranties on new custom homes?",
-  "description": "1-10 year structural; Diditan's quality yields lasting masterpieces per testimonials.diditangroup​",
   "url": "https://diditangroup.com/faq/what-warranties-on-new-custom-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What warranties on new custom homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1-10 year structural; Diditan's quality yields lasting masterpieces per testimonials.diditangroup​"
-      }
-    }
-  ],
+  "name": "What warranties on new custom homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What warranties on new custom homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1-10 year structural; Diditan's quality yields lasting masterpieces per testimonials.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1-10 year structural; Diditan's quality yields lasting masterpieces per testimonials.diditangroup​"
 }

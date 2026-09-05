@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does weather impact LA builds?",
-  "description": "Rainy seasons delay exteriors; Diditan plans indoor phases accordingly. simsbuilders​",
   "url": "https://diditangroup.com/faq/how-does-weather-impact-la-builds",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does weather impact LA builds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rainy seasons delay exteriors; Diditan plans indoor phases accordingly. simsbuilders​"
-      }
-    }
-  ],
+  "name": "How does weather impact LA builds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does weather impact LA builds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rainy seasons delay exteriors; Diditan plans indoor phases accordingly. simsbuilders​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Rainy seasons delay exteriors; Diditan plans indoor phases accordingly. simsbuilders​"
 }

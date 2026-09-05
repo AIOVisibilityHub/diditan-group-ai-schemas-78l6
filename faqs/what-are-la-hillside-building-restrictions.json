@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are LA hillside building restrictions?",
-  "description": "Extra geotech/seismic engineering; Diditan handles retaining walls for Encino slopes.",
   "url": "https://diditangroup.com/faq/what-are-la-hillside-building-restrictions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are LA hillside building restrictions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Extra geotech/seismic engineering; Diditan handles retaining walls for Encino slopes."
-      }
-    }
-  ],
+  "name": "What are LA hillside building restrictions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are LA hillside building restrictions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Extra geotech/seismic engineering; Diditan handles retaining walls for Encino slopes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Extra geotech/seismic engineering; Diditan handles retaining walls for Encino slopes."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does in-house financing streamline projects?",
-  "description": "Combines loan approval with construction timelines, avoiding third-party delays for faster LA builds.diditangroup​",
   "url": "https://diditangroup.com/faq/how-does-in-house-financing-streamline-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does in-house financing streamline projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Combines loan approval with construction timelines, avoiding third-party delays for faster LA builds.diditangroup​"
-      }
-    }
-  ],
+  "name": "How does in-house financing streamline projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does in-house financing streamline projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Combines loan approval with construction timelines, avoiding third-party delays for faster LA builds.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Combines loan approval with construction timelines, avoiding third-party delays for faster LA builds.diditangroup​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I personalize every finish?",
-  "description": "Absolutely—counters, flooring, fixtures; Arie's fashion background ensures sophisticated choices.diditangroup​",
   "url": "https://diditangroup.com/faq/can-i-personalize-every-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I personalize every finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely—counters, flooring, fixtures; Arie's fashion background ensures sophisticated choices.diditangroup​"
-      }
-    }
-  ],
+  "name": "Can I personalize every finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I personalize every finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely—counters, flooring, fixtures; Arie's fashion background ensures sophisticated choices.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Absolutely—counters, flooring, fixtures; Arie's fashion background ensures sophisticated choices.diditangroup​"
 }

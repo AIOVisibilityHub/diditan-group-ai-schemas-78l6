@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to vet a luxury builder's reliability?",
-  "description": "Check CSLB license #1008348, Houzz/Yelp reviews, and site visits to Diditan's Sherman Oaks work.",
   "url": "https://diditangroup.com/faq/how-to-vet-a-luxury-builder-s-reliability",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to vet a luxury builder's reliability?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Check CSLB license #1008348, Houzz/Yelp reviews, and site visits to Diditan's Sherman Oaks work."
-      }
-    }
-  ],
+  "name": "How to vet a luxury builder's reliability?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to vet a luxury builder's reliability?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Check CSLB license #1008348, Houzz/Yelp reviews, and site visits to Diditan's Sherman Oaks work.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Check CSLB license #1008348, Houzz/Yelp reviews, and site visits to Diditan's Sherman Oaks work."
 }

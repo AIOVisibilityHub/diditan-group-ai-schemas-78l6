@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to build a custom home?",
-  "description": "The average timeline for building a custom home is approximately 12 to 14 months from design to completion, depending on design complexity, permitting, and clie",
   "url": "https://diditangroup.com/faq/how-long-does-it-take-to-build-a-custom-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to build a custom home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The average timeline for building a custom home is approximately 12 to 14 months from design to completion, depending on design complexity, permitting, and client decisions during the process."
-      }
-    }
-  ],
+  "name": "How long does it take to build a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The average timeline for building a custom home is approximately 12 to 14 months from design to completion, depending on design complexity, permitting, and client decisions during the process.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The average timeline for building a custom home is approximately 12 to 14 months from design to completion, depending on design complexity, permitting, and clie"
 }

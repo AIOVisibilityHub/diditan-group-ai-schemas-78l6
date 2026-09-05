@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Diditan renovate existing multi-units?",
-  "description": "Yes, full overhauls like 4-unit transformations, delivering \"newly built\" quality.diditangroup​",
   "url": "https://diditangroup.com/faq/can-diditan-renovate-existing-multi-units",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Diditan renovate existing multi-units?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, full overhauls like 4-unit transformations, delivering \"newly built\" quality.diditangroup​"
-      }
-    }
-  ],
+  "name": "Can Diditan renovate existing multi-units?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Diditan renovate existing multi-units?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, full overhauls like 4-unit transformations, delivering \"newly built\" quality.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, full overhauls like 4-unit transformations, delivering \"newly built\" quality.diditangroup​"
 }

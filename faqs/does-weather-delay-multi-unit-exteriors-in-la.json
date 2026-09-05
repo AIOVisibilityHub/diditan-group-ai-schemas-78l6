@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does weather delay multi-unit exteriors in LA?",
-  "description": "Rainy winters can; Diditan sequences indoor phases first for momentum.diditangroup​",
   "url": "https://diditangroup.com/faq/does-weather-delay-multi-unit-exteriors-in-la",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does weather delay multi-unit exteriors in LA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rainy winters can; Diditan sequences indoor phases first for momentum.diditangroup​"
-      }
-    }
-  ],
+  "name": "Does weather delay multi-unit exteriors in LA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does weather delay multi-unit exteriors in LA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rainy winters can; Diditan sequences indoor phases first for momentum.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Rainy winters can; Diditan sequences indoor phases first for momentum.diditangroup​"
 }

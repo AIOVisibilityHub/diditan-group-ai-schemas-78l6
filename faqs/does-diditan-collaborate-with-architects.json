@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does Diditan collaborate with architects?",
-  "description": "Preferred partners for seamless custom/reconstruction flow.",
   "url": "https://diditangroup.com/faq/does-diditan-collaborate-with-architects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does Diditan collaborate with architects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Preferred partners for seamless custom/reconstruction flow."
-      }
-    }
-  ],
+  "name": "Does Diditan collaborate with architects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does Diditan collaborate with architects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preferred partners for seamless custom/reconstruction flow.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Preferred partners for seamless custom/reconstruction flow."
 }

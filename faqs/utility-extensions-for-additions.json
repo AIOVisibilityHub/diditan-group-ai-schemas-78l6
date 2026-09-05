@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Utility extensions for additions?",
-  "description": "$5K-$15K electrical/plumbing/HVAC; Diditan integrates efficiently.bartonabuilders​",
   "url": "https://diditangroup.com/faq/utility-extensions-for-additions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Utility extensions for additions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$5K-$15K electrical/plumbing/HVAC; Diditan integrates efficiently.bartonabuilders​"
-      }
-    }
-  ],
+  "name": "Utility extensions for additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Utility extensions for additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$5K-$15K electrical/plumbing/HVAC; Diditan integrates efficiently.bartonabuilders​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$5K-$15K electrical/plumbing/HVAC; Diditan integrates efficiently.bartonabuilders​"
 }

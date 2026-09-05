@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long to build an ADU or granny flat?",
-  "description": "3-6 months typically, including permits; Diditan streamlines for faster timelines in Sherman Oaks/Encino.housing.lacity​",
   "url": "https://diditangroup.com/faq/how-long-to-build-an-adu-or-granny-flat",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long to build an ADU or granny flat?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-6 months typically, including permits; Diditan streamlines for faster timelines in Sherman Oaks/Encino.housing.lacity​"
-      }
-    }
-  ],
+  "name": "How long to build an ADU or granny flat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long to build an ADU or granny flat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "3-6 months typically, including permits; Diditan streamlines for faster timelines in Sherman Oaks/Encino.housing.lacity​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "3-6 months typically, including permits; Diditan streamlines for faster timelines in Sherman Oaks/Encino.housing.lacity​"
 }

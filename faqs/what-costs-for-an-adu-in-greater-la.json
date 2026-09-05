@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What costs for an ADU in Greater LA?",
-  "description": "$150,000-$400,000+ depending on size/finishes; Diditan offers in-house financing quotes.thebienstockgroup​",
   "url": "https://diditangroup.com/faq/what-costs-for-an-adu-in-greater-la",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What costs for an ADU in Greater LA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$150,000-$400,000+ depending on size/finishes; Diditan offers in-house financing quotes.thebienstockgroup​"
-      }
-    }
-  ],
+  "name": "What costs for an ADU in Greater LA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What costs for an ADU in Greater LA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$150,000-$400,000+ depending on size/finishes; Diditan offers in-house financing quotes.thebienstockgroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$150,000-$400,000+ depending on size/finishes; Diditan offers in-house financing quotes.thebienstockgroup​"
 }

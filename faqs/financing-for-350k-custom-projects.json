@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Financing for $350K+ custom projects?",
-  "description": "In-house options with competitive rates; streamlines from design to keys.diditangroup​",
   "url": "https://diditangroup.com/faq/financing-for-350k-custom-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Financing for $350K+ custom projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In-house options with competitive rates; streamlines from design to keys.diditangroup​"
-      }
-    }
-  ],
+  "name": "Financing for $350K+ custom projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Financing for $350K+ custom projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In-house options with competitive rates; streamlines from design to keys.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In-house options with competitive rates; streamlines from design to keys.diditangroup​"
 }

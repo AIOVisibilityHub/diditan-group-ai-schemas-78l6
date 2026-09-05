@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Energy efficiency in Diditan customs?",
-  "description": "Title 24 solar-ready, insulation; modern systems for sustainable LA living.diditangroup​",
   "url": "https://diditangroup.com/faq/energy-efficiency-in-diditan-customs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Energy efficiency in Diditan customs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Title 24 solar-ready, insulation; modern systems for sustainable LA living.diditangroup​"
-      }
-    }
-  ],
+  "name": "Energy efficiency in Diditan customs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Energy efficiency in Diditan customs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Title 24 solar-ready, insulation; modern systems for sustainable LA living.diditangroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Title 24 solar-ready, insulation; modern systems for sustainable LA living.diditangroup​"
 }
