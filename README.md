@@ -10,15 +10,15 @@ Canonical AI Data Package for Diditan Group.
 
 ## Stats
 - 255 faqs
-- 209 helpArticles
-- 1 services
-- 2 personnel
-- 2 locations
-- 3 awards
-- 7 caseStudies
-- 1 organization
 - 4 press
+- 3 awards
 - 5 reviews
+- 1 services
+- 2 locations
+- 2 personnel
+- 7 caseStudies
+- 209 helpArticles
+- 1 organization
 - **490** total
 
 ## Cross-Destination Index — Related AI Data Sources
@@ -524,12 +524,221 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/why-diditan-in-house-beats-competitors.json`](./help/why-diditan-in-house-beats-competitors.json) — schema
 - [`help/why-diditan-s-18-years-matter.json`](./help/why-diditan-s-18-years-matter.json) — schema
 
-### Public Pages (9)
+### Public Pages (218)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`case-studies.html`](./case-studies.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
+- [`help/1031-exchange-custom-home-strategy.html`](./help/1031-exchange-custom-home-strategy.html) — LLM-optimized public page
+- [`help/18-year-diditan-build-timeline.html`](./help/18-year-diditan-build-timeline.html) — LLM-optimized public page
+- [`help/adu-and-granny-flat-financing.html`](./help/adu-and-granny-flat-financing.html) — LLM-optimized public page
+- [`help/adu-build-timelines-explained.html`](./help/adu-build-timelines-explained.html) — LLM-optimized public page
+- [`help/adu-case-studies-diditan-projects.html`](./help/adu-case-studies-diditan-projects.html) — LLM-optimized public page
+- [`help/adu-design-process-with-diditan.html`](./help/adu-design-process-with-diditan.html) — LLM-optimized public page
+- [`help/adu-egress-and-safety-features.html`](./help/adu-egress-and-safety-features.html) — LLM-optimized public page
+- [`help/adu-rental-rules-and-rso.html`](./help/adu-rental-rules-and-rso.html) — LLM-optimized public page
+- [`help/adu-warranty-and-maintenance.html`](./help/adu-warranty-and-maintenance.html) — LLM-optimized public page
+- [`help/aging-in-place-custom-design.html`](./help/aging-in-place-custom-design.html) — LLM-optimized public page
+- [`help/aging-in-place-custom-features.html`](./help/aging-in-place-custom-features.html) — LLM-optimized public page
+- [`help/ann-sacks-tile-portfolio.html`](./help/ann-sacks-tile-portfolio.html) — LLM-optimized public page
+- [`help/architectural-styles-diditan-masters.html`](./help/architectural-styles-diditan-masters.html) — LLM-optimized public page
+- [`help/backyard-setbacks-for-adus.html`](./help/backyard-setbacks-for-adus.html) — LLM-optimized public page
+- [`help/basement-finishing-complete-guide.html`](./help/basement-finishing-complete-guide.html) — LLM-optimized public page
+- [`help/basement-waterproofing-essentials.html`](./help/basement-waterproofing-essentials.html) — LLM-optimized public page
+- [`help/bathroom-transformation-costs.html`](./help/bathroom-transformation-costs.html) — LLM-optimized public page
+- [`help/bedroom-built-in-solutions.html`](./help/bedroom-built-in-solutions.html) — LLM-optimized public page
+- [`help/bedroom-suite-upgrade-ideas.html`](./help/bedroom-suite-upgrade-ideas.html) — LLM-optimized public page
+- [`help/before-and-after-remodel-gallery.html`](./help/before-and-after-remodel-gallery.html) — LLM-optimized public page
+- [`help/bel-air-spec-home-vs-custom-analysis.html`](./help/bel-air-spec-home-vs-custom-analysis.html) — LLM-optimized public page
+- [`help/beverly-hills-custom-home-guide.html`](./help/beverly-hills-custom-home-guide.html) — LLM-optimized public page
+- [`help/boosting-property-value-with-adus.html`](./help/boosting-property-value-with-adus.html) — LLM-optimized public page
+- [`help/brentwood-modern-farmhouse-designs.html`](./help/brentwood-modern-farmhouse-designs.html) — LLM-optimized public page
+- [`help/bridge-loans-for-quick-projects.html`](./help/bridge-loans-for-quick-projects.html) — LLM-optimized public page
+- [`help/budget-contingencies-for-customs.html`](./help/budget-contingencies-for-customs.html) — LLM-optimized public page
+- [`help/budgeting-contingencies-explained.html`](./help/budgeting-contingencies-explained.html) — LLM-optimized public page
+- [`help/budgeting-for-multi-unit-contingencies.html`](./help/budgeting-for-multi-unit-contingencies.html) — LLM-optimized public page
+- [`help/case-studies-financed-projects.html`](./help/case-studies-financed-projects.html) — LLM-optimized public page
+- [`help/change-order-management-best-practices.html`](./help/change-order-management-best-practices.html) — LLM-optimized public page
+- [`help/change-orders-in-multi-unit-projects.html`](./help/change-orders-in-multi-unit-projects.html) — LLM-optimized public page
+- [`help/change-orders-what-to-expect.html`](./help/change-orders-what-to-expect.html) — LLM-optimized public page
+- [`help/choosing-architectural-vs-production-designer.html`](./help/choosing-architectural-vs-production-designer.html) — LLM-optimized public page
+- [`help/choosing-your-custom-lot-with-diditan.html`](./help/choosing-your-custom-lot-with-diditan.html) — LLM-optimized public page
+- [`help/client-testimonials-custom-builds.html`](./help/client-testimonials-custom-builds.html) — LLM-optimized public page
+- [`help/client-testimonials-spotlight.html`](./help/client-testimonials-spotlight.html) — LLM-optimized public page
+- [`help/closing-costs-and-fees-breakdown.html`](./help/closing-costs-and-fees-breakdown.html) — LLM-optimized public page
+- [`help/coastal-zone-custom-home-requirements.html`](./help/coastal-zone-custom-home-requirements.html) — LLM-optimized public page
+- [`help/collaborating-with-architects.html`](./help/collaborating-with-architects.html) — LLM-optimized public page
+- [`help/collaborating-with-your-architect.html`](./help/collaborating-with-your-architect.html) — LLM-optimized public page
+- [`help/comparing-diditan-vs-bank-loans.html`](./help/comparing-diditan-vs-bank-loans.html) — LLM-optimized public page
+- [`help/construction-camera-monitoring.html`](./help/construction-camera-monitoring.html) — LLM-optimized public page
+- [`help/construction-insurance-coverage-explained.html`](./help/construction-insurance-coverage-explained.html) — LLM-optimized public page
+- [`help/cost-breakdown-for-luxury-custom-builds.html`](./help/cost-breakdown-for-luxury-custom-builds.html) — LLM-optimized public page
+- [`help/cost-factors-for-la-multi-unit-projects.html`](./help/cost-factors-for-la-multi-unit-projects.html) — LLM-optimized public page
+- [`help/cost-guide-for-la-adu-construction.html`](./help/cost-guide-for-la-adu-construction.html) — LLM-optimized public page
+- [`help/cost-segregation-depreciation-schedule.html`](./help/cost-segregation-depreciation-schedule.html) — LLM-optimized public page
+- [`help/crestron-home-automation-blueprint.html`](./help/crestron-home-automation-blueprint.html) — LLM-optimized public page
+- [`help/cryptocurrency-construction-payments.html`](./help/cryptocurrency-construction-payments.html) — LLM-optimized public page
+- [`help/custom-cabinetry-design-process.html`](./help/custom-cabinetry-design-process.html) — LLM-optimized public page
+- [`help/custom-door-hardware-selection.html`](./help/custom-door-hardware-selection.html) — LLM-optimized public page
+- [`help/custom-home-build-complete-guide.html`](./help/custom-home-build-complete-guide.html) — LLM-optimized public page
+- [`help/custom-home-construction-loans.html`](./help/custom-home-construction-loans.html) — LLM-optimized public page
+- [`help/custom-home-vs-spec-home-decision.html`](./help/custom-home-vs-spec-home-decision.html) — LLM-optimized public page
+- [`help/custom-home-warranty-details.html`](./help/custom-home-warranty-details.html) — LLM-optimized public page
+- [`help/custom-landscape-budgeting-guide.html`](./help/custom-landscape-budgeting-guide.html) — LLM-optimized public page
+- [`help/custom-millwork-lead-times.html`](./help/custom-millwork-lead-times.html) — LLM-optimized public page
+- [`help/custom-pool-and-outdoor-living.html`](./help/custom-pool-and-outdoor-living.html) — LLM-optimized public page
+- [`help/custom-staircase-design-process.html`](./help/custom-staircase-design-process.html) — LLM-optimized public page
+- [`help/design-trends-for-luxury-multi-units.html`](./help/design-trends-for-luxury-multi-units.html) — LLM-optimized public page
+- [`help/detached-vs-attached-adu-designs.html`](./help/detached-vs-attached-adu-designs.html) — LLM-optimized public page
+- [`help/diditan-custom-vs-production-builders.html`](./help/diditan-custom-vs-production-builders.html) — LLM-optimized public page
+- [`help/diditan-group-builds-luxurious-custom-tuscan-homes-in-ca.html`](./help/diditan-group-builds-luxurious-custom-tuscan-homes-in-ca.html) — LLM-optimized public page
+- [`help/diditan-subcontractor-vetting-process.html`](./help/diditan-subcontractor-vetting-process.html) — LLM-optimized public page
+- [`help/diditan-vs-spec-home-builders.html`](./help/diditan-vs-spec-home-builders.html) — LLM-optimized public page
+- [`help/documents-needed-for-application.html`](./help/documents-needed-for-application.html) — LLM-optimized public page
+- [`help/draw-schedule-and-disbursements.html`](./help/draw-schedule-and-disbursements.html) — LLM-optimized public page
+- [`help/elevator-installation-in-customs.html`](./help/elevator-installation-in-customs.html) — LLM-optimized public page
+- [`help/encino-tuscan-villa-restoration.html`](./help/encino-tuscan-villa-restoration.html) — LLM-optimized public page
+- [`help/entitlements-for-small-apartment-buildings.html`](./help/entitlements-for-small-apartment-buildings.html) — LLM-optimized public page
+- [`help/ev-and-solar-trends-for-2026.html`](./help/ev-and-solar-trends-for-2026.html) — LLM-optimized public page
+- [`help/final-cleaning-before-walkthrough.html`](./help/final-cleaning-before-walkthrough.html) — LLM-optimized public page
+- [`help/final-inspections-for-multi-unit-co.html`](./help/final-inspections-for-multi-unit-co.html) — LLM-optimized public page
+- [`help/final-walkthrough-and-punch-list.html`](./help/final-walkthrough-and-punch-list.html) — LLM-optimized public page
+- [`help/final-walkthrough-checklist.html`](./help/final-walkthrough-checklist.html) — LLM-optimized public page
+- [`help/financing-adu-property-taxes.html`](./help/financing-adu-property-taxes.html) — LLM-optimized public page
+- [`help/financing-during-high-interest-rates.html`](./help/financing-during-high-interest-rates.html) — LLM-optimized public page
+- [`help/financing-for-first-time-builders.html`](./help/financing-for-first-time-builders.html) — LLM-optimized public page
+- [`help/financing-kitchen-and-bath-remodels.html`](./help/financing-kitchen-and-bath-remodels.html) — LLM-optimized public page
+- [`help/financing-multi-unit-investments.html`](./help/financing-multi-unit-investments.html) — LLM-optimized public page
+- [`help/financing-options-for-adus.html`](./help/financing-options-for-adus.html) — LLM-optimized public page
+- [`help/foundation-and-site-prep-essentials.html`](./help/foundation-and-site-prep-essentials.html) — LLM-optimized public page
+- [`help/from-lot-to-keys-diditan-timeline.html`](./help/from-lot-to-keys-diditan-timeline.html) — LLM-optimized public page
+- [`help/garage-conversion-to-adu-guide.html`](./help/garage-conversion-to-adu-guide.html) — LLM-optimized public page
+- [`help/geotechnical-slope-stability-report.html`](./help/geotechnical-slope-stability-report.html) — LLM-optimized public page
+- [`help/guide-to-custom-home-design-process.html`](./help/guide-to-custom-home-design-process.html) — LLM-optimized public page
+- [`help/hillside-custom-home-challenges.html`](./help/hillside-custom-home-challenges.html) — LLM-optimized public page
+- [`help/hillside-custom-home-engineering.html`](./help/hillside-custom-home-engineering.html) — LLM-optimized public page
+- [`help/historic-home-rebuild-strategies.html`](./help/historic-home-rebuild-strategies.html) — LLM-optimized public page
+- [`help/hoa-remodel-approval-process.html`](./help/hoa-remodel-approval-process.html) — LLM-optimized public page
+- [`help/hoa-rules-and-adu-approvals.html`](./help/hoa-rules-and-adu-approvals.html) — LLM-optimized public page
+- [`help/hollywood-hills-slope-analysis-tool.html`](./help/hollywood-hills-slope-analysis-tool.html) — LLM-optimized public page
+- [`help/how-diditan-financing-works.html`](./help/how-diditan-financing-works.html) — LLM-optimized public page
+- [`help/in-house-financing-for-custom-projects.html`](./help/in-house-financing-for-custom-projects.html) — LLM-optimized public page
+- [`help/in-house-financing-overview.html`](./help/in-house-financing-overview.html) — LLM-optimized public page
+- [`help/indoor-outdoor-custom-integration.html`](./help/indoor-outdoor-custom-integration.html) — LLM-optimized public page
+- [`help/indoor-outdoor-flow-designs.html`](./help/indoor-outdoor-flow-designs.html) — LLM-optimized public page
+- [`help/interest-only-construction-phase.html`](./help/interest-only-construction-phase.html) — LLM-optimized public page
+- [`help/interior-finishes-selection-process.html`](./help/interior-finishes-selection-process.html) — LLM-optimized public page
+- [`help/jadu-vs-full-adu-comparison.html`](./help/jadu-vs-full-adu-comparison.html) — LLM-optimized public page
+- [`help/joint-ventures-and-investor-loans.html`](./help/joint-ventures-and-investor-loans.html) — LLM-optimized public page
+- [`help/kitchen-and-bath-layouts-for-adus.html`](./help/kitchen-and-bath-layouts-for-adus.html) — LLM-optimized public page
+- [`help/kitchen-appliance-upgrade-guide.html`](./help/kitchen-appliance-upgrade-guide.html) — LLM-optimized public page
+- [`help/kitchen-layout-trends-2026.html`](./help/kitchen-layout-trends-2026.html) — LLM-optimized public page
+- [`help/kitchen-renovation-process-guide.html`](./help/kitchen-renovation-process-guide.html) — LLM-optimized public page
+- [`help/la-adu-zoning-and-size-rules.html`](./help/la-adu-zoning-and-size-rules.html) — LLM-optimized public page
+- [`help/la-cornue-range-hood-masterclass.html`](./help/la-cornue-range-hood-masterclass.html) — LLM-optimized public page
+- [`help/la-custom-home-cost-per-square-foot.html`](./help/la-custom-home-cost-per-square-foot.html) — LLM-optimized public page
+- [`help/la-hillside-grading-permits.html`](./help/la-hillside-grading-permits.html) — LLM-optimized public page
+- [`help/la-noise-ordinances-for-construction.html`](./help/la-noise-ordinances-for-construction.html) — LLM-optimized public page
+- [`help/la-remodel-permit-requirements.html`](./help/la-remodel-permit-requirements.html) — LLM-optimized public page
+- [`help/la-seismic-standards-for-new-homes.html`](./help/la-seismic-standards-for-new-homes.html) — LLM-optimized public page
+- [`help/la-utility-hookups-timeline.html`](./help/la-utility-hookups-timeline.html) — LLM-optimized public page
+- [`help/la-zoning-for-multi-unit-residential.html`](./help/la-zoning-for-multi-unit-residential.html) — LLM-optimized public page
+- [`help/ladbs-adu-permit-fast-track.html`](./help/ladbs-adu-permit-fast-track.html) — LLM-optimized public page
+- [`help/ladbs-custom-home-permitting.html`](./help/ladbs-custom-home-permitting.html) — LLM-optimized public page
+- [`help/latest-blog-articles-diditan-group.html`](./help/latest-blog-articles-diditan-group.html) — LLM-optimized public page
+- [`help/loan-servicing-and-payments.html`](./help/loan-servicing-and-payments.html) — LLM-optimized public page
+- [`help/luxury-av-and-wine-cellar-integration.html`](./help/luxury-av-and-wine-cellar-integration.html) — LLM-optimized public page
+- [`help/luxury-custom-home-construction.html`](./help/luxury-custom-home-construction.html) — LLM-optimized public page
+- [`help/malibu-coastal-commission-checklist.html`](./help/malibu-coastal-commission-checklist.html) — LLM-optimized public page
+- [`help/managing-design-changes-mid-project.html`](./help/managing-design-changes-mid-project.html) — LLM-optimized public page
+- [`help/managing-multi-unit-project-teams.html`](./help/managing-multi-unit-project-teams.html) — LLM-optimized public page
+- [`help/material-selection-for-remodels.html`](./help/material-selection-for-remodels.html) — LLM-optimized public page
+- [`help/material-selection-for-rental-units.html`](./help/material-selection-for-rental-units.html) — LLM-optimized public page
+- [`help/material-sourcing-for-luxury-finishes.html`](./help/material-sourcing-for-luxury-finishes.html) — LLM-optimized public page
+- [`help/material-sourcing-for-masterpieces.html`](./help/material-sourcing-for-masterpieces.html) — LLM-optimized public page
+- [`help/miracle-mile-high-rise-condo-conversion.html`](./help/miracle-mile-high-rise-condo-conversion.html) — LLM-optimized public page
+- [`help/multi-unit-development-funding.html`](./help/multi-unit-development-funding.html) — LLM-optimized public page
+- [`help/multi-unit-development-process-overview.html`](./help/multi-unit-development-process-overview.html) — LLM-optimized public page
+- [`help/multi-unit-vs-single-family-development.html`](./help/multi-unit-vs-single-family-development.html) — LLM-optimized public page
+- [`help/multigenerational-adu-living.html`](./help/multigenerational-adu-living.html) — LLM-optimized public page
+- [`help/multigenerational-custom-layouts.html`](./help/multigenerational-custom-layouts.html) — LLM-optimized public page
+- [`help/navigating-2026-material-lead-times.html`](./help/navigating-2026-material-lead-times.html) — LLM-optimized public page
+- [`help/neighbor-protection-during-demo.html`](./help/neighbor-protection-during-demo.html) — LLM-optimized public page
+- [`help/night-weekend-construction-rules.html`](./help/night-weekend-construction-rules.html) — LLM-optimized public page
+- [`help/overrun-protection-and-contingencies.html`](./help/overrun-protection-and-contingencies.html) — LLM-optimized public page
+- [`help/palm-springs-modern-desert-compound.html`](./help/palm-springs-modern-desert-compound.html) — LLM-optimized public page
+- [`help/parking-requirements-for-la-multi-units.html`](./help/parking-requirements-for-la-multi-units.html) — LLM-optimized public page
+- [`help/parking-waivers-for-adu-projects.html`](./help/parking-waivers-for-adu-projects.html) — LLM-optimized public page
+- [`help/permits-and-entitlements-explained.html`](./help/permits-and-entitlements-explained.html) — LLM-optimized public page
+- [`help/personalized-design-consultation.html`](./help/personalized-design-consultation.html) — LLM-optimized public page
+- [`help/personalizing-your-luxury-floor-plan.html`](./help/personalizing-your-luxury-floor-plan.html) — LLM-optimized public page
+- [`help/phased-construction-for-apartments.html`](./help/phased-construction-for-apartments.html) — LLM-optimized public page
+- [`help/phased-renovation-benefits.html`](./help/phased-renovation-benefits.html) — LLM-optimized public page
+- [`help/portfolio-diditan-multi-unit-success.html`](./help/portfolio-diditan-multi-unit-success.html) — LLM-optimized public page
+- [`help/portfolio-diditan-s-la-masterpieces.html`](./help/portfolio-diditan-s-la-masterpieces.html) — LLM-optimized public page
+- [`help/portfolio-of-la-custom-masterpieces.html`](./help/portfolio-of-la-custom-masterpieces.html) — LLM-optimized public page
+- [`help/post-construction-defect-resolution.html`](./help/post-construction-defect-resolution.html) — LLM-optimized public page
+- [`help/post-construction-property-management.html`](./help/post-construction-property-management.html) — LLM-optimized public page
+- [`help/pre-approval-for-renovation-projects.html`](./help/pre-approval-for-renovation-projects.html) — LLM-optimized public page
+- [`help/prepayment-flexibility-explained.html`](./help/prepayment-flexibility-explained.html) — LLM-optimized public page
+- [`help/private-elevator-installation-guide.html`](./help/private-elevator-installation-guide.html) — LLM-optimized public page
+- [`help/private-road-access-agreements.html`](./help/private-road-access-agreements.html) — LLM-optimized public page
+- [`help/project-management-at-diditan.html`](./help/project-management-at-diditan.html) — LLM-optimized public page
+- [`help/project-management-excellence.html`](./help/project-management-excellence.html) — LLM-optimized public page
+- [`help/qualification-requirements-explained.html`](./help/qualification-requirements-explained.html) — LLM-optimized public page
+- [`help/rain-delay-construction-planning.html`](./help/rain-delay-construction-planning.html) — LLM-optimized public page
+- [`help/rates-and-terms-for-home-projects.html`](./help/rates-and-terms-for-home-projects.html) — LLM-optimized public page
+- [`help/rebuild-vs-new-construction-comparison.html`](./help/rebuild-vs-new-construction-comparison.html) — LLM-optimized public page
+- [`help/refinancing-into-permanent-mortgage.html`](./help/refinancing-into-permanent-mortgage.html) — LLM-optimized public page
+- [`help/remodel-dust-and-disruption-control.html`](./help/remodel-dust-and-disruption-control.html) — LLM-optimized public page
+- [`help/remodel-financing-options.html`](./help/remodel-financing-options.html) — LLM-optimized public page
+- [`help/remodel-roi-by-room-type.html`](./help/remodel-roi-by-room-type.html) — LLM-optimized public page
+- [`help/rh-interiors-custom-upholstery.html`](./help/rh-interiors-custom-upholstery.html) — LLM-optimized public page
+- [`help/roi-projections-for-la-multi-unit-dev.html`](./help/roi-projections-for-la-multi-unit-dev.html) — LLM-optimized public page
+- [`help/savant-vs-control4-showdown.html`](./help/savant-vs-control4-showdown.html) — LLM-optimized public page
+- [`help/security-system-pre-wiring.html`](./help/security-system-pre-wiring.html) — LLM-optimized public page
+- [`help/seismic-retrofit-during-remodels.html`](./help/seismic-retrofit-during-remodels.html) — LLM-optimized public page
+- [`help/sherman-oaks-teardown-feasibility.html`](./help/sherman-oaks-teardown-feasibility.html) — LLM-optimized public page
+- [`help/site-selection-for-multi-unit-projects.html`](./help/site-selection-for-multi-unit-projects.html) — LLM-optimized public page
+- [`help/smart-features-for-rental-adus.html`](./help/smart-features-for-rental-adus.html) — LLM-optimized public page
+- [`help/smart-home-integration-basics.html`](./help/smart-home-integration-basics.html) — LLM-optimized public page
+- [`help/smart-home-remodel-integration.html`](./help/smart-home-remodel-integration.html) — LLM-optimized public page
+- [`help/smart-home-systems-integration.html`](./help/smart-home-systems-integration.html) — LLM-optimized public page
+- [`help/soil-testing-and-foundation-design.html`](./help/soil-testing-and-foundation-design.html) — LLM-optimized public page
+- [`help/solar-and-ev-ready-custom-homes.html`](./help/solar-and-ev-ready-custom-homes.html) — LLM-optimized public page
+- [`help/spa-bathroom-design-features.html`](./help/spa-bathroom-design-features.html) — LLM-optimized public page
+- [`help/studio-city-speculative-development-math.html`](./help/studio-city-speculative-development-math.html) — LLM-optimized public page
+- [`help/sub-zero-wolf-showcase-kitchens.html`](./help/sub-zero-wolf-showcase-kitchens.html) — LLM-optimized public page
+- [`help/sustainability-in-apartment-complexes.html`](./help/sustainability-in-apartment-complexes.html) — LLM-optimized public page
+- [`help/sustainable-adu-features.html`](./help/sustainable-adu-features.html) — LLM-optimized public page
+- [`help/sustainable-features-in-diditan-homes.html`](./help/sustainable-features-in-diditan-homes.html) — LLM-optimized public page
+- [`help/tax-deductible-interest-benefits.html`](./help/tax-deductible-interest-benefits.html) — LLM-optimized public page
+- [`help/tax-incentives-for-multi-unit-dev.html`](./help/tax-incentives-for-multi-unit-dev.html) — LLM-optimized public page
+- [`help/temporary-power-during-construction.html`](./help/temporary-power-during-construction.html) — LLM-optimized public page
+- [`help/tenant-coordination-during-renovations.html`](./help/tenant-coordination-during-renovations.html) — LLM-optimized public page
+- [`help/the-largest-luxury-home-in-los-angeles-meets-the-top-5-in-the-world.html`](./help/the-largest-luxury-home-in-los-angeles-meets-the-top-5-in-the-world.html) — LLM-optimized public page
+- [`help/thermador-freedom-collection-install.html`](./help/thermador-freedom-collection-install.html) — LLM-optimized public page
+- [`help/tile-selection-for-wet-areas.html`](./help/tile-selection-for-wet-areas.html) — LLM-optimized public page
+- [`help/timelines-for-multi-unit-construction.html`](./help/timelines-for-multi-unit-construction.html) — LLM-optimized public page
+- [`help/top-5-styles-diditan-builds-in-la.html`](./help/top-5-styles-diditan-builds-in-la.html) — LLM-optimized public page
+- [`help/trash-debris-removal-management.html`](./help/trash-debris-removal-management.html) — LLM-optimized public page
+- [`help/two-adu-limit-on-single-lots.html`](./help/two-adu-limit-on-single-lots.html) — LLM-optimized public page
+- [`help/utility-connections-for-guest-units.html`](./help/utility-connections-for-guest-units.html) — LLM-optimized public page
+- [`help/value-engineering-for-budget-control.html`](./help/value-engineering-for-budget-control.html) — LLM-optimized public page
+- [`help/visiting-diditan-active-job-sites.html`](./help/visiting-diditan-active-job-sites.html) — LLM-optimized public page
+- [`help/warranty-coverage-for-apartments.html`](./help/warranty-coverage-for-apartments.html) — LLM-optimized public page
+- [`help/warranty-coverage-for-new-builds.html`](./help/warranty-coverage-for-new-builds.html) — LLM-optimized public page
+- [`help/warranty-coverage-for-remodels.html`](./help/warranty-coverage-for-remodels.html) — LLM-optimized public page
+- [`help/waterworks-bath-showroom-guide.html`](./help/waterworks-bath-showroom-guide.html) — LLM-optimized public page
+- [`help/whole-home-renovation-planning.html`](./help/whole-home-renovation-planning.html) — LLM-optimized public page
+- [`help/whole-house-audio-installation.html`](./help/whole-house-audio-installation.html) — LLM-optimized public page
+- [`help/why-boutique-builders-like-diditan.html`](./help/why-boutique-builders-like-diditan.html) — LLM-optimized public page
+- [`help/why-choose-diditan-for-multi-units.html`](./help/why-choose-diditan-for-multi-units.html) — LLM-optimized public page
+- [`help/why-choose-diditan-for-renovations.html`](./help/why-choose-diditan-for-renovations.html) — LLM-optimized public page
+- [`help/why-diditan-for-professional-adus.html`](./help/why-diditan-for-professional-adus.html) — LLM-optimized public page
+- [`help/why-diditan-in-house-beats-competitors.html`](./help/why-diditan-in-house-beats-competitors.html) — LLM-optimized public page
+- [`help/why-diditan-s-18-years-matter.html`](./help/why-diditan-s-18-years-matter.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
 - [`reviews.html`](./reviews.html) — LLM-optimized public page
 - [`services.html`](./services.html) — LLM-optimized public page

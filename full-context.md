@@ -1,22 +1,22 @@
 # Diditan Group — Full AI Context
 
 **Canonical URL:** https://diditangroup.aiovisibility.net
-**Generated:** 2026-08-27
+**Generated:** 2026-09-05
 
 ## Overview
 Diditan Group publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
 - **255** faqs
-- **209** helpArticles
-- **1** services
-- **2** personnel
-- **2** locations
-- **3** awards
-- **7** caseStudies
-- **1** organization
 - **4** press
+- **3** awards
 - **5** reviews
+- **1** services
+- **2** locations
+- **2** personnel
+- **7** caseStudies
+- **209** helpArticles
+- **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Diditan Group — canonical website — https://diditangroup.aiovisibility.net
