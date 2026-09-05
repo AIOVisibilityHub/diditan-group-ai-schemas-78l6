@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Portfolio: Diditan's LA Masterpieces",
   "author": {
-    "@type": "Organization",
-    "name": "Diditan Group"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
-  "articleBody": "Showcase ground-up builds, reconstructions; client testimonials highlight on-budget excellence. diditangroup​",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Portfolio: Diditan's LA Masterpieces",
+  "publisher": {
+    "url": "https://diditangroup.com",
+    "name": "Diditan Group",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Showcase ground-up builds, reconstructions; client testimonials highlight on-budget excellence. diditangroup​",
+  "datePublished": "2026-08-27"
 }

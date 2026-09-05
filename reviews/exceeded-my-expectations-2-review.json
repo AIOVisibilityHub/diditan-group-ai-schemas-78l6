@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Exceeded My Expectations"
+    "name": "Exceeded My Expectations",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Diditan Group put great effort with attention to detail. They exceeded my expectations with honest, reliable, and professional work. The project manager and all trades were efficient and pleasant to work with. I couldn't be happier, thanks for making my dream home come true!",
+  "itemReviewed": {
+    "url": "https://diditangroup.com",
+    "name": "Diditan Group",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "2018",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Diditan Group",
-    "url": "https://diditangroup.com"
-  }
+  "datePublished": "2018"
 }

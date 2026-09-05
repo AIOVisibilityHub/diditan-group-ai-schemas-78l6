@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Material Sourcing for Luxury Finishes",
   "author": {
-    "@type": "Organization",
-    "name": "Diditan Group"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
-  "articleBody": "Global imports for stone/tiles; Arie's fashion eye ensures elegance. yelp​",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Material Sourcing for Luxury Finishes",
+  "publisher": {
+    "url": "https://diditangroup.com",
+    "name": "Diditan Group",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Global imports for stone/tiles; Arie's fashion eye ensures elegance. yelp​",
+  "datePublished": "2026-08-27"
 }

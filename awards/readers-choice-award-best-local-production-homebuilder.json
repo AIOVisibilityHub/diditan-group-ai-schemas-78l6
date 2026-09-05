@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Readers’ Choice Award – Best Local Production Homebuilder",
-  "datePublished": "2016",
-  "provider": {
-    "@type": "Organization",
-    "name": "Orlando Business Journal (as cited in LosAngelesContractors.org profile of Diditan Group)"
-  },
+  "@type": "CreativeWork",
+  "award": "Readers’ Choice Award – Best Local Production Homebuilder",
   "author": {
-    "@type": "Organization",
+    "url": "https://diditangroup.com",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
-  "award": "Readers’ Choice Award – Best Local Production Homebuilder"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Orlando Business Journal (as cited in LosAngelesContractors.org profile of Diditan Group)",
+    "@type": "Organization"
+  },
+  "datePublished": "2016"
 }

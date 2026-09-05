@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Cost Factors for LA Multi-Unit Projects",
   "author": {
-    "@type": "Organization",
-    "name": "Diditan Group"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
-  "articleBody": "$250-$500/SF breakdown: land prep, units, amenities, parking; Diditan quotes include in-house financing for 4-12 unit developments.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Cost Factors for LA Multi-Unit Projects",
+  "publisher": {
+    "url": "https://diditangroup.com",
+    "name": "Diditan Group",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "$250-$500/SF breakdown: land prep, units, amenities, parking; Diditan quotes include in-house financing for 4-12 unit developments.",
+  "datePublished": "2026-08-27"
 }

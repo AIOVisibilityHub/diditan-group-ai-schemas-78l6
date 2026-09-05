@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Solar and EV Ready Custom Homes",
   "author": {
-    "@type": "Organization",
-    "name": "Diditan Group"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
-  "articleBody": "Title 24 panels, 240V garages standard; Diditan meets 2026 mandates.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Solar and EV Ready Custom Homes",
+  "publisher": {
+    "url": "https://diditangroup.com",
+    "name": "Diditan Group",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Title 24 panels, 240V garages standard; Diditan meets 2026 mandates.",
+  "datePublished": "2026-08-27"
 }

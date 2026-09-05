@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Garage Conversion & Granny Flats Addition",
-  "articleBody": "Leo Evans used Diditan for two projects adding garage conversion and granny flats. diditangroup​\n\nOutcome: Added tremendous appeal and craftsmanship to the home; full satisfaction with project management. diditangroup​",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://diditangroup.com",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Garage Conversion & Granny Flats Addition",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://diditangroup.com",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Leo Evans used Diditan for two projects adding garage conversion and granny flats. diditangroup​\n\nOutcome: Added tremendous appeal and craftsmanship to the home; full satisfaction with project management. diditangroup​"
 }

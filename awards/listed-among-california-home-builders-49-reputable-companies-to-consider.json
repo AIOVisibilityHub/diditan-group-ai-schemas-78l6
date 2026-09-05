@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Listed among “California Home Builders: 49 Reputable Companies to Consider”",
-  "datePublished": "2024‑12‑01",
-  "provider": {
-    "@type": "Organization",
-    "name": "Allura (AlluraUSA.com)"
-  },
+  "@type": "CreativeWork",
+  "award": "Listed among “California Home Builders: 49 Reputable Companies to Consider”",
   "author": {
-    "@type": "Organization",
+    "url": "https://diditangroup.com",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
-  "award": "Listed among “California Home Builders: 49 Reputable Companies to Consider”"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Allura (AlluraUSA.com)",
+    "@type": "Organization"
+  },
+  "datePublished": "2024‑12‑01"
 }

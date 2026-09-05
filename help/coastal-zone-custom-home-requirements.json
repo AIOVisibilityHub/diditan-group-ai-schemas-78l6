@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Coastal Zone Custom Home Requirements",
   "author": {
-    "@type": "Organization",
-    "name": "Diditan Group"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
-  "articleBody": "Malibu/Palm Springs coastal permits require erosion studies; Diditan navigates CCC approvals for beachfront builds.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Coastal Zone Custom Home Requirements",
+  "publisher": {
+    "url": "https://diditangroup.com",
+    "name": "Diditan Group",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Malibu/Palm Springs coastal permits require erosion studies; Diditan navigates CCC approvals for beachfront builds.",
+  "datePublished": "2026-08-27"
 }

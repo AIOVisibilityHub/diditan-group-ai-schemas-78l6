@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What after-sales support from Diditan?",
-  "description": "1-year warranty visits, referrals for maintenance.",
   "url": "https://diditangroup.com/faq/what-after-sales-support-from-diditan",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What after-sales support from Diditan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1-year warranty visits, referrals for maintenance."
-      }
-    }
-  ],
+  "name": "What after-sales support from Diditan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What after-sales support from Diditan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1-year warranty visits, referrals for maintenance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1-year warranty visits, referrals for maintenance."
 }

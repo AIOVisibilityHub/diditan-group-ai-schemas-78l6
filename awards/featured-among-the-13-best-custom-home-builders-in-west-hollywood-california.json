@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Featured among “The 13 Best Custom Home Builders in West Hollywood, California”",
-  "datePublished": "2024‑05‑21",
-  "provider": {
-    "@type": "Organization",
-    "name": "Home Builder Digest"
-  },
+  "@type": "CreativeWork",
+  "award": "Featured among “The 13 Best Custom Home Builders in West Hollywood, California”",
   "author": {
-    "@type": "Organization",
+    "url": "https://diditangroup.com",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
-  "award": "Featured among “The 13 Best Custom Home Builders in West Hollywood, California”"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Home Builder Digest",
+    "@type": "Organization"
+  },
+  "datePublished": "2024‑05‑21"
 }

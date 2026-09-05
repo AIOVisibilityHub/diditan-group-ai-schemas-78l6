@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Diditan Luxury Home Builders Sherman Oaks 5 Star Review by [Client] (video testimonial)",
-  "datePublished": "2017‑01‑03",
   "url": "https://www.youtube.com/watch?v=CYy3a04wxpc YouTube​",
-  "publisher": {
-    "@type": "Organization",
-    "name": "YouTube (business review media)"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://diditangroup.com",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Diditan Luxury Home Builders Sherman Oaks 5 Star Review by [Client] (video testimonial)",
+  "publisher": {
+    "name": "YouTube (business review media)",
+    "@type": "Organization"
+  },
+  "datePublished": "2017‑01‑03"
 }

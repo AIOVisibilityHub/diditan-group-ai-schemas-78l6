@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are drone surveys used for lots?",
-  "description": "Yes for topography; speeds Diditan's feasibility phase.",
   "url": "https://diditangroup.com/faq/are-drone-surveys-used-for-lots",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are drone surveys used for lots?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes for topography; speeds Diditan's feasibility phase."
-      }
-    }
-  ],
+  "name": "Are drone surveys used for lots?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are drone surveys used for lots?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes for topography; speeds Diditan's feasibility phase.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes for topography; speeds Diditan's feasibility phase."
 }

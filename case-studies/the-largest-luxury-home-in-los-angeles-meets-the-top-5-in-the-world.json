@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "The Largest Luxury Home in Los Angeles Meets the Top 5 in the World",
-  "articleBody": "Overview of a historic luxury residence in Holmby Hills, one of the largest in LA, and its connection to notable owners, highlighting Diditan Group's building expertise.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://diditangroup.com",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "The Largest Luxury Home in Los Angeles Meets the Top 5 in the World",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://diditangroup.com",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Overview of a historic luxury residence in Holmby Hills, one of the largest in LA, and its connection to notable owners, highlighting Diditan Group's building expertise."
 }

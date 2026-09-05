@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Property Developments Los Angeles: New Homes & Buildings 2026 (section mentioning Diditan Group’s comprehensive development model)",
-  "datePublished": "2024‑12‑16",
   "url": "https://propertydevelopments.com/usa/los-angeles/ propertydevelopments​",
-  "publisher": {
-    "@type": "Organization",
-    "name": "PropertyDevelopments.com"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://diditangroup.com",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Property Developments Los Angeles: New Homes & Buildings 2026 (section mentioning Diditan Group’s comprehensive development model)",
+  "publisher": {
+    "name": "PropertyDevelopments.com",
+    "@type": "Organization"
+  },
+  "datePublished": "2024‑12‑16"
 }

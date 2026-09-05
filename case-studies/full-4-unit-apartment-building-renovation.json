@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Full 4-Unit Apartment Building Renovation",
-  "articleBody": "Marcelle Melka's team renovated a 4-unit LA building, coordinating with tenants, handling changes, and completing ahead of holiday deadline despite tight schedules. diditangroup​\n\nOutcome: Project finished impeccably and on time like \"newly built construction\"; units are now comfortable and high-quality, with strong client-team rapport. diditangroup​",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://diditangroup.com",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Full 4-Unit Apartment Building Renovation",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://diditangroup.com",
     "name": "Diditan Group",
-    "url": "https://diditangroup.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Marcelle Melka's team renovated a 4-unit LA building, coordinating with tenants, handling changes, and completing ahead of holiday deadline despite tight schedules. diditangroup​\n\nOutcome: Project finished impeccably and on time like \"newly built construction\"; units are now comfortable and high-quality, with strong client-team rapport. diditangroup​"
 }

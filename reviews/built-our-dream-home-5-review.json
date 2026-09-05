@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Built Our Dream Home"
+    "name": "Built Our Dream Home",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "The Diditan Group built our house from the ground up with professionalism and creativity. They delivered on time and budget. I would recommend them to anyone looking to build or remodel their home.",
+  "itemReviewed": {
+    "url": "https://diditangroup.com",
+    "name": "Diditan Group",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "43437",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Diditan Group",
-    "url": "https://diditangroup.com"
-  }
+  "datePublished": "43437"
 }

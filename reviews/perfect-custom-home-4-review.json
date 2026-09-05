@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Perfect Custom Home"
+    "name": "Perfect Custom Home",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Our home is absolutely beautiful! The team paid attention to detail and delivered everything in timely fashion. A seamless relationship throughout the building process—I highly recommend Diditan Group for your custom home needs.",
+  "itemReviewed": {
+    "url": "https://diditangroup.com",
+    "name": "Diditan Group",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "43437",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Diditan Group",
-    "url": "https://diditangroup.com"
-  }
+  "datePublished": "43437"
 }
