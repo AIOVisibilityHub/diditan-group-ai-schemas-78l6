@@ -1,0 +1,1789 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Diditan Group Builds Luxurious Custom Tuscan Homes in CA",
+      "anchorSlug": "diditan-group-builds-luxurious-custom-tuscan-homes-in-ca",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/diditan-group-builds-luxurious-custom-tuscan-homes-in-ca.html"
+    },
+    {
+      "title": "Luxury custom home construction",
+      "anchorSlug": "luxury-custom-home-construction",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/luxury-custom-home-construction.html"
+    },
+    {
+      "title": "The Largest Luxury Home in Los Angeles Meets the Top 5 in the World",
+      "anchorSlug": "the-largest-luxury-home-in-los-angeles-meets-the-top-5-in-the-world",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-largest-luxury-home-in-los-angeles-meets-the-top-5-in-the-world.html"
+    },
+    {
+      "title": "Latest Blog Articles - Diditan Group",
+      "anchorSlug": "latest-blog-articles-diditan-group",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/latest-blog-articles-diditan-group.html"
+    },
+    {
+      "title": "Guide to Custom Home Design Process",
+      "anchorSlug": "guide-to-custom-home-design-process",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/guide-to-custom-home-design-process.html"
+    },
+    {
+      "title": "Cost Breakdown for Luxury Custom Builds",
+      "anchorSlug": "cost-breakdown-for-luxury-custom-builds",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-breakdown-for-luxury-custom-builds.html"
+    },
+    {
+      "title": "Top 5 Styles Diditan Builds in LA",
+      "anchorSlug": "top-5-styles-diditan-builds-in-la",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/top-5-styles-diditan-builds-in-la.html"
+    },
+    {
+      "title": "From Lot to Keys: Diditan Timeline",
+      "anchorSlug": "from-lot-to-keys-diditan-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/from-lot-to-keys-diditan-timeline.html"
+    },
+    {
+      "title": "In-House Financing for Custom Projects",
+      "anchorSlug": "in-house-financing-for-custom-projects",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/in-house-financing-for-custom-projects.html"
+    },
+    {
+      "title": "LA Seismic Standards for New Homes",
+      "anchorSlug": "la-seismic-standards-for-new-homes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/la-seismic-standards-for-new-homes.html"
+    },
+    {
+      "title": "Choosing Your Custom Lot with Diditan",
+      "anchorSlug": "choosing-your-custom-lot-with-diditan",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-your-custom-lot-with-diditan.html"
+    },
+    {
+      "title": "Smart Home Integration Basics",
+      "anchorSlug": "smart-home-integration-basics",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smart-home-integration-basics.html"
+    },
+    {
+      "title": "Portfolio: Diditan's LA Masterpieces",
+      "anchorSlug": "portfolio-diditan-s-la-masterpieces",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/portfolio-diditan-s-la-masterpieces.html"
+    },
+    {
+      "title": "Permits and Entitlements Explained",
+      "anchorSlug": "permits-and-entitlements-explained",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permits-and-entitlements-explained.html"
+    },
+    {
+      "title": "Sustainable Features in Diditan Homes",
+      "anchorSlug": "sustainable-features-in-diditan-homes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sustainable-features-in-diditan-homes.html"
+    },
+    {
+      "title": "Warranty Coverage for New Builds",
+      "anchorSlug": "warranty-coverage-for-new-builds",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/warranty-coverage-for-new-builds.html"
+    },
+    {
+      "title": "Change Orders: What to Expect",
+      "anchorSlug": "change-orders-what-to-expect",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/change-orders-what-to-expect.html"
+    },
+    {
+      "title": "Collaborating with Architects",
+      "anchorSlug": "collaborating-with-architects",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/collaborating-with-architects.html"
+    },
+    {
+      "title": "Hillside Custom Home Challenges",
+      "anchorSlug": "hillside-custom-home-challenges",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hillside-custom-home-challenges.html"
+    },
+    {
+      "title": "Material Sourcing for Luxury Finishes",
+      "anchorSlug": "material-sourcing-for-luxury-finishes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/material-sourcing-for-luxury-finishes.html"
+    },
+    {
+      "title": "Project Management at Diditan",
+      "anchorSlug": "project-management-at-diditan",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/project-management-at-diditan.html"
+    },
+    {
+      "title": "EV and Solar Trends for 2026",
+      "anchorSlug": "ev-and-solar-trends-for-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ev-and-solar-trends-for-2026.html"
+    },
+    {
+      "title": "Client Testimonials Spotlight",
+      "anchorSlug": "client-testimonials-spotlight",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/client-testimonials-spotlight.html"
+    },
+    {
+      "title": "Budgeting Contingencies Explained",
+      "anchorSlug": "budgeting-contingencies-explained",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/budgeting-contingencies-explained.html"
+    },
+    {
+      "title": "Indoor-Outdoor Flow Designs",
+      "anchorSlug": "indoor-outdoor-flow-designs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/indoor-outdoor-flow-designs.html"
+    },
+    {
+      "title": "Final Walkthrough Checklist",
+      "anchorSlug": "final-walkthrough-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/final-walkthrough-checklist.html"
+    },
+    {
+      "title": "Why Boutique Builders Like Diditan?",
+      "anchorSlug": "why-boutique-builders-like-diditan",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-boutique-builders-like-diditan.html"
+    },
+    {
+      "title": "Aging-in-Place Custom Features",
+      "anchorSlug": "aging-in-place-custom-features",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/aging-in-place-custom-features.html"
+    },
+    {
+      "title": "Diditan vs. Spec Home Builders",
+      "anchorSlug": "diditan-vs-spec-home-builders",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/diditan-vs-spec-home-builders.html"
+    },
+    {
+      "title": "Multi-Unit Development Process Overview",
+      "anchorSlug": "multi-unit-development-process-overview",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multi-unit-development-process-overview.html"
+    },
+    {
+      "title": "Cost Factors for LA Multi-Unit Projects",
+      "anchorSlug": "cost-factors-for-la-multi-unit-projects",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-factors-for-la-multi-unit-projects.html"
+    },
+    {
+      "title": "LA Zoning for Multi-Unit Residential",
+      "anchorSlug": "la-zoning-for-multi-unit-residential",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/la-zoning-for-multi-unit-residential.html"
+    },
+    {
+      "title": "Timelines for Multi-Unit Construction",
+      "anchorSlug": "timelines-for-multi-unit-construction",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/timelines-for-multi-unit-construction.html"
+    },
+    {
+      "title": "Financing Multi-Unit Investments",
+      "anchorSlug": "financing-multi-unit-investments",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/financing-multi-unit-investments.html"
+    },
+    {
+      "title": "Tenant Coordination During Renovations",
+      "anchorSlug": "tenant-coordination-during-renovations",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tenant-coordination-during-renovations.html"
+    },
+    {
+      "title": "Design Trends for Luxury Multi-Units",
+      "anchorSlug": "design-trends-for-luxury-multi-units",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-trends-for-luxury-multi-units.html"
+    },
+    {
+      "title": "Parking Requirements for LA Multi-Units",
+      "anchorSlug": "parking-requirements-for-la-multi-units",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/parking-requirements-for-la-multi-units.html"
+    },
+    {
+      "title": "Entitlements for Small Apartment Buildings",
+      "anchorSlug": "entitlements-for-small-apartment-buildings",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/entitlements-for-small-apartment-buildings.html"
+    },
+    {
+      "title": "ROI Projections for LA Multi-Unit Dev",
+      "anchorSlug": "roi-projections-for-la-multi-unit-dev",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/roi-projections-for-la-multi-unit-dev.html"
+    },
+    {
+      "title": "Site Selection for Multi-Unit Projects",
+      "anchorSlug": "site-selection-for-multi-unit-projects",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/site-selection-for-multi-unit-projects.html"
+    },
+    {
+      "title": "Phased Construction for Apartments",
+      "anchorSlug": "phased-construction-for-apartments",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/phased-construction-for-apartments.html"
+    },
+    {
+      "title": "Managing Multi-Unit Project Teams",
+      "anchorSlug": "managing-multi-unit-project-teams",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/managing-multi-unit-project-teams.html"
+    },
+    {
+      "title": "Tax Incentives for Multi-Unit Dev",
+      "anchorSlug": "tax-incentives-for-multi-unit-dev",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tax-incentives-for-multi-unit-dev.html"
+    },
+    {
+      "title": "Sustainability in Apartment Complexes",
+      "anchorSlug": "sustainability-in-apartment-complexes",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sustainability-in-apartment-complexes.html"
+    },
+    {
+      "title": "Change Orders in Multi-Unit Projects",
+      "anchorSlug": "change-orders-in-multi-unit-projects",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/change-orders-in-multi-unit-projects.html"
+    },
+    {
+      "title": "Final Inspections for Multi-Unit CO",
+      "anchorSlug": "final-inspections-for-multi-unit-co",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/final-inspections-for-multi-unit-co.html"
+    },
+    {
+      "title": "Why Choose Diditan for Multi-Units?",
+      "anchorSlug": "why-choose-diditan-for-multi-units",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-choose-diditan-for-multi-units.html"
+    },
+    {
+      "title": "Portfolio: Diditan Multi-Unit Success",
+      "anchorSlug": "portfolio-diditan-multi-unit-success",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/portfolio-diditan-multi-unit-success.html"
+    },
+    {
+      "title": "Budgeting for Multi-Unit Contingencies",
+      "anchorSlug": "budgeting-for-multi-unit-contingencies",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/budgeting-for-multi-unit-contingencies.html"
+    },
+    {
+      "title": "LA Noise Ordinances for Construction",
+      "anchorSlug": "la-noise-ordinances-for-construction",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/la-noise-ordinances-for-construction.html"
+    },
+    {
+      "title": "Warranty Coverage for Apartments",
+      "anchorSlug": "warranty-coverage-for-apartments",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/warranty-coverage-for-apartments.html"
+    },
+    {
+      "title": "Material Selection for Rental Units",
+      "anchorSlug": "material-selection-for-rental-units",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/material-selection-for-rental-units.html"
+    },
+    {
+      "title": "Post-Construction Property Management",
+      "anchorSlug": "post-construction-property-management",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-construction-property-management.html"
+    },
+    {
+      "title": "Multi-Unit vs Single-Family Development",
+      "anchorSlug": "multi-unit-vs-single-family-development",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multi-unit-vs-single-family-development.html"
+    },
+    {
+      "title": "ADU Design Process with Diditan",
+      "anchorSlug": "adu-design-process-with-diditan",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-design-process-with-diditan.html"
+    },
+    {
+      "title": "Cost Guide for LA ADU Construction",
+      "anchorSlug": "cost-guide-for-la-adu-construction",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-guide-for-la-adu-construction.html"
+    },
+    {
+      "title": "LA ADU Zoning and Size Rules",
+      "anchorSlug": "la-adu-zoning-and-size-rules",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/la-adu-zoning-and-size-rules.html"
+    },
+    {
+      "title": "ADU Build Timelines Explained",
+      "anchorSlug": "adu-build-timelines-explained",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-build-timelines-explained.html"
+    },
+    {
+      "title": "Financing Options for ADUs",
+      "anchorSlug": "financing-options-for-adus",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/financing-options-for-adus.html"
+    },
+    {
+      "title": "Detached vs Attached ADU Designs",
+      "anchorSlug": "detached-vs-attached-adu-designs",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/detached-vs-attached-adu-designs.html"
+    },
+    {
+      "title": "LADBS ADU Permit Fast-Track",
+      "anchorSlug": "ladbs-adu-permit-fast-track",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ladbs-adu-permit-fast-track.html"
+    },
+    {
+      "title": "HOA Rules and ADU Approvals",
+      "anchorSlug": "hoa-rules-and-adu-approvals",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hoa-rules-and-adu-approvals.html"
+    },
+    {
+      "title": "Kitchen and Bath Layouts for ADUs",
+      "anchorSlug": "kitchen-and-bath-layouts-for-adus",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-and-bath-layouts-for-adus.html"
+    },
+    {
+      "title": "Parking Waivers for ADU Projects",
+      "anchorSlug": "parking-waivers-for-adu-projects",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/parking-waivers-for-adu-projects.html"
+    },
+    {
+      "title": "Utility Connections for Guest Units",
+      "anchorSlug": "utility-connections-for-guest-units",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/utility-connections-for-guest-units.html"
+    },
+    {
+      "title": "Boosting Property Value with ADUs",
+      "anchorSlug": "boosting-property-value-with-adus",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/boosting-property-value-with-adus.html"
+    },
+    {
+      "title": "Multigenerational ADU Living",
+      "anchorSlug": "multigenerational-adu-living",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multigenerational-adu-living.html"
+    },
+    {
+      "title": "ADU Egress and Safety Features",
+      "anchorSlug": "adu-egress-and-safety-features",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-egress-and-safety-features.html"
+    },
+    {
+      "title": "JADU vs Full ADU Comparison",
+      "anchorSlug": "jadu-vs-full-adu-comparison",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/jadu-vs-full-adu-comparison.html"
+    },
+    {
+      "title": "Sustainable ADU Features",
+      "anchorSlug": "sustainable-adu-features",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sustainable-adu-features.html"
+    },
+    {
+      "title": "Garage Conversion to ADU Guide",
+      "anchorSlug": "garage-conversion-to-adu-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/garage-conversion-to-adu-guide.html"
+    },
+    {
+      "title": "ADU Rental Rules and RSO",
+      "anchorSlug": "adu-rental-rules-and-rso",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-rental-rules-and-rso.html"
+    },
+    {
+      "title": "Two-ADU Limit on Single Lots",
+      "anchorSlug": "two-adu-limit-on-single-lots",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/two-adu-limit-on-single-lots.html"
+    },
+    {
+      "title": "ADU Warranty and Maintenance",
+      "anchorSlug": "adu-warranty-and-maintenance",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-warranty-and-maintenance.html"
+    },
+    {
+      "title": "Financing ADU Property Taxes",
+      "anchorSlug": "financing-adu-property-taxes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/financing-adu-property-taxes.html"
+    },
+    {
+      "title": "Backyard Setbacks for ADUs",
+      "anchorSlug": "backyard-setbacks-for-adus",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/backyard-setbacks-for-adus.html"
+    },
+    {
+      "title": "Smart Features for Rental ADUs",
+      "anchorSlug": "smart-features-for-rental-adus",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smart-features-for-rental-adus.html"
+    },
+    {
+      "title": "ADU Case Studies: Diditan Projects",
+      "anchorSlug": "adu-case-studies-diditan-projects",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-case-studies-diditan-projects.html"
+    },
+    {
+      "title": "Why Diditan for Professional ADUs?",
+      "anchorSlug": "why-diditan-for-professional-adus",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-diditan-for-professional-adus.html"
+    },
+    {
+      "title": "Kitchen Renovation Process Guide",
+      "anchorSlug": "kitchen-renovation-process-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-renovation-process-guide.html"
+    },
+    {
+      "title": "Bathroom Transformation Costs",
+      "anchorSlug": "bathroom-transformation-costs",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-transformation-costs.html"
+    },
+    {
+      "title": "Bedroom Suite Upgrade Ideas",
+      "anchorSlug": "bedroom-suite-upgrade-ideas",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bedroom-suite-upgrade-ideas.html"
+    },
+    {
+      "title": "Basement Finishing Complete Guide",
+      "anchorSlug": "basement-finishing-complete-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/basement-finishing-complete-guide.html"
+    },
+    {
+      "title": "Whole Home Renovation Planning",
+      "anchorSlug": "whole-home-renovation-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/whole-home-renovation-planning.html"
+    },
+    {
+      "title": "LA Remodel Permit Requirements",
+      "anchorSlug": "la-remodel-permit-requirements",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/la-remodel-permit-requirements.html"
+    },
+    {
+      "title": "Personalized Design Consultation",
+      "anchorSlug": "personalized-design-consultation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/personalized-design-consultation.html"
+    },
+    {
+      "title": "Kitchen Layout Trends 2026",
+      "anchorSlug": "kitchen-layout-trends-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-layout-trends-2026.html"
+    },
+    {
+      "title": "Spa Bathroom Design Features",
+      "anchorSlug": "spa-bathroom-design-features",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/spa-bathroom-design-features.html"
+    },
+    {
+      "title": "Bedroom Built-In Solutions",
+      "anchorSlug": "bedroom-built-in-solutions",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bedroom-built-in-solutions.html"
+    },
+    {
+      "title": "Basement Waterproofing Essentials",
+      "anchorSlug": "basement-waterproofing-essentials",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/basement-waterproofing-essentials.html"
+    },
+    {
+      "title": "Remodel Financing Options",
+      "anchorSlug": "remodel-financing-options",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/remodel-financing-options.html"
+    },
+    {
+      "title": "Material Selection for Remodels",
+      "anchorSlug": "material-selection-for-remodels",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/material-selection-for-remodels.html"
+    },
+    {
+      "title": "Phased Renovation Benefits",
+      "anchorSlug": "phased-renovation-benefits",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/phased-renovation-benefits.html"
+    },
+    {
+      "title": "HOA Remodel Approval Process",
+      "anchorSlug": "hoa-remodel-approval-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hoa-remodel-approval-process.html"
+    },
+    {
+      "title": "Kitchen Appliance Upgrade Guide",
+      "anchorSlug": "kitchen-appliance-upgrade-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-appliance-upgrade-guide.html"
+    },
+    {
+      "title": "Smart Home Remodel Integration",
+      "anchorSlug": "smart-home-remodel-integration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smart-home-remodel-integration.html"
+    },
+    {
+      "title": "Remodel ROI by Room Type",
+      "anchorSlug": "remodel-roi-by-room-type",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/remodel-roi-by-room-type.html"
+    },
+    {
+      "title": "Seismic Retrofit During Remodels",
+      "anchorSlug": "seismic-retrofit-during-remodels",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/seismic-retrofit-during-remodels.html"
+    },
+    {
+      "title": "Custom Cabinetry Design Process",
+      "anchorSlug": "custom-cabinetry-design-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-cabinetry-design-process.html"
+    },
+    {
+      "title": "Tile Selection for Wet Areas",
+      "anchorSlug": "tile-selection-for-wet-areas",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tile-selection-for-wet-areas.html"
+    },
+    {
+      "title": "Remodel Dust and Disruption Control",
+      "anchorSlug": "remodel-dust-and-disruption-control",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/remodel-dust-and-disruption-control.html"
+    },
+    {
+      "title": "Warranty Coverage for Remodels",
+      "anchorSlug": "warranty-coverage-for-remodels",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/warranty-coverage-for-remodels.html"
+    },
+    {
+      "title": "Before and After Remodel Gallery",
+      "anchorSlug": "before-and-after-remodel-gallery",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/before-and-after-remodel-gallery.html"
+    },
+    {
+      "title": "Why Choose Diditan for Renovations",
+      "anchorSlug": "why-choose-diditan-for-renovations",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-choose-diditan-for-renovations.html"
+    },
+    {
+      "title": "In-House Financing Overview",
+      "anchorSlug": "in-house-financing-overview",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/in-house-financing-overview.html"
+    },
+    {
+      "title": "How Diditan Financing Works",
+      "anchorSlug": "how-diditan-financing-works",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-diditan-financing-works.html"
+    },
+    {
+      "title": "Rates and Terms for Home Projects",
+      "anchorSlug": "rates-and-terms-for-home-projects",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rates-and-terms-for-home-projects.html"
+    },
+    {
+      "title": "Financing Kitchen and Bath Remodels",
+      "anchorSlug": "financing-kitchen-and-bath-remodels",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/financing-kitchen-and-bath-remodels.html"
+    },
+    {
+      "title": "Custom Home Construction Loans",
+      "anchorSlug": "custom-home-construction-loans",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-home-construction-loans.html"
+    },
+    {
+      "title": "ADU and Granny Flat Financing",
+      "anchorSlug": "adu-and-granny-flat-financing",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-and-granny-flat-financing.html"
+    },
+    {
+      "title": "Multi-Unit Development Funding",
+      "anchorSlug": "multi-unit-development-funding",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multi-unit-development-funding.html"
+    },
+    {
+      "title": "Qualification Requirements Explained",
+      "anchorSlug": "qualification-requirements-explained",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/qualification-requirements-explained.html"
+    },
+    {
+      "title": "Draw Schedule and Disbursements",
+      "anchorSlug": "draw-schedule-and-disbursements",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/draw-schedule-and-disbursements.html"
+    },
+    {
+      "title": "Comparing Diditan vs Bank Loans",
+      "anchorSlug": "comparing-diditan-vs-bank-loans",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/comparing-diditan-vs-bank-loans.html"
+    },
+    {
+      "title": "Pre-Approval for Renovation Projects",
+      "anchorSlug": "pre-approval-for-renovation-projects",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pre-approval-for-renovation-projects.html"
+    },
+    {
+      "title": "Closing Costs and Fees Breakdown",
+      "anchorSlug": "closing-costs-and-fees-breakdown",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/closing-costs-and-fees-breakdown.html"
+    },
+    {
+      "title": "Interest-Only Construction Phase",
+      "anchorSlug": "interest-only-construction-phase",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/interest-only-construction-phase.html"
+    },
+    {
+      "title": "Refinancing into Permanent Mortgage",
+      "anchorSlug": "refinancing-into-permanent-mortgage",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/refinancing-into-permanent-mortgage.html"
+    },
+    {
+      "title": "Financing for First-Time Builders",
+      "anchorSlug": "financing-for-first-time-builders",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/financing-for-first-time-builders.html"
+    },
+    {
+      "title": "Overrun Protection and Contingencies",
+      "anchorSlug": "overrun-protection-and-contingencies",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/overrun-protection-and-contingencies.html"
+    },
+    {
+      "title": "Documents Needed for Application",
+      "anchorSlug": "documents-needed-for-application",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/documents-needed-for-application.html"
+    },
+    {
+      "title": "Prepayment Flexibility Explained",
+      "anchorSlug": "prepayment-flexibility-explained",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/prepayment-flexibility-explained.html"
+    },
+    {
+      "title": "Joint Ventures and Investor Loans",
+      "anchorSlug": "joint-ventures-and-investor-loans",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/joint-ventures-and-investor-loans.html"
+    },
+    {
+      "title": "Bridge Loans for Quick Projects",
+      "anchorSlug": "bridge-loans-for-quick-projects",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bridge-loans-for-quick-projects.html"
+    },
+    {
+      "title": "Tax Deductible Interest Benefits",
+      "anchorSlug": "tax-deductible-interest-benefits",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tax-deductible-interest-benefits.html"
+    },
+    {
+      "title": "Financing During High Interest Rates",
+      "anchorSlug": "financing-during-high-interest-rates",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/financing-during-high-interest-rates.html"
+    },
+    {
+      "title": "Loan Servicing and Payments",
+      "anchorSlug": "loan-servicing-and-payments",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/loan-servicing-and-payments.html"
+    },
+    {
+      "title": "Case Studies: Financed Projects",
+      "anchorSlug": "case-studies-financed-projects",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/case-studies-financed-projects.html"
+    },
+    {
+      "title": "Why Diditan In-House Beats Competitors",
+      "anchorSlug": "why-diditan-in-house-beats-competitors",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-diditan-in-house-beats-competitors.html"
+    },
+    {
+      "title": "Custom Home Build Complete Guide",
+      "anchorSlug": "custom-home-build-complete-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-home-build-complete-guide.html"
+    },
+    {
+      "title": "Rebuild vs New Construction Comparison",
+      "anchorSlug": "rebuild-vs-new-construction-comparison",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rebuild-vs-new-construction-comparison.html"
+    },
+    {
+      "title": "Personalizing Your Luxury Floor Plan",
+      "anchorSlug": "personalizing-your-luxury-floor-plan",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/personalizing-your-luxury-floor-plan.html"
+    },
+    {
+      "title": "LA Custom Home Cost Per Square Foot",
+      "anchorSlug": "la-custom-home-cost-per-square-foot",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/la-custom-home-cost-per-square-foot.html"
+    },
+    {
+      "title": "18-Year Diditan Build Timeline",
+      "anchorSlug": "18-year-diditan-build-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/18-year-diditan-build-timeline.html"
+    },
+    {
+      "title": "Architectural Styles Diditan Masters",
+      "anchorSlug": "architectural-styles-diditan-masters",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/architectural-styles-diditan-masters.html"
+    },
+    {
+      "title": "Foundation and Site Prep Essentials",
+      "anchorSlug": "foundation-and-site-prep-essentials",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/foundation-and-site-prep-essentials.html"
+    },
+    {
+      "title": "Interior Finishes Selection Process",
+      "anchorSlug": "interior-finishes-selection-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/interior-finishes-selection-process.html"
+    },
+    {
+      "title": "Hillside Custom Home Engineering",
+      "anchorSlug": "hillside-custom-home-engineering",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hillside-custom-home-engineering.html"
+    },
+    {
+      "title": "Smart Home Systems Integration",
+      "anchorSlug": "smart-home-systems-integration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smart-home-systems-integration.html"
+    },
+    {
+      "title": "Custom Pool and Outdoor Living",
+      "anchorSlug": "custom-pool-and-outdoor-living",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-pool-and-outdoor-living.html"
+    },
+    {
+      "title": "LADBS Custom Home Permitting",
+      "anchorSlug": "ladbs-custom-home-permitting",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ladbs-custom-home-permitting.html"
+    },
+    {
+      "title": "Value Engineering for Budget Control",
+      "anchorSlug": "value-engineering-for-budget-control",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/value-engineering-for-budget-control.html"
+    },
+    {
+      "title": "Collaborating with Your Architect",
+      "anchorSlug": "collaborating-with-your-architect",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/collaborating-with-your-architect.html"
+    },
+    {
+      "title": "Custom Home Warranty Details",
+      "anchorSlug": "custom-home-warranty-details",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-home-warranty-details.html"
+    },
+    {
+      "title": "Change Order Management Best Practices",
+      "anchorSlug": "change-order-management-best-practices",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/change-order-management-best-practices.html"
+    },
+    {
+      "title": "Solar and EV Ready Custom Homes",
+      "anchorSlug": "solar-and-ev-ready-custom-homes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/solar-and-ev-ready-custom-homes.html"
+    },
+    {
+      "title": "Project Management Excellence",
+      "anchorSlug": "project-management-excellence",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/project-management-excellence.html"
+    },
+    {
+      "title": "Portfolio of LA Custom Masterpieces",
+      "anchorSlug": "portfolio-of-la-custom-masterpieces",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/portfolio-of-la-custom-masterpieces.html"
+    },
+    {
+      "title": "Final Walkthrough and Punch List",
+      "anchorSlug": "final-walkthrough-and-punch-list",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/final-walkthrough-and-punch-list.html"
+    },
+    {
+      "title": "Aging-in-Place Custom Design",
+      "anchorSlug": "aging-in-place-custom-design",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/aging-in-place-custom-design.html"
+    },
+    {
+      "title": "Multigenerational Custom Layouts",
+      "anchorSlug": "multigenerational-custom-layouts",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multigenerational-custom-layouts.html"
+    },
+    {
+      "title": "Custom Home vs Spec Home Decision",
+      "anchorSlug": "custom-home-vs-spec-home-decision",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-home-vs-spec-home-decision.html"
+    },
+    {
+      "title": "Material Sourcing for Masterpieces",
+      "anchorSlug": "material-sourcing-for-masterpieces",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/material-sourcing-for-masterpieces.html"
+    },
+    {
+      "title": "Why Diditan's 18+ Years Matter",
+      "anchorSlug": "why-diditan-s-18-years-matter",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-diditan-s-18-years-matter.html"
+    },
+    {
+      "title": "Client Testimonials Custom Builds",
+      "anchorSlug": "client-testimonials-custom-builds",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/client-testimonials-custom-builds.html"
+    },
+    {
+      "title": "Budget Contingencies for Customs",
+      "anchorSlug": "budget-contingencies-for-customs",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/budget-contingencies-for-customs.html"
+    },
+    {
+      "title": "Indoor-Outdoor Custom Integration",
+      "anchorSlug": "indoor-outdoor-custom-integration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/indoor-outdoor-custom-integration.html"
+    },
+    {
+      "title": "Historic Home Rebuild Strategies",
+      "anchorSlug": "historic-home-rebuild-strategies",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/historic-home-rebuild-strategies.html"
+    },
+    {
+      "title": "Diditan Custom vs Production Builders",
+      "anchorSlug": "diditan-custom-vs-production-builders",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/diditan-custom-vs-production-builders.html"
+    },
+    {
+      "title": "Diditan Subcontractor Vetting Process",
+      "anchorSlug": "diditan-subcontractor-vetting-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/diditan-subcontractor-vetting-process.html"
+    },
+    {
+      "title": "Post-Construction Defect Resolution",
+      "anchorSlug": "post-construction-defect-resolution",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-construction-defect-resolution.html"
+    },
+    {
+      "title": "Coastal Zone Custom Home Requirements",
+      "anchorSlug": "coastal-zone-custom-home-requirements",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/coastal-zone-custom-home-requirements.html"
+    },
+    {
+      "title": "Navigating 2026 Material Lead Times",
+      "anchorSlug": "navigating-2026-material-lead-times",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-2026-material-lead-times.html"
+    },
+    {
+      "title": "Construction Insurance Coverage Explained",
+      "anchorSlug": "construction-insurance-coverage-explained",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/construction-insurance-coverage-explained.html"
+    },
+    {
+      "title": "Managing Design Changes Mid-Project",
+      "anchorSlug": "managing-design-changes-mid-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/managing-design-changes-mid-project.html"
+    },
+    {
+      "title": "LA Utility Hookups Timeline",
+      "anchorSlug": "la-utility-hookups-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/la-utility-hookups-timeline.html"
+    },
+    {
+      "title": "Custom Landscape Budgeting Guide",
+      "anchorSlug": "custom-landscape-budgeting-guide",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-landscape-budgeting-guide.html"
+    },
+    {
+      "title": "Luxury AV and Wine Cellar Integration",
+      "anchorSlug": "luxury-av-and-wine-cellar-integration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/luxury-av-and-wine-cellar-integration.html"
+    },
+    {
+      "title": "Visiting Diditan Active Job Sites",
+      "anchorSlug": "visiting-diditan-active-job-sites",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/visiting-diditan-active-job-sites.html"
+    },
+    {
+      "title": "Night Weekend Construction Rules",
+      "anchorSlug": "night-weekend-construction-rules",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/night-weekend-construction-rules.html"
+    },
+    {
+      "title": "Trash Debris Removal Management",
+      "anchorSlug": "trash-debris-removal-management",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/trash-debris-removal-management.html"
+    },
+    {
+      "title": "Temporary Power During Construction",
+      "anchorSlug": "temporary-power-during-construction",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/temporary-power-during-construction.html"
+    },
+    {
+      "title": "Final Cleaning Before Walkthrough",
+      "anchorSlug": "final-cleaning-before-walkthrough",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/final-cleaning-before-walkthrough.html"
+    },
+    {
+      "title": "Neighbor Protection During Demo",
+      "anchorSlug": "neighbor-protection-during-demo",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/neighbor-protection-during-demo.html"
+    },
+    {
+      "title": "LA Hillside Grading Permits",
+      "anchorSlug": "la-hillside-grading-permits",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/la-hillside-grading-permits.html"
+    },
+    {
+      "title": "Custom Millwork Lead Times",
+      "anchorSlug": "custom-millwork-lead-times",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-millwork-lead-times.html"
+    },
+    {
+      "title": "Construction Camera Monitoring",
+      "anchorSlug": "construction-camera-monitoring",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/construction-camera-monitoring.html"
+    },
+    {
+      "title": "Soil Testing and Foundation Design",
+      "anchorSlug": "soil-testing-and-foundation-design",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/soil-testing-and-foundation-design.html"
+    },
+    {
+      "title": "Rain Delay Construction Planning",
+      "anchorSlug": "rain-delay-construction-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rain-delay-construction-planning.html"
+    },
+    {
+      "title": "Custom Door Hardware Selection",
+      "anchorSlug": "custom-door-hardware-selection",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-door-hardware-selection.html"
+    },
+    {
+      "title": "Elevator Installation in Customs",
+      "anchorSlug": "elevator-installation-in-customs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/elevator-installation-in-customs.html"
+    },
+    {
+      "title": "Security System Pre-Wiring",
+      "anchorSlug": "security-system-pre-wiring",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/security-system-pre-wiring.html"
+    },
+    {
+      "title": "Custom Staircase Design Process",
+      "anchorSlug": "custom-staircase-design-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-staircase-design-process.html"
+    },
+    {
+      "title": "Whole House Audio Installation",
+      "anchorSlug": "whole-house-audio-installation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/whole-house-audio-installation.html"
+    },
+    {
+      "title": "Beverly Hills Custom Home Guide",
+      "anchorSlug": "beverly-hills-custom-home-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/beverly-hills-custom-home-guide.html"
+    },
+    {
+      "title": "Bel Air Spec Home vs Custom Analysis",
+      "anchorSlug": "bel-air-spec-home-vs-custom-analysis",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bel-air-spec-home-vs-custom-analysis.html"
+    },
+    {
+      "title": "Hollywood Hills Slope Analysis Tool",
+      "anchorSlug": "hollywood-hills-slope-analysis-tool",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hollywood-hills-slope-analysis-tool.html"
+    },
+    {
+      "title": "Brentwood Modern Farmhouse Designs",
+      "anchorSlug": "brentwood-modern-farmhouse-designs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/brentwood-modern-farmhouse-designs.html"
+    },
+    {
+      "title": "Malibu Coastal Commission Checklist",
+      "anchorSlug": "malibu-coastal-commission-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/malibu-coastal-commission-checklist.html"
+    },
+    {
+      "title": "Sherman Oaks Teardown Feasibility",
+      "anchorSlug": "sherman-oaks-teardown-feasibility",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sherman-oaks-teardown-feasibility.html"
+    },
+    {
+      "title": "Encino Tuscan Villa Restoration",
+      "anchorSlug": "encino-tuscan-villa-restoration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/encino-tuscan-villa-restoration.html"
+    },
+    {
+      "title": "Studio City Speculative Development Math",
+      "anchorSlug": "studio-city-speculative-development-math",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/studio-city-speculative-development-math.html"
+    },
+    {
+      "title": "Miracle Mile High-Rise Condo Conversion",
+      "anchorSlug": "miracle-mile-high-rise-condo-conversion",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/miracle-mile-high-rise-condo-conversion.html"
+    },
+    {
+      "title": "Palm Springs Modern Desert Compound",
+      "anchorSlug": "palm-springs-modern-desert-compound",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/palm-springs-modern-desert-compound.html"
+    },
+    {
+      "title": "Choosing Architectural vs Production Designer",
+      "anchorSlug": "choosing-architectural-vs-production-designer",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-architectural-vs-production-designer.html"
+    },
+    {
+      "title": "Private Elevator Installation Guide",
+      "anchorSlug": "private-elevator-installation-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/private-elevator-installation-guide.html"
+    },
+    {
+      "title": "Crestron Home Automation Blueprint",
+      "anchorSlug": "crestron-home-automation-blueprint",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/crestron-home-automation-blueprint.html"
+    },
+    {
+      "title": "Savant vs Control4 Showdown",
+      "anchorSlug": "savant-vs-control4-showdown",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/savant-vs-control4-showdown.html"
+    },
+    {
+      "title": "Sub-Zero Wolf Showcase Kitchens",
+      "anchorSlug": "sub-zero-wolf-showcase-kitchens",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sub-zero-wolf-showcase-kitchens.html"
+    },
+    {
+      "title": "Thermador Freedom Collection Install",
+      "anchorSlug": "thermador-freedom-collection-install",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thermador-freedom-collection-install.html"
+    },
+    {
+      "title": "La Cornue Range Hood Masterclass",
+      "anchorSlug": "la-cornue-range-hood-masterclass",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/la-cornue-range-hood-masterclass.html"
+    },
+    {
+      "title": "Waterworks Bath Showroom Guide",
+      "anchorSlug": "waterworks-bath-showroom-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/waterworks-bath-showroom-guide.html"
+    },
+    {
+      "title": "Ann Sacks Tile Portfolio",
+      "anchorSlug": "ann-sacks-tile-portfolio",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ann-sacks-tile-portfolio.html"
+    },
+    {
+      "title": "RH Interiors Custom Upholstery",
+      "anchorSlug": "rh-interiors-custom-upholstery",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rh-interiors-custom-upholstery.html"
+    },
+    {
+      "title": "Cryptocurrency Construction Payments",
+      "anchorSlug": "cryptocurrency-construction-payments",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cryptocurrency-construction-payments.html"
+    },
+    {
+      "title": "1031 Exchange Custom Home Strategy",
+      "anchorSlug": "1031-exchange-custom-home-strategy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/1031-exchange-custom-home-strategy.html"
+    },
+    {
+      "title": "Cost Segregation Depreciation Schedule",
+      "anchorSlug": "cost-segregation-depreciation-schedule",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-segregation-depreciation-schedule.html"
+    },
+    {
+      "title": "Private Road Access Agreements",
+      "anchorSlug": "private-road-access-agreements",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/private-road-access-agreements.html"
+    },
+    {
+      "title": "Geotechnical Slope Stability Report",
+      "anchorSlug": "geotechnical-slope-stability-report",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/geotechnical-slope-stability-report.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://diditangroup.aiovisibility.net/articles.html",
+    "https://diditangroup.aiovisibility.net/articles/getting-started.html",
+    "https://diditangroup.aiovisibility.net/articles/services-and-process.html",
+    "https://diditangroup.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://diditangroup.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://diditangroup.aiovisibility.net/articles/local-service-guidance.html",
+    "https://diditangroup.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}
